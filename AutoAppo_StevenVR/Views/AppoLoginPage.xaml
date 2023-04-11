@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AutoAppo_StevenVR.Views.AppoLoginPage"
+             Shell.NavBarIsVisible="False"
+             NavigationPage.HasNavigationBar="False"
+               BackgroundColor="#254282">
+    <ContentPage.Content>
+
+        <StackLayout VerticalOptions="Center" 
+                     Padding="50,50,50,250">
+
+            <Entry x:Name="TxtEmail" Placeholder="Email" FontSize="25" Keyboard="Email"/>
+
+
+            <Entry x:Name="TxtPassword" Placeholder="Password" FontSize="25" Keyboard="Default" IsPassword="True" />
+            <Switch x:Name="SwShowPassword" IsToggled="False" Toggled="SwShowPassword_Toggled" />
+
+
+            <Button x:Name="BtnLogin" Text="Login" BackgroundColor="Green" FontSize="25" CornerRadius="10" Clicked="Button_Clicked" />
+
+            <Button x:Name="BtnSignUp" Text="Sign Up" BackgroundColor="#343232" CornerRadius="10" Clicked="BtnSignUp_Clicked"  />
+
+            <Label x:Name="LblPasswordRecovery" Text="Password Recovery...">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="LblPasswordRecovery_Tapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
+ 
