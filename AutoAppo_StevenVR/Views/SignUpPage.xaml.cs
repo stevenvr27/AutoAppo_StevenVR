@@ -9,7 +9,6 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using AutoAppo_StevenVR.Models;
  
-
 namespace AutoAppo_StevenVR.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
@@ -19,7 +18,6 @@ namespace AutoAppo_StevenVR.Views
 		public SignUpPage ()
 		{
           
-            InitializeComponent ();
             BindingContext = viewModel = new UserViewModel();
 
              
