@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AutoAppo_StevenVR.Views.UserManagmentPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20,20,20, 20" BackgroundColor="FloralWhite">
+
+            <Entry x:Name="TxtID" IsEnabled="False" FontSize="Large" VerticalTextAlignment="Center"/>
+
+            <Entry x:Name="TxtEmail" Placeholder="Email" Keyboard="Email">
+                <Entry.Triggers>
+                    <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                        <Setter Property="BackgroundColor" Value="Black"/>
+                        <Setter Property="TextColor" Value="White"/>
+                        <Setter Property="FontAttributes" Value="Bold"/>
+                        <Setter Property="FontSize" Value="25"/>
+                    </Trigger>
+                </Entry.Triggers>
+            </Entry>
+
+            <Entry x:Name="TxtPassword" Placeholder="Password" MaxLength="60">
+                <Entry.Triggers>
+                    <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                        <Setter Property="BackgroundColor" Value="Black"/>
+                        <Setter Property="TextColor" Value="White"/>
+                        <Setter Property="FontAttributes" Value="Bold"/>
+                        <Setter Property="FontSize" Value="25"/>
+                    </Trigger>
+                </Entry.Triggers>
+            </Entry>
+
+            <Entry x:Name="TxtName" Placeholder="Name">
+                <Entry.Triggers>
+                    <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                        <Setter Property="BackgroundColor" Value="Black"/>
+                        <Setter Property="TextColor" Value="White"/>
+                        <Setter Property="FontAttributes" Value="Bold"/>
+                        <Setter Property="FontSize" Value="25"/>
+                    </Trigger>
+                </Entry.Triggers>
+            </Entry>
+
+            <Entry x:Name="TxtPhone" Placeholder="Phone Number" Keyboard="Telephone">
+                <Entry.Triggers>
+                    <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                        <Setter Property="BackgroundColor" Value="Black"/>
+                        <Setter Property="TextColor" Value="White"/>
+                        <Setter Property="FontAttributes" Value="Bold"/>
+                        <Setter Property="FontSize" Value="25"/>
+                    </Trigger>
+                </Entry.Triggers>
+            </Entry>
+
+            <Entry x:Name="TxtIDNumber" Placeholder="ID Number" Keyboard="Numeric">
+                <Entry.Triggers>
+                    <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                        <Setter Property="BackgroundColor" Value="Black"/>
+                        <Setter Property="TextColor" Value="White"/>
+                        <Setter Property="FontAttributes" Value="Bold"/>
+                        <Setter Property="FontSize" Value="25"/>
+                    </Trigger>
+                </Entry.Triggers>
+            </Entry>
+
+            <Entry x:Name="TxtAddress" Placeholder="Address">
+                <Entry.Triggers>
+                    <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                        <Setter Property="BackgroundColor" Value="Black"/>
+                        <Setter Property="TextColor" Value="White"/>
+                        <Setter Property="FontAttributes" Value="Bold"/>
+                        <Setter Property="FontSize" Value="25"/>
+                    </Trigger>
+                </Entry.Triggers>
+            </Entry>
+
+
+            <StackLayout Padding="0,200">
+                <Button x:Name="BtnApply" Text="Apply" BackgroundColor="Green" TextColor="White" FontAttributes="Bold" CornerRadius="10" Clicked="BtnApply_Clicked" />
+
+                <Button x:Name="BtnCancel" Text="Cancel" BackgroundColor="Firebrick" TextColor="White" CornerRadius="10" Clicked="BtnCancel_Clicked" />
+            </StackLayout>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

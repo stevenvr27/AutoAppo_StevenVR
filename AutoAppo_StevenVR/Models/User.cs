@@ -16,28 +16,25 @@ namespace AutoAppo_StevenVR.Models
         {
         }
 
-       
+
         public int UserId { get; set; }
-        public string Name { get; set; } = null;
-        public string Email { get; set; } = null;
-        public string PhoneNumber { get; set; } = null;
-        public string LoginPassword { get; set; } = null;
-        public string CardId { get; set; }
-        public string Address { get; set; }
+        public string Name { get; set; } = null!;
+        public string Email { get; set; } = null!;
+        public string PhoneNumber { get; set; } = null!;
+        public string LoginPassword { get; set; } = null!;
+        public string? CardId { get; set; }
+        public string? Address { get; set; }
         public int UserRoleId { get; set; }
         public int UserStatusId { get; set; }
 
-        public virtual UserRole UserRole { get; set; } = null;
-        public virtual UserStatus UserStatus { get; set; } = null;
+        public virtual UserRole? UserRole { get; set; } = null;
+        public virtual UserStatus? UserStatus { get; set; } = null;
 
         
         public async Task<bool> ValidateLogin()
         {
             try
             {
-
-              
-
                 string RouteSufix = string.Format("Users/ValidateUserLogin?pUserName={0}&pPassword={1}",
                                                   this.Email, this.LoginPassword);
 
@@ -98,8 +95,6 @@ namespace AutoAppo_StevenVR.Models
                 string SerializedModel = JsonConvert.SerializeObject(this);
 
                 Request.AddBody(SerializedModel, GlobalObjects.MimeType);
-
-                //ejecución de la llamada al controlador 
                 RestResponse response = await client.ExecuteAsync(Request);
 
                 HttpStatusCode statusCode = response.StatusCode;

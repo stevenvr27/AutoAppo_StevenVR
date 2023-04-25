@@ -25,5204 +25,6 @@ namespace AutoAppo_StevenVR.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Acr.UserDialogs.Resource.Animation.abc_fade_in = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_fade_in;
-			global::Acr.UserDialogs.Resource.Animation.abc_fade_out = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_fade_out;
-			global::Acr.UserDialogs.Resource.Animation.abc_grow_fade_in_from_bottom = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::Acr.UserDialogs.Resource.Animation.abc_popup_enter = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_popup_enter;
-			global::Acr.UserDialogs.Resource.Animation.abc_popup_exit = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_popup_exit;
-			global::Acr.UserDialogs.Resource.Animation.abc_shrink_fade_out_from_bottom = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::Acr.UserDialogs.Resource.Animation.abc_slide_in_bottom = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::Acr.UserDialogs.Resource.Animation.abc_slide_in_top = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_slide_in_top;
-			global::Acr.UserDialogs.Resource.Animation.abc_slide_out_bottom = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::Acr.UserDialogs.Resource.Animation.abc_slide_out_top = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_slide_out_top;
-			global::Acr.UserDialogs.Resource.Animation.abc_tooltip_enter = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_tooltip_enter;
-			global::Acr.UserDialogs.Resource.Animation.abc_tooltip_exit = global::AutoAppo_StevenVR.Droid.Resource.Animation.abc_tooltip_exit;
-			global::Acr.UserDialogs.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
-			global::Acr.UserDialogs.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::AutoAppo_StevenVR.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
-			global::Acr.UserDialogs.Resource.Animation.design_bottom_sheet_slide_in = global::AutoAppo_StevenVR.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::Acr.UserDialogs.Resource.Animation.design_bottom_sheet_slide_out = global::AutoAppo_StevenVR.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::Acr.UserDialogs.Resource.Animation.design_snackbar_in = global::AutoAppo_StevenVR.Droid.Resource.Animation.design_snackbar_in;
-			global::Acr.UserDialogs.Resource.Animation.design_snackbar_out = global::AutoAppo_StevenVR.Droid.Resource.Animation.design_snackbar_out;
-			global::Acr.UserDialogs.Resource.Animation.fragment_fast_out_extra_slow_in = global::AutoAppo_StevenVR.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
-			global::Acr.UserDialogs.Resource.Animation.mtrl_bottom_sheet_slide_in = global::AutoAppo_StevenVR.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
-			global::Acr.UserDialogs.Resource.Animation.mtrl_bottom_sheet_slide_out = global::AutoAppo_StevenVR.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
-			global::Acr.UserDialogs.Resource.Animation.mtrl_card_lowers_interpolator = global::AutoAppo_StevenVR.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
-			global::Acr.UserDialogs.Resource.Animator.design_appbar_state_list_animator = global::AutoAppo_StevenVR.Droid.Resource.Animator.design_appbar_state_list_animator;
-			global::Acr.UserDialogs.Resource.Animator.design_fab_hide_motion_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.design_fab_hide_motion_spec;
-			global::Acr.UserDialogs.Resource.Animator.design_fab_show_motion_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.design_fab_show_motion_spec;
-			global::Acr.UserDialogs.Resource.Animator.fragment_close_enter = global::AutoAppo_StevenVR.Droid.Resource.Animator.fragment_close_enter;
-			global::Acr.UserDialogs.Resource.Animator.fragment_close_exit = global::AutoAppo_StevenVR.Droid.Resource.Animator.fragment_close_exit;
-			global::Acr.UserDialogs.Resource.Animator.fragment_fade_enter = global::AutoAppo_StevenVR.Droid.Resource.Animator.fragment_fade_enter;
-			global::Acr.UserDialogs.Resource.Animator.fragment_fade_exit = global::AutoAppo_StevenVR.Droid.Resource.Animator.fragment_fade_exit;
-			global::Acr.UserDialogs.Resource.Animator.fragment_open_enter = global::AutoAppo_StevenVR.Droid.Resource.Animator.fragment_open_enter;
-			global::Acr.UserDialogs.Resource.Animator.fragment_open_exit = global::AutoAppo_StevenVR.Droid.Resource.Animator.fragment_open_exit;
-			global::Acr.UserDialogs.Resource.Animator.linear_indeterminate_line1_head_interpolator = global::AutoAppo_StevenVR.Droid.Resource.Animator.linear_indeterminate_line1_head_interpolator;
-			global::Acr.UserDialogs.Resource.Animator.linear_indeterminate_line1_tail_interpolator = global::AutoAppo_StevenVR.Droid.Resource.Animator.linear_indeterminate_line1_tail_interpolator;
-			global::Acr.UserDialogs.Resource.Animator.linear_indeterminate_line2_head_interpolator = global::AutoAppo_StevenVR.Droid.Resource.Animator.linear_indeterminate_line2_head_interpolator;
-			global::Acr.UserDialogs.Resource.Animator.linear_indeterminate_line2_tail_interpolator = global::AutoAppo_StevenVR.Droid.Resource.Animator.linear_indeterminate_line2_tail_interpolator;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_btn_state_list_anim = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_btn_state_list_anim;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_card_state_list_anim = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_card_state_list_anim;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_chip_state_list_anim = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_chip_state_list_anim;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_extended_fab_change_size_collapse_motion_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_extended_fab_change_size_collapse_motion_spec;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_extended_fab_change_size_expand_motion_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_extended_fab_change_size_expand_motion_spec;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_extended_fab_state_list_animator = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_fab_hide_motion_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_fab_show_motion_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
-			global::Acr.UserDialogs.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::AutoAppo_StevenVR.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarDivider = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarDivider;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarItemBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarItemBackground;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarPopupTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarSize;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarSplitStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarTabBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarTabStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarTabStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarTabTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarTheme;
-			global::Acr.UserDialogs.Resource.Attribute.actionBarWidgetTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::Acr.UserDialogs.Resource.Attribute.actionButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionDropDownStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionDropDownStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionLayout;
-			global::Acr.UserDialogs.Resource.Attribute.actionMenuTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.actionMenuTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionMenuTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeBackground;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeCloseButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeCloseContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeCloseContentDescription;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeCloseDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeCopyDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeCutDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeFindDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.actionModePasteDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.actionModePopupWindowStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeSelectAllDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeShareDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeSplitBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeTheme;
-			global::Acr.UserDialogs.Resource.Attribute.actionModeWebSearchDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.actionOverflowButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionOverflowMenuStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::Acr.UserDialogs.Resource.Attribute.actionProviderClass = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionProviderClass;
-			global::Acr.UserDialogs.Resource.Attribute.actionTextColorAlpha = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionTextColorAlpha;
-			global::Acr.UserDialogs.Resource.Attribute.actionViewClass = global::AutoAppo_StevenVR.Droid.Resource.Attribute.actionViewClass;
-			global::Acr.UserDialogs.Resource.Attribute.activityChooserViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.ahBarColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahBarColor;
-			global::Acr.UserDialogs.Resource.Attribute.ahBarLength = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahBarLength;
-			global::Acr.UserDialogs.Resource.Attribute.ahBarWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahBarWidth;
-			global::Acr.UserDialogs.Resource.Attribute.ahCircleColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahCircleColor;
-			global::Acr.UserDialogs.Resource.Attribute.ahDelayMillis = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahDelayMillis;
-			global::Acr.UserDialogs.Resource.Attribute.ahRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahRadius;
-			global::Acr.UserDialogs.Resource.Attribute.ahRimColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahRimColor;
-			global::Acr.UserDialogs.Resource.Attribute.ahRimWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahRimWidth;
-			global::Acr.UserDialogs.Resource.Attribute.ahSpinSpeed = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahSpinSpeed;
-			global::Acr.UserDialogs.Resource.Attribute.ahText = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahText;
-			global::Acr.UserDialogs.Resource.Attribute.ahTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.ahTextSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahTextSize;
-			global::Acr.UserDialogs.Resource.Attribute.alertDialogButtonGroupStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::Acr.UserDialogs.Resource.Attribute.alertDialogCenterButtons = global::AutoAppo_StevenVR.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::Acr.UserDialogs.Resource.Attribute.alertDialogStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.alertDialogStyle;
-			global::Acr.UserDialogs.Resource.Attribute.alertDialogTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.alertDialogTheme;
-			global::Acr.UserDialogs.Resource.Attribute.allowStacking = global::AutoAppo_StevenVR.Droid.Resource.Attribute.allowStacking;
-			global::Acr.UserDialogs.Resource.Attribute.alpha = global::AutoAppo_StevenVR.Droid.Resource.Attribute.alpha;
-			global::Acr.UserDialogs.Resource.Attribute.alphabeticModifiers = global::AutoAppo_StevenVR.Droid.Resource.Attribute.alphabeticModifiers;
-			global::Acr.UserDialogs.Resource.Attribute.altSrc = global::AutoAppo_StevenVR.Droid.Resource.Attribute.altSrc;
-			global::Acr.UserDialogs.Resource.Attribute.animateCircleAngleTo = global::AutoAppo_StevenVR.Droid.Resource.Attribute.animateCircleAngleTo;
-			global::Acr.UserDialogs.Resource.Attribute.animateRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Attribute.animateRelativeTo;
-			global::Acr.UserDialogs.Resource.Attribute.animationMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.animationMode;
-			global::Acr.UserDialogs.Resource.Attribute.appBarLayoutStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.appBarLayoutStyle;
-			global::Acr.UserDialogs.Resource.Attribute.applyMotionScene = global::AutoAppo_StevenVR.Droid.Resource.Attribute.applyMotionScene;
-			global::Acr.UserDialogs.Resource.Attribute.arcMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.arcMode;
-			global::Acr.UserDialogs.Resource.Attribute.arrowHeadLength = global::AutoAppo_StevenVR.Droid.Resource.Attribute.arrowHeadLength;
-			global::Acr.UserDialogs.Resource.Attribute.arrowShaftLength = global::AutoAppo_StevenVR.Droid.Resource.Attribute.arrowShaftLength;
-			global::Acr.UserDialogs.Resource.Attribute.attributeName = global::AutoAppo_StevenVR.Droid.Resource.Attribute.attributeName;
-			global::Acr.UserDialogs.Resource.Attribute.autoCompleteMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.autoCompleteMode;
-			global::Acr.UserDialogs.Resource.Attribute.autoCompleteTextViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.autoSizeMaxTextSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.autoSizeMaxTextSize;
-			global::Acr.UserDialogs.Resource.Attribute.autoSizeMinTextSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.autoSizeMinTextSize;
-			global::Acr.UserDialogs.Resource.Attribute.autoSizePresetSizes = global::AutoAppo_StevenVR.Droid.Resource.Attribute.autoSizePresetSizes;
-			global::Acr.UserDialogs.Resource.Attribute.autoSizeStepGranularity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.autoSizeStepGranularity;
-			global::Acr.UserDialogs.Resource.Attribute.autoSizeTextType = global::AutoAppo_StevenVR.Droid.Resource.Attribute.autoSizeTextType;
-			global::Acr.UserDialogs.Resource.Attribute.autoTransition = global::AutoAppo_StevenVR.Droid.Resource.Attribute.autoTransition;
-			global::Acr.UserDialogs.Resource.Attribute.background = global::AutoAppo_StevenVR.Droid.Resource.Attribute.background;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundColor;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundInsetBottom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundInsetBottom;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundInsetEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundInsetEnd;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundInsetStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundInsetStart;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundInsetTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundInsetTop;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundOverlayColorAlpha = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundSplit = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundSplit;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundStacked = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundStacked;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundTint;
-			global::Acr.UserDialogs.Resource.Attribute.backgroundTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.backgroundTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.badgeGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.badgeGravity;
-			global::Acr.UserDialogs.Resource.Attribute.badgeStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.badgeStyle;
-			global::Acr.UserDialogs.Resource.Attribute.badgeTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.badgeTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.barLength = global::AutoAppo_StevenVR.Droid.Resource.Attribute.barLength;
-			global::Acr.UserDialogs.Resource.Attribute.barrierAllowsGoneWidgets = global::AutoAppo_StevenVR.Droid.Resource.Attribute.barrierAllowsGoneWidgets;
-			global::Acr.UserDialogs.Resource.Attribute.barrierDirection = global::AutoAppo_StevenVR.Droid.Resource.Attribute.barrierDirection;
-			global::Acr.UserDialogs.Resource.Attribute.barrierMargin = global::AutoAppo_StevenVR.Droid.Resource.Attribute.barrierMargin;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_autoHide = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_autoHide;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_autoShrink = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_autoShrink;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_draggable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_draggable;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_expandedOffset = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_expandedOffset;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_fitToContents = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_fitToContents;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_halfExpandedRatio = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_halfExpandedRatio;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_hideable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_hideable;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_overlapTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_overlapTop;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_peekHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_peekHeight;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_saveFlags = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_saveFlags;
-			global::Acr.UserDialogs.Resource.Attribute.behavior_skipCollapsed = global::AutoAppo_StevenVR.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::Acr.UserDialogs.Resource.Attribute.blendSrc = global::AutoAppo_StevenVR.Droid.Resource.Attribute.blendSrc;
-			global::Acr.UserDialogs.Resource.Attribute.borderlessButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.borderRound = global::AutoAppo_StevenVR.Droid.Resource.Attribute.borderRound;
-			global::Acr.UserDialogs.Resource.Attribute.borderRoundPercent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.borderRoundPercent;
-			global::Acr.UserDialogs.Resource.Attribute.borderWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.borderWidth;
-			global::Acr.UserDialogs.Resource.Attribute.bottomAppBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.bottomAppBarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.bottomNavigationStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.bottomNavigationStyle;
-			global::Acr.UserDialogs.Resource.Attribute.bottomSheetDialogTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::Acr.UserDialogs.Resource.Attribute.bottomSheetStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.bottomSheetStyle;
-			global::Acr.UserDialogs.Resource.Attribute.boxBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxBackgroundColor;
-			global::Acr.UserDialogs.Resource.Attribute.boxBackgroundMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxBackgroundMode;
-			global::Acr.UserDialogs.Resource.Attribute.boxCollapsedPaddingTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxCollapsedPaddingTop;
-			global::Acr.UserDialogs.Resource.Attribute.boxCornerRadiusBottomEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
-			global::Acr.UserDialogs.Resource.Attribute.boxCornerRadiusBottomStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
-			global::Acr.UserDialogs.Resource.Attribute.boxCornerRadiusTopEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
-			global::Acr.UserDialogs.Resource.Attribute.boxCornerRadiusTopStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxCornerRadiusTopStart;
-			global::Acr.UserDialogs.Resource.Attribute.boxStrokeColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxStrokeColor;
-			global::Acr.UserDialogs.Resource.Attribute.boxStrokeErrorColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxStrokeErrorColor;
-			global::Acr.UserDialogs.Resource.Attribute.boxStrokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxStrokeWidth;
-			global::Acr.UserDialogs.Resource.Attribute.boxStrokeWidthFocused = global::AutoAppo_StevenVR.Droid.Resource.Attribute.boxStrokeWidthFocused;
-			global::Acr.UserDialogs.Resource.Attribute.brightness = global::AutoAppo_StevenVR.Droid.Resource.Attribute.brightness;
-			global::Acr.UserDialogs.Resource.Attribute.buttonBarButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.buttonBarNegativeButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.buttonBarNeutralButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.buttonBarPositiveButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.buttonBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonBarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.buttonCompat = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonCompat;
-			global::Acr.UserDialogs.Resource.Attribute.buttonGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonGravity;
-			global::Acr.UserDialogs.Resource.Attribute.buttonIconDimen = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonIconDimen;
-			global::Acr.UserDialogs.Resource.Attribute.buttonPanelSideLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::Acr.UserDialogs.Resource.Attribute.buttonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.buttonStyleSmall = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonStyleSmall;
-			global::Acr.UserDialogs.Resource.Attribute.buttonTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonTint;
-			global::Acr.UserDialogs.Resource.Attribute.buttonTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.buttonTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.cardBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cardBackgroundColor;
-			global::Acr.UserDialogs.Resource.Attribute.cardCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cardCornerRadius;
-			global::Acr.UserDialogs.Resource.Attribute.cardElevation = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cardElevation;
-			global::Acr.UserDialogs.Resource.Attribute.cardForegroundColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cardForegroundColor;
-			global::Acr.UserDialogs.Resource.Attribute.cardMaxElevation = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cardMaxElevation;
-			global::Acr.UserDialogs.Resource.Attribute.cardPreventCornerOverlap = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::Acr.UserDialogs.Resource.Attribute.cardUseCompatPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::Acr.UserDialogs.Resource.Attribute.cardViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cardViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_backwardTransition = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_backwardTransition;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_emptyViewsBehavior = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_emptyViewsBehavior;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_firstView = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_firstView;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_forwardTransition = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_forwardTransition;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_infinite = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_infinite;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_nextState = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_nextState;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_previousState = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_previousState;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_touchUpMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_touchUpMode;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_touchUp_dampeningFactor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_touchUp_dampeningFactor;
-			global::Acr.UserDialogs.Resource.Attribute.carousel_touchUp_velocityThreshold = global::AutoAppo_StevenVR.Droid.Resource.Attribute.carousel_touchUp_velocityThreshold;
-			global::Acr.UserDialogs.Resource.Attribute.chainUseRtl = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chainUseRtl;
-			global::Acr.UserDialogs.Resource.Attribute.checkboxStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkboxStyle;
-			global::Acr.UserDialogs.Resource.Attribute.checkedButton = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedButton;
-			global::Acr.UserDialogs.Resource.Attribute.checkedChip = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedChip;
-			global::Acr.UserDialogs.Resource.Attribute.checkedIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedIcon;
-			global::Acr.UserDialogs.Resource.Attribute.checkedIconEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedIconEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.checkedIconMargin = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedIconMargin;
-			global::Acr.UserDialogs.Resource.Attribute.checkedIconSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedIconSize;
-			global::Acr.UserDialogs.Resource.Attribute.checkedIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.checkedIconVisible = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedIconVisible;
-			global::Acr.UserDialogs.Resource.Attribute.checkedTextViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.chipBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipBackgroundColor;
-			global::Acr.UserDialogs.Resource.Attribute.chipCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipCornerRadius;
-			global::Acr.UserDialogs.Resource.Attribute.chipEndPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipEndPadding;
-			global::Acr.UserDialogs.Resource.Attribute.chipGroupStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipGroupStyle;
-			global::Acr.UserDialogs.Resource.Attribute.chipIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipIcon;
-			global::Acr.UserDialogs.Resource.Attribute.chipIconEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipIconEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.chipIconSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipIconSize;
-			global::Acr.UserDialogs.Resource.Attribute.chipIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.chipIconVisible = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipIconVisible;
-			global::Acr.UserDialogs.Resource.Attribute.chipMinHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipMinHeight;
-			global::Acr.UserDialogs.Resource.Attribute.chipMinTouchTargetSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipMinTouchTargetSize;
-			global::Acr.UserDialogs.Resource.Attribute.chipSpacing = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipSpacing;
-			global::Acr.UserDialogs.Resource.Attribute.chipSpacingHorizontal = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipSpacingHorizontal;
-			global::Acr.UserDialogs.Resource.Attribute.chipSpacingVertical = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipSpacingVertical;
-			global::Acr.UserDialogs.Resource.Attribute.chipStandaloneStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipStandaloneStyle;
-			global::Acr.UserDialogs.Resource.Attribute.chipStartPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipStartPadding;
-			global::Acr.UserDialogs.Resource.Attribute.chipStrokeColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipStrokeColor;
-			global::Acr.UserDialogs.Resource.Attribute.chipStrokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipStrokeWidth;
-			global::Acr.UserDialogs.Resource.Attribute.chipStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipStyle;
-			global::Acr.UserDialogs.Resource.Attribute.chipSurfaceColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.chipSurfaceColor;
-			global::Acr.UserDialogs.Resource.Attribute.circleRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.circleRadius;
-			global::Acr.UserDialogs.Resource.Attribute.circularflow_angles = global::AutoAppo_StevenVR.Droid.Resource.Attribute.circularflow_angles;
-			global::Acr.UserDialogs.Resource.Attribute.circularflow_defaultAngle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.circularflow_defaultAngle;
-			global::Acr.UserDialogs.Resource.Attribute.circularflow_defaultRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.circularflow_defaultRadius;
-			global::Acr.UserDialogs.Resource.Attribute.circularflow_radiusInDP = global::AutoAppo_StevenVR.Droid.Resource.Attribute.circularflow_radiusInDP;
-			global::Acr.UserDialogs.Resource.Attribute.circularflow_viewCenter = global::AutoAppo_StevenVR.Droid.Resource.Attribute.circularflow_viewCenter;
-			global::Acr.UserDialogs.Resource.Attribute.circularProgressIndicatorStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.circularProgressIndicatorStyle;
-			global::Acr.UserDialogs.Resource.Attribute.clearsTag = global::AutoAppo_StevenVR.Droid.Resource.Attribute.clearsTag;
-			global::Acr.UserDialogs.Resource.Attribute.clickAction = global::AutoAppo_StevenVR.Droid.Resource.Attribute.clickAction;
-			global::Acr.UserDialogs.Resource.Attribute.clockFaceBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.clockFaceBackgroundColor;
-			global::Acr.UserDialogs.Resource.Attribute.clockHandColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.clockHandColor;
-			global::Acr.UserDialogs.Resource.Attribute.clockIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.clockIcon;
-			global::Acr.UserDialogs.Resource.Attribute.clockNumberTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.clockNumberTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.closeIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.closeIcon;
-			global::Acr.UserDialogs.Resource.Attribute.closeIconEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.closeIconEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.closeIconEndPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.closeIconEndPadding;
-			global::Acr.UserDialogs.Resource.Attribute.closeIconSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.closeIconSize;
-			global::Acr.UserDialogs.Resource.Attribute.closeIconStartPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.closeIconStartPadding;
-			global::Acr.UserDialogs.Resource.Attribute.closeIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.closeIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.closeIconVisible = global::AutoAppo_StevenVR.Droid.Resource.Attribute.closeIconVisible;
-			global::Acr.UserDialogs.Resource.Attribute.closeItemLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.closeItemLayout;
-			global::Acr.UserDialogs.Resource.Attribute.collapseContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.collapseContentDescription;
-			global::Acr.UserDialogs.Resource.Attribute.collapsedSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.collapsedSize;
-			global::Acr.UserDialogs.Resource.Attribute.collapsedTitleGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::Acr.UserDialogs.Resource.Attribute.collapsedTitleTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.collapseIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.collapseIcon;
-			global::Acr.UserDialogs.Resource.Attribute.collapsingToolbarLayoutStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.collapsingToolbarLayoutStyle;
-			global::Acr.UserDialogs.Resource.Attribute.color = global::AutoAppo_StevenVR.Droid.Resource.Attribute.color;
-			global::Acr.UserDialogs.Resource.Attribute.colorAccent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorAccent;
-			global::Acr.UserDialogs.Resource.Attribute.colorBackgroundFloating = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorBackgroundFloating;
-			global::Acr.UserDialogs.Resource.Attribute.colorButtonNormal = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorButtonNormal;
-			global::Acr.UserDialogs.Resource.Attribute.colorControlActivated = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorControlActivated;
-			global::Acr.UserDialogs.Resource.Attribute.colorControlHighlight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorControlHighlight;
-			global::Acr.UserDialogs.Resource.Attribute.colorControlNormal = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorControlNormal;
-			global::Acr.UserDialogs.Resource.Attribute.colorError = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorError;
-			global::Acr.UserDialogs.Resource.Attribute.colorOnBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorOnBackground;
-			global::Acr.UserDialogs.Resource.Attribute.colorOnError = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorOnError;
-			global::Acr.UserDialogs.Resource.Attribute.colorOnPrimary = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorOnPrimary;
-			global::Acr.UserDialogs.Resource.Attribute.colorOnPrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorOnPrimarySurface;
-			global::Acr.UserDialogs.Resource.Attribute.colorOnSecondary = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorOnSecondary;
-			global::Acr.UserDialogs.Resource.Attribute.colorOnSurface = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorOnSurface;
-			global::Acr.UserDialogs.Resource.Attribute.colorPrimary = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorPrimary;
-			global::Acr.UserDialogs.Resource.Attribute.colorPrimaryDark = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorPrimaryDark;
-			global::Acr.UserDialogs.Resource.Attribute.colorPrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorPrimarySurface;
-			global::Acr.UserDialogs.Resource.Attribute.colorPrimaryVariant = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorPrimaryVariant;
-			global::Acr.UserDialogs.Resource.Attribute.colorSecondary = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorSecondary;
-			global::Acr.UserDialogs.Resource.Attribute.colorSecondaryVariant = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorSecondaryVariant;
-			global::Acr.UserDialogs.Resource.Attribute.colorSurface = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorSurface;
-			global::Acr.UserDialogs.Resource.Attribute.colorSwitchThumbNormal = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::Acr.UserDialogs.Resource.Attribute.commitIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.commitIcon;
-			global::Acr.UserDialogs.Resource.Attribute.constraintRotate = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraintRotate;
-			global::Acr.UserDialogs.Resource.Attribute.constraints = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraints;
-			global::Acr.UserDialogs.Resource.Attribute.constraintSet = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraintSet;
-			global::Acr.UserDialogs.Resource.Attribute.constraintSetEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraintSetEnd;
-			global::Acr.UserDialogs.Resource.Attribute.constraintSetStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraintSetStart;
-			global::Acr.UserDialogs.Resource.Attribute.constraint_referenced_ids = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraint_referenced_ids;
-			global::Acr.UserDialogs.Resource.Attribute.constraint_referenced_tags = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraint_referenced_tags;
-			global::Acr.UserDialogs.Resource.Attribute.content = global::AutoAppo_StevenVR.Droid.Resource.Attribute.content;
-			global::Acr.UserDialogs.Resource.Attribute.contentDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentDescription;
-			global::Acr.UserDialogs.Resource.Attribute.contentInsetEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentInsetEnd;
-			global::Acr.UserDialogs.Resource.Attribute.contentInsetEndWithActions = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentInsetEndWithActions;
-			global::Acr.UserDialogs.Resource.Attribute.contentInsetLeft = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentInsetLeft;
-			global::Acr.UserDialogs.Resource.Attribute.contentInsetRight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentInsetRight;
-			global::Acr.UserDialogs.Resource.Attribute.contentInsetStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentInsetStart;
-			global::Acr.UserDialogs.Resource.Attribute.contentInsetStartWithNavigation = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentInsetStartWithNavigation;
-			global::Acr.UserDialogs.Resource.Attribute.contentPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentPadding;
-			global::Acr.UserDialogs.Resource.Attribute.contentPaddingBottom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentPaddingBottom;
-			global::Acr.UserDialogs.Resource.Attribute.contentPaddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentPaddingEnd;
-			global::Acr.UserDialogs.Resource.Attribute.contentPaddingLeft = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentPaddingLeft;
-			global::Acr.UserDialogs.Resource.Attribute.contentPaddingRight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentPaddingRight;
-			global::Acr.UserDialogs.Resource.Attribute.contentPaddingStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentPaddingStart;
-			global::Acr.UserDialogs.Resource.Attribute.contentPaddingTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentPaddingTop;
-			global::Acr.UserDialogs.Resource.Attribute.contentScrim = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contentScrim;
-			global::Acr.UserDialogs.Resource.Attribute.contrast = global::AutoAppo_StevenVR.Droid.Resource.Attribute.contrast;
-			global::Acr.UserDialogs.Resource.Attribute.controlBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.controlBackground;
-			global::Acr.UserDialogs.Resource.Attribute.coordinatorLayoutStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.coordinatorLayoutStyle;
-			global::Acr.UserDialogs.Resource.Attribute.cornerFamily = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerFamily;
-			global::Acr.UserDialogs.Resource.Attribute.cornerFamilyBottomLeft = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerFamilyBottomLeft;
-			global::Acr.UserDialogs.Resource.Attribute.cornerFamilyBottomRight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerFamilyBottomRight;
-			global::Acr.UserDialogs.Resource.Attribute.cornerFamilyTopLeft = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerFamilyTopLeft;
-			global::Acr.UserDialogs.Resource.Attribute.cornerFamilyTopRight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerFamilyTopRight;
-			global::Acr.UserDialogs.Resource.Attribute.cornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerRadius;
-			global::Acr.UserDialogs.Resource.Attribute.cornerSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerSize;
-			global::Acr.UserDialogs.Resource.Attribute.cornerSizeBottomLeft = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerSizeBottomLeft;
-			global::Acr.UserDialogs.Resource.Attribute.cornerSizeBottomRight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerSizeBottomRight;
-			global::Acr.UserDialogs.Resource.Attribute.cornerSizeTopLeft = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerSizeTopLeft;
-			global::Acr.UserDialogs.Resource.Attribute.cornerSizeTopRight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.cornerSizeTopRight;
-			global::Acr.UserDialogs.Resource.Attribute.counterEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.counterEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.counterMaxLength = global::AutoAppo_StevenVR.Droid.Resource.Attribute.counterMaxLength;
-			global::Acr.UserDialogs.Resource.Attribute.counterOverflowTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.counterOverflowTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.counterOverflowTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.counterTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.counterTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.counterTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.counterTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.crossfade = global::AutoAppo_StevenVR.Droid.Resource.Attribute.crossfade;
-			global::Acr.UserDialogs.Resource.Attribute.currentState = global::AutoAppo_StevenVR.Droid.Resource.Attribute.currentState;
-			global::Acr.UserDialogs.Resource.Attribute.curveFit = global::AutoAppo_StevenVR.Droid.Resource.Attribute.curveFit;
-			global::Acr.UserDialogs.Resource.Attribute.customBoolean = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customBoolean;
-			global::Acr.UserDialogs.Resource.Attribute.customColorDrawableValue = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customColorDrawableValue;
-			global::Acr.UserDialogs.Resource.Attribute.customColorValue = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customColorValue;
-			global::Acr.UserDialogs.Resource.Attribute.customDimension = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customDimension;
-			global::Acr.UserDialogs.Resource.Attribute.customFloatValue = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customFloatValue;
-			global::Acr.UserDialogs.Resource.Attribute.customIntegerValue = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customIntegerValue;
-			global::Acr.UserDialogs.Resource.Attribute.customNavigationLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customNavigationLayout;
-			global::Acr.UserDialogs.Resource.Attribute.customPixelDimension = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customPixelDimension;
-			global::Acr.UserDialogs.Resource.Attribute.customReference = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customReference;
-			global::Acr.UserDialogs.Resource.Attribute.customStringValue = global::AutoAppo_StevenVR.Droid.Resource.Attribute.customStringValue;
-			global::Acr.UserDialogs.Resource.Attribute.dayInvalidStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dayInvalidStyle;
-			global::Acr.UserDialogs.Resource.Attribute.daySelectedStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.daySelectedStyle;
-			global::Acr.UserDialogs.Resource.Attribute.dayStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dayStyle;
-			global::Acr.UserDialogs.Resource.Attribute.dayTodayStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dayTodayStyle;
-			global::Acr.UserDialogs.Resource.Attribute.defaultDuration = global::AutoAppo_StevenVR.Droid.Resource.Attribute.defaultDuration;
-			global::Acr.UserDialogs.Resource.Attribute.defaultQueryHint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.defaultQueryHint;
-			global::Acr.UserDialogs.Resource.Attribute.defaultState = global::AutoAppo_StevenVR.Droid.Resource.Attribute.defaultState;
-			global::Acr.UserDialogs.Resource.Attribute.deltaPolarAngle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.deltaPolarAngle;
-			global::Acr.UserDialogs.Resource.Attribute.deltaPolarRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.deltaPolarRadius;
-			global::Acr.UserDialogs.Resource.Attribute.deriveConstraintsFrom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.deriveConstraintsFrom;
-			global::Acr.UserDialogs.Resource.Attribute.dialogCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dialogCornerRadius;
-			global::Acr.UserDialogs.Resource.Attribute.dialogPreferredPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::Acr.UserDialogs.Resource.Attribute.dialogTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dialogTheme;
-			global::Acr.UserDialogs.Resource.Attribute.displayOptions = global::AutoAppo_StevenVR.Droid.Resource.Attribute.displayOptions;
-			global::Acr.UserDialogs.Resource.Attribute.divider = global::AutoAppo_StevenVR.Droid.Resource.Attribute.divider;
-			global::Acr.UserDialogs.Resource.Attribute.dividerHorizontal = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dividerHorizontal;
-			global::Acr.UserDialogs.Resource.Attribute.dividerPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dividerPadding;
-			global::Acr.UserDialogs.Resource.Attribute.dividerVertical = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dividerVertical;
-			global::Acr.UserDialogs.Resource.Attribute.dragDirection = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dragDirection;
-			global::Acr.UserDialogs.Resource.Attribute.dragScale = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dragScale;
-			global::Acr.UserDialogs.Resource.Attribute.dragThreshold = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dragThreshold;
-			global::Acr.UserDialogs.Resource.Attribute.drawableBottomCompat = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableBottomCompat;
-			global::Acr.UserDialogs.Resource.Attribute.drawableEndCompat = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableEndCompat;
-			global::Acr.UserDialogs.Resource.Attribute.drawableLeftCompat = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableLeftCompat;
-			global::Acr.UserDialogs.Resource.Attribute.drawableRightCompat = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableRightCompat;
-			global::Acr.UserDialogs.Resource.Attribute.drawableSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableSize;
-			global::Acr.UserDialogs.Resource.Attribute.drawableStartCompat = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableStartCompat;
-			global::Acr.UserDialogs.Resource.Attribute.drawableTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableTint;
-			global::Acr.UserDialogs.Resource.Attribute.drawableTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.drawableTopCompat = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawableTopCompat;
-			global::Acr.UserDialogs.Resource.Attribute.drawerArrowStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Acr.UserDialogs.Resource.Attribute.drawerLayoutStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawerLayoutStyle;
-			global::Acr.UserDialogs.Resource.Attribute.drawPath = global::AutoAppo_StevenVR.Droid.Resource.Attribute.drawPath;
-			global::Acr.UserDialogs.Resource.Attribute.dropdownListPreferredItemHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::Acr.UserDialogs.Resource.Attribute.dropDownListViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.duration = global::AutoAppo_StevenVR.Droid.Resource.Attribute.duration;
-			global::Acr.UserDialogs.Resource.Attribute.editTextBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.editTextBackground;
-			global::Acr.UserDialogs.Resource.Attribute.editTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.editTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.editTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.editTextStyle;
-			global::Acr.UserDialogs.Resource.Attribute.elevation = global::AutoAppo_StevenVR.Droid.Resource.Attribute.elevation;
-			global::Acr.UserDialogs.Resource.Attribute.elevationOverlayColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.elevationOverlayColor;
-			global::Acr.UserDialogs.Resource.Attribute.elevationOverlayEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.elevationOverlayEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.enableEdgeToEdge = global::AutoAppo_StevenVR.Droid.Resource.Attribute.enableEdgeToEdge;
-			global::Acr.UserDialogs.Resource.Attribute.endIconCheckable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.endIconCheckable;
-			global::Acr.UserDialogs.Resource.Attribute.endIconContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.endIconContentDescription;
-			global::Acr.UserDialogs.Resource.Attribute.endIconDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.endIconDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.endIconMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.endIconMode;
-			global::Acr.UserDialogs.Resource.Attribute.endIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.endIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.endIconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.endIconTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.enforceMaterialTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.enforceMaterialTheme;
-			global::Acr.UserDialogs.Resource.Attribute.enforceTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.enforceTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.ensureMinTouchTargetSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ensureMinTouchTargetSize;
-			global::Acr.UserDialogs.Resource.Attribute.errorContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.errorContentDescription;
-			global::Acr.UserDialogs.Resource.Attribute.errorEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.errorEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.errorIconDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.errorIconDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.errorIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.errorIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.errorIconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.errorIconTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.errorTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.errorTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.errorTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.errorTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.expandActivityOverflowButtonDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.expanded = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expanded;
-			global::Acr.UserDialogs.Resource.Attribute.expandedHintEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandedHintEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.expandedTitleGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandedTitleGravity;
-			global::Acr.UserDialogs.Resource.Attribute.expandedTitleMargin = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandedTitleMargin;
-			global::Acr.UserDialogs.Resource.Attribute.expandedTitleMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::Acr.UserDialogs.Resource.Attribute.expandedTitleMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::Acr.UserDialogs.Resource.Attribute.expandedTitleMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::Acr.UserDialogs.Resource.Attribute.expandedTitleMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::Acr.UserDialogs.Resource.Attribute.expandedTitleTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.extendedFloatingActionButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.extendMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Attribute.extendMotionSpec;
-			global::Acr.UserDialogs.Resource.Attribute.extraMultilineHeightEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.extraMultilineHeightEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.fabAlignmentMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fabAlignmentMode;
-			global::Acr.UserDialogs.Resource.Attribute.fabAnimationMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fabAnimationMode;
-			global::Acr.UserDialogs.Resource.Attribute.fabCradleMargin = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fabCradleMargin;
-			global::Acr.UserDialogs.Resource.Attribute.fabCradleRoundedCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
-			global::Acr.UserDialogs.Resource.Attribute.fabCradleVerticalOffset = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fabCradleVerticalOffset;
-			global::Acr.UserDialogs.Resource.Attribute.fabCustomSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fabCustomSize;
-			global::Acr.UserDialogs.Resource.Attribute.fabSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fabSize;
-			global::Acr.UserDialogs.Resource.Attribute.fastScrollEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fastScrollEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.fastScrollVerticalThumbDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.fastScrollVerticalTrackDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.firstBaselineToTopHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.firstBaselineToTopHeight;
-			global::Acr.UserDialogs.Resource.Attribute.floatingActionButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.floatingActionButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.flow_firstHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_firstHorizontalBias;
-			global::Acr.UserDialogs.Resource.Attribute.flow_firstHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_firstHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Attribute.flow_firstVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_firstVerticalBias;
-			global::Acr.UserDialogs.Resource.Attribute.flow_firstVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_firstVerticalStyle;
-			global::Acr.UserDialogs.Resource.Attribute.flow_horizontalAlign = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_horizontalAlign;
-			global::Acr.UserDialogs.Resource.Attribute.flow_horizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_horizontalBias;
-			global::Acr.UserDialogs.Resource.Attribute.flow_horizontalGap = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_horizontalGap;
-			global::Acr.UserDialogs.Resource.Attribute.flow_horizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_horizontalStyle;
-			global::Acr.UserDialogs.Resource.Attribute.flow_lastHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_lastHorizontalBias;
-			global::Acr.UserDialogs.Resource.Attribute.flow_lastHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_lastHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Attribute.flow_lastVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_lastVerticalBias;
-			global::Acr.UserDialogs.Resource.Attribute.flow_lastVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_lastVerticalStyle;
-			global::Acr.UserDialogs.Resource.Attribute.flow_maxElementsWrap = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_maxElementsWrap;
-			global::Acr.UserDialogs.Resource.Attribute.flow_padding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_padding;
-			global::Acr.UserDialogs.Resource.Attribute.flow_verticalAlign = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_verticalAlign;
-			global::Acr.UserDialogs.Resource.Attribute.flow_verticalBias = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_verticalBias;
-			global::Acr.UserDialogs.Resource.Attribute.flow_verticalGap = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_verticalGap;
-			global::Acr.UserDialogs.Resource.Attribute.flow_verticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_verticalStyle;
-			global::Acr.UserDialogs.Resource.Attribute.flow_wrapMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.flow_wrapMode;
-			global::Acr.UserDialogs.Resource.Attribute.font = global::AutoAppo_StevenVR.Droid.Resource.Attribute.font;
-			global::Acr.UserDialogs.Resource.Attribute.fontFamily = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontFamily;
-			global::Acr.UserDialogs.Resource.Attribute.fontProviderAuthority = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontProviderAuthority;
-			global::Acr.UserDialogs.Resource.Attribute.fontProviderCerts = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontProviderCerts;
-			global::Acr.UserDialogs.Resource.Attribute.fontProviderFetchStrategy = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontProviderFetchStrategy;
-			global::Acr.UserDialogs.Resource.Attribute.fontProviderFetchTimeout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontProviderFetchTimeout;
-			global::Acr.UserDialogs.Resource.Attribute.fontProviderPackage = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontProviderPackage;
-			global::Acr.UserDialogs.Resource.Attribute.fontProviderQuery = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontProviderQuery;
-			global::Acr.UserDialogs.Resource.Attribute.fontProviderSystemFontFamily = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontProviderSystemFontFamily;
-			global::Acr.UserDialogs.Resource.Attribute.fontStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontStyle;
-			global::Acr.UserDialogs.Resource.Attribute.fontVariationSettings = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontVariationSettings;
-			global::Acr.UserDialogs.Resource.Attribute.fontWeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontWeight;
-			global::Acr.UserDialogs.Resource.Attribute.forceApplySystemWindowInsetTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.forceApplySystemWindowInsetTop;
-			global::Acr.UserDialogs.Resource.Attribute.foregroundInsidePadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::Acr.UserDialogs.Resource.Attribute.framePosition = global::AutoAppo_StevenVR.Droid.Resource.Attribute.framePosition;
-			global::Acr.UserDialogs.Resource.Attribute.gapBetweenBars = global::AutoAppo_StevenVR.Droid.Resource.Attribute.gapBetweenBars;
-			global::Acr.UserDialogs.Resource.Attribute.gestureInsetBottomIgnored = global::AutoAppo_StevenVR.Droid.Resource.Attribute.gestureInsetBottomIgnored;
-			global::Acr.UserDialogs.Resource.Attribute.goIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.goIcon;
-			global::Acr.UserDialogs.Resource.Attribute.haloColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.haloColor;
-			global::Acr.UserDialogs.Resource.Attribute.haloRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.haloRadius;
-			global::Acr.UserDialogs.Resource.Attribute.headerLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.headerLayout;
-			global::Acr.UserDialogs.Resource.Attribute.height = global::AutoAppo_StevenVR.Droid.Resource.Attribute.height;
-			global::Acr.UserDialogs.Resource.Attribute.helperText = global::AutoAppo_StevenVR.Droid.Resource.Attribute.helperText;
-			global::Acr.UserDialogs.Resource.Attribute.helperTextEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.helperTextEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.helperTextTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.helperTextTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.helperTextTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.helperTextTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.hideAnimationBehavior = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hideAnimationBehavior;
-			global::Acr.UserDialogs.Resource.Attribute.hideMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hideMotionSpec;
-			global::Acr.UserDialogs.Resource.Attribute.hideOnContentScroll = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hideOnContentScroll;
-			global::Acr.UserDialogs.Resource.Attribute.hideOnScroll = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hideOnScroll;
-			global::Acr.UserDialogs.Resource.Attribute.hintAnimationEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.hintEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hintEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.hintTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hintTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.hintTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hintTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.homeAsUpIndicator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::Acr.UserDialogs.Resource.Attribute.homeLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.homeLayout;
-			global::Acr.UserDialogs.Resource.Attribute.horizontalOffset = global::AutoAppo_StevenVR.Droid.Resource.Attribute.horizontalOffset;
-			global::Acr.UserDialogs.Resource.Attribute.hoveredFocusedTranslationZ = global::AutoAppo_StevenVR.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
-			global::Acr.UserDialogs.Resource.Attribute.icon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.icon;
-			global::Acr.UserDialogs.Resource.Attribute.iconEndPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.iconEndPadding;
-			global::Acr.UserDialogs.Resource.Attribute.iconGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.iconGravity;
-			global::Acr.UserDialogs.Resource.Attribute.iconifiedByDefault = global::AutoAppo_StevenVR.Droid.Resource.Attribute.iconifiedByDefault;
-			global::Acr.UserDialogs.Resource.Attribute.iconPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.iconPadding;
-			global::Acr.UserDialogs.Resource.Attribute.iconSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.iconSize;
-			global::Acr.UserDialogs.Resource.Attribute.iconStartPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.iconStartPadding;
-			global::Acr.UserDialogs.Resource.Attribute.iconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.iconTint;
-			global::Acr.UserDialogs.Resource.Attribute.iconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.iconTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.ifTagNotSet = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ifTagNotSet;
-			global::Acr.UserDialogs.Resource.Attribute.ifTagSet = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ifTagSet;
-			global::Acr.UserDialogs.Resource.Attribute.imageButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.imageButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.imagePanX = global::AutoAppo_StevenVR.Droid.Resource.Attribute.imagePanX;
-			global::Acr.UserDialogs.Resource.Attribute.imagePanY = global::AutoAppo_StevenVR.Droid.Resource.Attribute.imagePanY;
-			global::Acr.UserDialogs.Resource.Attribute.imageRotate = global::AutoAppo_StevenVR.Droid.Resource.Attribute.imageRotate;
-			global::Acr.UserDialogs.Resource.Attribute.imageZoom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.imageZoom;
-			global::Acr.UserDialogs.Resource.Attribute.indeterminateAnimationType = global::AutoAppo_StevenVR.Droid.Resource.Attribute.indeterminateAnimationType;
-			global::Acr.UserDialogs.Resource.Attribute.indeterminateProgressStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::Acr.UserDialogs.Resource.Attribute.indicatorColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.indicatorColor;
-			global::Acr.UserDialogs.Resource.Attribute.indicatorDirectionCircular = global::AutoAppo_StevenVR.Droid.Resource.Attribute.indicatorDirectionCircular;
-			global::Acr.UserDialogs.Resource.Attribute.indicatorDirectionLinear = global::AutoAppo_StevenVR.Droid.Resource.Attribute.indicatorDirectionLinear;
-			global::Acr.UserDialogs.Resource.Attribute.indicatorInset = global::AutoAppo_StevenVR.Droid.Resource.Attribute.indicatorInset;
-			global::Acr.UserDialogs.Resource.Attribute.indicatorSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.indicatorSize;
-			global::Acr.UserDialogs.Resource.Attribute.initialActivityCount = global::AutoAppo_StevenVR.Droid.Resource.Attribute.initialActivityCount;
-			global::Acr.UserDialogs.Resource.Attribute.insetForeground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.insetForeground;
-			global::Acr.UserDialogs.Resource.Attribute.isLightTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.isLightTheme;
-			global::Acr.UserDialogs.Resource.Attribute.isMaterialTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.isMaterialTheme;
-			global::Acr.UserDialogs.Resource.Attribute.itemBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemBackground;
-			global::Acr.UserDialogs.Resource.Attribute.itemFillColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemFillColor;
-			global::Acr.UserDialogs.Resource.Attribute.itemHorizontalPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemHorizontalPadding;
-			global::Acr.UserDialogs.Resource.Attribute.itemHorizontalTranslationEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.itemIconPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemIconPadding;
-			global::Acr.UserDialogs.Resource.Attribute.itemIconSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemIconSize;
-			global::Acr.UserDialogs.Resource.Attribute.itemIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.itemMaxLines = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemMaxLines;
-			global::Acr.UserDialogs.Resource.Attribute.itemPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemPadding;
-			global::Acr.UserDialogs.Resource.Attribute.itemRippleColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemRippleColor;
-			global::Acr.UserDialogs.Resource.Attribute.itemShapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemShapeAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.itemShapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Attribute.itemShapeFillColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemShapeFillColor;
-			global::Acr.UserDialogs.Resource.Attribute.itemShapeInsetBottom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemShapeInsetBottom;
-			global::Acr.UserDialogs.Resource.Attribute.itemShapeInsetEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemShapeInsetEnd;
-			global::Acr.UserDialogs.Resource.Attribute.itemShapeInsetStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemShapeInsetStart;
-			global::Acr.UserDialogs.Resource.Attribute.itemShapeInsetTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemShapeInsetTop;
-			global::Acr.UserDialogs.Resource.Attribute.itemSpacing = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemSpacing;
-			global::Acr.UserDialogs.Resource.Attribute.itemStrokeColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemStrokeColor;
-			global::Acr.UserDialogs.Resource.Attribute.itemStrokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemStrokeWidth;
-			global::Acr.UserDialogs.Resource.Attribute.itemTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.itemTextAppearanceActive = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemTextAppearanceActive;
-			global::Acr.UserDialogs.Resource.Attribute.itemTextAppearanceInactive = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemTextAppearanceInactive;
-			global::Acr.UserDialogs.Resource.Attribute.itemTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.itemTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.keyboardIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.keyboardIcon;
-			global::Acr.UserDialogs.Resource.Attribute.keylines = global::AutoAppo_StevenVR.Droid.Resource.Attribute.keylines;
-			global::Acr.UserDialogs.Resource.Attribute.keyPositionType = global::AutoAppo_StevenVR.Droid.Resource.Attribute.keyPositionType;
-			global::Acr.UserDialogs.Resource.Attribute.labelBehavior = global::AutoAppo_StevenVR.Droid.Resource.Attribute.labelBehavior;
-			global::Acr.UserDialogs.Resource.Attribute.labelStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.labelStyle;
-			global::Acr.UserDialogs.Resource.Attribute.labelVisibilityMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.labelVisibilityMode;
-			global::Acr.UserDialogs.Resource.Attribute.lastBaselineToBottomHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.lastBaselineToBottomHeight;
-			global::Acr.UserDialogs.Resource.Attribute.layout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout;
-			global::Acr.UserDialogs.Resource.Attribute.layoutDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layoutDescription;
-			global::Acr.UserDialogs.Resource.Attribute.layoutDuringTransition = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layoutDuringTransition;
-			global::Acr.UserDialogs.Resource.Attribute.layoutManager = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layoutManager;
-			global::Acr.UserDialogs.Resource.Attribute.layout_anchor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_anchor;
-			global::Acr.UserDialogs.Resource.Attribute.layout_anchorGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_anchorGravity;
-			global::Acr.UserDialogs.Resource.Attribute.layout_behavior = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_behavior;
-			global::Acr.UserDialogs.Resource.Attribute.layout_collapseMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_collapseMode;
-			global::Acr.UserDialogs.Resource.Attribute.layout_collapseParallaxMultiplier = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constrainedHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constrainedHeight;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constrainedWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constrainedWidth;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintBaseline_creator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintBaseline_creator;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintBaseline_toBaselineOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintBaseline_toBaselineOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintBaseline_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintBaseline_toBottomOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintBaseline_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintBaseline_toTopOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintBottom_creator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintBottom_creator;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintBottom_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintBottom_toBottomOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintBottom_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintBottom_toTopOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintCircle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintCircle;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintCircleAngle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintCircleAngle;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintCircleRadius;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintDimensionRatio = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintDimensionRatio;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintEnd_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintEnd_toEndOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintEnd_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintEnd_toStartOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintGuide_begin = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintGuide_begin;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintGuide_end = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintGuide_end;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintGuide_percent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintGuide_percent;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintHeight;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintHeight_default = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintHeight_default;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintHeight_max = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintHeight_max;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintHeight_min = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintHeight_min;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintHeight_percent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintHeight_percent;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintHorizontal_bias = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintHorizontal_bias;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintHorizontal_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintHorizontal_chainStyle;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintHorizontal_weight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintHorizontal_weight;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintLeft_creator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintLeft_creator;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintLeft_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintLeft_toLeftOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintLeft_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintLeft_toRightOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintRight_creator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintRight_creator;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintRight_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintRight_toLeftOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintRight_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintRight_toRightOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintStart_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintStart_toEndOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintStart_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintStart_toStartOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintTag = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintTag;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintTop_creator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintTop_creator;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintTop_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintTop_toBottomOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintTop_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintTop_toTopOf;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintVertical_bias = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintVertical_bias;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintVertical_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintVertical_chainStyle;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintVertical_weight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintVertical_weight;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintWidth;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintWidth_default = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintWidth_default;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintWidth_max = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintWidth_max;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintWidth_min = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintWidth_min;
-			global::Acr.UserDialogs.Resource.Attribute.layout_constraintWidth_percent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_constraintWidth_percent;
-			global::Acr.UserDialogs.Resource.Attribute.layout_dodgeInsetEdges = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_dodgeInsetEdges;
-			global::Acr.UserDialogs.Resource.Attribute.layout_editor_absoluteX = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_editor_absoluteX;
-			global::Acr.UserDialogs.Resource.Attribute.layout_editor_absoluteY = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_editor_absoluteY;
-			global::Acr.UserDialogs.Resource.Attribute.layout_goneMarginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_goneMarginBaseline;
-			global::Acr.UserDialogs.Resource.Attribute.layout_goneMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_goneMarginBottom;
-			global::Acr.UserDialogs.Resource.Attribute.layout_goneMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_goneMarginEnd;
-			global::Acr.UserDialogs.Resource.Attribute.layout_goneMarginLeft = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_goneMarginLeft;
-			global::Acr.UserDialogs.Resource.Attribute.layout_goneMarginRight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_goneMarginRight;
-			global::Acr.UserDialogs.Resource.Attribute.layout_goneMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_goneMarginStart;
-			global::Acr.UserDialogs.Resource.Attribute.layout_goneMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_goneMarginTop;
-			global::Acr.UserDialogs.Resource.Attribute.layout_insetEdge = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_insetEdge;
-			global::Acr.UserDialogs.Resource.Attribute.layout_keyline = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_keyline;
-			global::Acr.UserDialogs.Resource.Attribute.layout_marginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_marginBaseline;
-			global::Acr.UserDialogs.Resource.Attribute.layout_optimizationLevel = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_optimizationLevel;
-			global::Acr.UserDialogs.Resource.Attribute.layout_scrollFlags = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_scrollFlags;
-			global::Acr.UserDialogs.Resource.Attribute.layout_scrollInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::Acr.UserDialogs.Resource.Attribute.layout_wrapBehaviorInParent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.layout_wrapBehaviorInParent;
-			global::Acr.UserDialogs.Resource.Attribute.liftOnScroll = global::AutoAppo_StevenVR.Droid.Resource.Attribute.liftOnScroll;
-			global::Acr.UserDialogs.Resource.Attribute.liftOnScrollTargetViewId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.liftOnScrollTargetViewId;
-			global::Acr.UserDialogs.Resource.Attribute.limitBoundsTo = global::AutoAppo_StevenVR.Droid.Resource.Attribute.limitBoundsTo;
-			global::Acr.UserDialogs.Resource.Attribute.linearProgressIndicatorStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.linearProgressIndicatorStyle;
-			global::Acr.UserDialogs.Resource.Attribute.lineHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.lineHeight;
-			global::Acr.UserDialogs.Resource.Attribute.lineSpacing = global::AutoAppo_StevenVR.Droid.Resource.Attribute.lineSpacing;
-			global::Acr.UserDialogs.Resource.Attribute.listChoiceBackgroundIndicator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::Acr.UserDialogs.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
-			global::Acr.UserDialogs.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
-			global::Acr.UserDialogs.Resource.Attribute.listDividerAlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::Acr.UserDialogs.Resource.Attribute.listItemLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listItemLayout;
-			global::Acr.UserDialogs.Resource.Attribute.listLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listLayout;
-			global::Acr.UserDialogs.Resource.Attribute.listMenuViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listMenuViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.listPopupWindowStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::Acr.UserDialogs.Resource.Attribute.listPreferredItemHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::Acr.UserDialogs.Resource.Attribute.listPreferredItemHeightLarge = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::Acr.UserDialogs.Resource.Attribute.listPreferredItemHeightSmall = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::Acr.UserDialogs.Resource.Attribute.listPreferredItemPaddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
-			global::Acr.UserDialogs.Resource.Attribute.listPreferredItemPaddingLeft = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::Acr.UserDialogs.Resource.Attribute.listPreferredItemPaddingRight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::Acr.UserDialogs.Resource.Attribute.listPreferredItemPaddingStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.listPreferredItemPaddingStart;
-			global::Acr.UserDialogs.Resource.Attribute.logo = global::AutoAppo_StevenVR.Droid.Resource.Attribute.logo;
-			global::Acr.UserDialogs.Resource.Attribute.logoDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.logoDescription;
-			global::Acr.UserDialogs.Resource.Attribute.materialAlertDialogBodyTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialAlertDialogTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialAlertDialogTheme;
-			global::Acr.UserDialogs.Resource.Attribute.materialAlertDialogTitleIconStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialAlertDialogTitleTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialButtonOutlinedStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialButtonOutlinedStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialButtonToggleGroupStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarDay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarDay;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarFullscreenTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarHeaderCancelButton = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarHeaderCancelButton;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarHeaderConfirmButton = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarHeaderDivider = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarHeaderDivider;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarHeaderLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarHeaderLayout;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarHeaderSelection = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarHeaderSelection;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarHeaderTitle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarHeaderTitle;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarHeaderToggleButton = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarMonth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarMonth;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarMonthNavigationButton = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarMonthNavigationButton;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarTheme;
-			global::Acr.UserDialogs.Resource.Attribute.materialCalendarYearNavigationButton = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCalendarYearNavigationButton;
-			global::Acr.UserDialogs.Resource.Attribute.materialCardViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCardViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialCircleRadius;
-			global::Acr.UserDialogs.Resource.Attribute.materialClockStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialClockStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialThemeOverlay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialThemeOverlay;
-			global::Acr.UserDialogs.Resource.Attribute.materialTimePickerStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialTimePickerStyle;
-			global::Acr.UserDialogs.Resource.Attribute.materialTimePickerTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.materialTimePickerTheme;
-			global::Acr.UserDialogs.Resource.Attribute.maxAcceleration = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxAcceleration;
-			global::Acr.UserDialogs.Resource.Attribute.maxActionInlineWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::Acr.UserDialogs.Resource.Attribute.maxButtonHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxButtonHeight;
-			global::Acr.UserDialogs.Resource.Attribute.maxCharacterCount = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxCharacterCount;
-			global::Acr.UserDialogs.Resource.Attribute.maxHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxHeight;
-			global::Acr.UserDialogs.Resource.Attribute.maxImageSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxImageSize;
-			global::Acr.UserDialogs.Resource.Attribute.maxLines = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxLines;
-			global::Acr.UserDialogs.Resource.Attribute.maxVelocity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxVelocity;
-			global::Acr.UserDialogs.Resource.Attribute.maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.maxWidth;
-			global::Acr.UserDialogs.Resource.Attribute.measureWithLargestChild = global::AutoAppo_StevenVR.Droid.Resource.Attribute.measureWithLargestChild;
-			global::Acr.UserDialogs.Resource.Attribute.menu = global::AutoAppo_StevenVR.Droid.Resource.Attribute.menu;
-			global::Acr.UserDialogs.Resource.Attribute.menuGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.menuGravity;
-			global::Acr.UserDialogs.Resource.Attribute.methodName = global::AutoAppo_StevenVR.Droid.Resource.Attribute.methodName;
-			global::Acr.UserDialogs.Resource.Attribute.minHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.minHeight;
-			global::Acr.UserDialogs.Resource.Attribute.minHideDelay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.minHideDelay;
-			global::Acr.UserDialogs.Resource.Attribute.minSeparation = global::AutoAppo_StevenVR.Droid.Resource.Attribute.minSeparation;
-			global::Acr.UserDialogs.Resource.Attribute.minTouchTargetSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.minTouchTargetSize;
-			global::Acr.UserDialogs.Resource.Attribute.minWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.minWidth;
-			global::Acr.UserDialogs.Resource.Attribute.mock_diagonalsColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.mock_diagonalsColor;
-			global::Acr.UserDialogs.Resource.Attribute.mock_label = global::AutoAppo_StevenVR.Droid.Resource.Attribute.mock_label;
-			global::Acr.UserDialogs.Resource.Attribute.mock_labelBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.mock_labelBackgroundColor;
-			global::Acr.UserDialogs.Resource.Attribute.mock_labelColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.mock_labelColor;
-			global::Acr.UserDialogs.Resource.Attribute.mock_showDiagonals = global::AutoAppo_StevenVR.Droid.Resource.Attribute.mock_showDiagonals;
-			global::Acr.UserDialogs.Resource.Attribute.mock_showLabel = global::AutoAppo_StevenVR.Droid.Resource.Attribute.mock_showLabel;
-			global::Acr.UserDialogs.Resource.Attribute.motionDebug = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionDebug;
-			global::Acr.UserDialogs.Resource.Attribute.motionDurationLong1 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionDurationLong1;
-			global::Acr.UserDialogs.Resource.Attribute.motionDurationLong2 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionDurationLong2;
-			global::Acr.UserDialogs.Resource.Attribute.motionDurationMedium1 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionDurationMedium1;
-			global::Acr.UserDialogs.Resource.Attribute.motionDurationMedium2 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionDurationMedium2;
-			global::Acr.UserDialogs.Resource.Attribute.motionDurationShort1 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionDurationShort1;
-			global::Acr.UserDialogs.Resource.Attribute.motionDurationShort2 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionDurationShort2;
-			global::Acr.UserDialogs.Resource.Attribute.motionEasingAccelerated = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEasingAccelerated;
-			global::Acr.UserDialogs.Resource.Attribute.motionEasingDecelerated = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEasingDecelerated;
-			global::Acr.UserDialogs.Resource.Attribute.motionEasingEmphasized = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEasingEmphasized;
-			global::Acr.UserDialogs.Resource.Attribute.motionEasingLinear = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEasingLinear;
-			global::Acr.UserDialogs.Resource.Attribute.motionEasingStandard = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEasingStandard;
-			global::Acr.UserDialogs.Resource.Attribute.motionEffect_alpha = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEffect_alpha;
-			global::Acr.UserDialogs.Resource.Attribute.motionEffect_end = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEffect_end;
-			global::Acr.UserDialogs.Resource.Attribute.motionEffect_move = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEffect_move;
-			global::Acr.UserDialogs.Resource.Attribute.motionEffect_start = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEffect_start;
-			global::Acr.UserDialogs.Resource.Attribute.motionEffect_strict = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEffect_strict;
-			global::Acr.UserDialogs.Resource.Attribute.motionEffect_translationX = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEffect_translationX;
-			global::Acr.UserDialogs.Resource.Attribute.motionEffect_translationY = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEffect_translationY;
-			global::Acr.UserDialogs.Resource.Attribute.motionEffect_viewTransition = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionEffect_viewTransition;
-			global::Acr.UserDialogs.Resource.Attribute.motionInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionInterpolator;
-			global::Acr.UserDialogs.Resource.Attribute.motionPath = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionPath;
-			global::Acr.UserDialogs.Resource.Attribute.motionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionPathRotate;
-			global::Acr.UserDialogs.Resource.Attribute.motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionProgress;
-			global::Acr.UserDialogs.Resource.Attribute.motionStagger = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionStagger;
-			global::Acr.UserDialogs.Resource.Attribute.motionTarget = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motionTarget;
-			global::Acr.UserDialogs.Resource.Attribute.motion_postLayoutCollision = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motion_postLayoutCollision;
-			global::Acr.UserDialogs.Resource.Attribute.motion_triggerOnCollision = global::AutoAppo_StevenVR.Droid.Resource.Attribute.motion_triggerOnCollision;
-			global::Acr.UserDialogs.Resource.Attribute.moveWhenScrollAtTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.moveWhenScrollAtTop;
-			global::Acr.UserDialogs.Resource.Attribute.multiChoiceItemLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::Acr.UserDialogs.Resource.Attribute.navigationContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.navigationContentDescription;
-			global::Acr.UserDialogs.Resource.Attribute.navigationIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.navigationIcon;
-			global::Acr.UserDialogs.Resource.Attribute.navigationIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.navigationIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.navigationMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.navigationMode;
-			global::Acr.UserDialogs.Resource.Attribute.navigationRailStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.navigationRailStyle;
-			global::Acr.UserDialogs.Resource.Attribute.navigationViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.navigationViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.nestedScrollable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.nestedScrollable;
-			global::Acr.UserDialogs.Resource.Attribute.nestedScrollFlags = global::AutoAppo_StevenVR.Droid.Resource.Attribute.nestedScrollFlags;
-			global::Acr.UserDialogs.Resource.Attribute.nestedScrollViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.nestedScrollViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.number = global::AutoAppo_StevenVR.Droid.Resource.Attribute.number;
-			global::Acr.UserDialogs.Resource.Attribute.numericModifiers = global::AutoAppo_StevenVR.Droid.Resource.Attribute.numericModifiers;
-			global::Acr.UserDialogs.Resource.Attribute.onCross = global::AutoAppo_StevenVR.Droid.Resource.Attribute.onCross;
-			global::Acr.UserDialogs.Resource.Attribute.onHide = global::AutoAppo_StevenVR.Droid.Resource.Attribute.onHide;
-			global::Acr.UserDialogs.Resource.Attribute.onNegativeCross = global::AutoAppo_StevenVR.Droid.Resource.Attribute.onNegativeCross;
-			global::Acr.UserDialogs.Resource.Attribute.onPositiveCross = global::AutoAppo_StevenVR.Droid.Resource.Attribute.onPositiveCross;
-			global::Acr.UserDialogs.Resource.Attribute.onShow = global::AutoAppo_StevenVR.Droid.Resource.Attribute.onShow;
-			global::Acr.UserDialogs.Resource.Attribute.onStateTransition = global::AutoAppo_StevenVR.Droid.Resource.Attribute.onStateTransition;
-			global::Acr.UserDialogs.Resource.Attribute.onTouchUp = global::AutoAppo_StevenVR.Droid.Resource.Attribute.onTouchUp;
-			global::Acr.UserDialogs.Resource.Attribute.overlapAnchor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.overlapAnchor;
-			global::Acr.UserDialogs.Resource.Attribute.overlay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.overlay;
-			global::Acr.UserDialogs.Resource.Attribute.paddingBottomNoButtons = global::AutoAppo_StevenVR.Droid.Resource.Attribute.paddingBottomNoButtons;
-			global::Acr.UserDialogs.Resource.Attribute.paddingBottomSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Attribute.paddingBottomSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Attribute.paddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.paddingEnd;
-			global::Acr.UserDialogs.Resource.Attribute.paddingLeftSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Attribute.paddingLeftSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Attribute.paddingRightSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Attribute.paddingRightSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Attribute.paddingStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.paddingStart;
-			global::Acr.UserDialogs.Resource.Attribute.paddingTopNoTitle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.paddingTopNoTitle;
-			global::Acr.UserDialogs.Resource.Attribute.paddingTopSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Attribute.paddingTopSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Attribute.panelBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.panelBackground;
-			global::Acr.UserDialogs.Resource.Attribute.panelMenuListTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.panelMenuListTheme;
-			global::Acr.UserDialogs.Resource.Attribute.panelMenuListWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.panelMenuListWidth;
-			global::Acr.UserDialogs.Resource.Attribute.passwordToggleContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.passwordToggleContentDescription;
-			global::Acr.UserDialogs.Resource.Attribute.passwordToggleDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.passwordToggleDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.passwordToggleEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.passwordToggleEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.passwordToggleTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.passwordToggleTint;
-			global::Acr.UserDialogs.Resource.Attribute.passwordToggleTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.passwordToggleTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.pathMotionArc = global::AutoAppo_StevenVR.Droid.Resource.Attribute.pathMotionArc;
-			global::Acr.UserDialogs.Resource.Attribute.path_percent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.path_percent;
-			global::Acr.UserDialogs.Resource.Attribute.percentHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.percentHeight;
-			global::Acr.UserDialogs.Resource.Attribute.percentWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.percentWidth;
-			global::Acr.UserDialogs.Resource.Attribute.percentX = global::AutoAppo_StevenVR.Droid.Resource.Attribute.percentX;
-			global::Acr.UserDialogs.Resource.Attribute.percentY = global::AutoAppo_StevenVR.Droid.Resource.Attribute.percentY;
-			global::Acr.UserDialogs.Resource.Attribute.perpendicularPath_percent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.perpendicularPath_percent;
-			global::Acr.UserDialogs.Resource.Attribute.pivotAnchor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.pivotAnchor;
-			global::Acr.UserDialogs.Resource.Attribute.placeholderText = global::AutoAppo_StevenVR.Droid.Resource.Attribute.placeholderText;
-			global::Acr.UserDialogs.Resource.Attribute.placeholderTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.placeholderTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.placeholderTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.placeholderTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.placeholder_emptyVisibility = global::AutoAppo_StevenVR.Droid.Resource.Attribute.placeholder_emptyVisibility;
-			global::Acr.UserDialogs.Resource.Attribute.polarRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Attribute.polarRelativeTo;
-			global::Acr.UserDialogs.Resource.Attribute.popupMenuBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.popupMenuBackground;
-			global::Acr.UserDialogs.Resource.Attribute.popupMenuStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.popupMenuStyle;
-			global::Acr.UserDialogs.Resource.Attribute.popupTheme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.popupTheme;
-			global::Acr.UserDialogs.Resource.Attribute.popupWindowStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.popupWindowStyle;
-			global::Acr.UserDialogs.Resource.Attribute.prefixText = global::AutoAppo_StevenVR.Droid.Resource.Attribute.prefixText;
-			global::Acr.UserDialogs.Resource.Attribute.prefixTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.prefixTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.prefixTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.prefixTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.preserveIconSpacing = global::AutoAppo_StevenVR.Droid.Resource.Attribute.preserveIconSpacing;
-			global::Acr.UserDialogs.Resource.Attribute.pressedTranslationZ = global::AutoAppo_StevenVR.Droid.Resource.Attribute.pressedTranslationZ;
-			global::Acr.UserDialogs.Resource.Attribute.progressBarPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.progressBarPadding;
-			global::Acr.UserDialogs.Resource.Attribute.progressBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.progressBarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.quantizeMotionInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.quantizeMotionInterpolator;
-			global::Acr.UserDialogs.Resource.Attribute.quantizeMotionPhase = global::AutoAppo_StevenVR.Droid.Resource.Attribute.quantizeMotionPhase;
-			global::Acr.UserDialogs.Resource.Attribute.quantizeMotionSteps = global::AutoAppo_StevenVR.Droid.Resource.Attribute.quantizeMotionSteps;
-			global::Acr.UserDialogs.Resource.Attribute.queryBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.queryBackground;
-			global::Acr.UserDialogs.Resource.Attribute.queryHint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.queryHint;
-			global::Acr.UserDialogs.Resource.Attribute.queryPatterns = global::AutoAppo_StevenVR.Droid.Resource.Attribute.queryPatterns;
-			global::Acr.UserDialogs.Resource.Attribute.radioButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.radioButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.rangeFillColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.rangeFillColor;
-			global::Acr.UserDialogs.Resource.Attribute.ratingBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ratingBarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.ratingBarStyleIndicator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::Acr.UserDialogs.Resource.Attribute.ratingBarStyleSmall = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::Acr.UserDialogs.Resource.Attribute.reactiveGuide_animateChange = global::AutoAppo_StevenVR.Droid.Resource.Attribute.reactiveGuide_animateChange;
-			global::Acr.UserDialogs.Resource.Attribute.reactiveGuide_applyToAllConstraintSets = global::AutoAppo_StevenVR.Droid.Resource.Attribute.reactiveGuide_applyToAllConstraintSets;
-			global::Acr.UserDialogs.Resource.Attribute.reactiveGuide_applyToConstraintSet = global::AutoAppo_StevenVR.Droid.Resource.Attribute.reactiveGuide_applyToConstraintSet;
-			global::Acr.UserDialogs.Resource.Attribute.reactiveGuide_valueId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.reactiveGuide_valueId;
-			global::Acr.UserDialogs.Resource.Attribute.recyclerViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.recyclerViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.region_heightLessThan = global::AutoAppo_StevenVR.Droid.Resource.Attribute.region_heightLessThan;
-			global::Acr.UserDialogs.Resource.Attribute.region_heightMoreThan = global::AutoAppo_StevenVR.Droid.Resource.Attribute.region_heightMoreThan;
-			global::Acr.UserDialogs.Resource.Attribute.region_widthLessThan = global::AutoAppo_StevenVR.Droid.Resource.Attribute.region_widthLessThan;
-			global::Acr.UserDialogs.Resource.Attribute.region_widthMoreThan = global::AutoAppo_StevenVR.Droid.Resource.Attribute.region_widthMoreThan;
-			global::Acr.UserDialogs.Resource.Attribute.reverseLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.reverseLayout;
-			global::Acr.UserDialogs.Resource.Attribute.rippleColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.rippleColor;
-			global::Acr.UserDialogs.Resource.Attribute.rotationCenterId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.rotationCenterId;
-			global::Acr.UserDialogs.Resource.Attribute.round = global::AutoAppo_StevenVR.Droid.Resource.Attribute.round;
-			global::Acr.UserDialogs.Resource.Attribute.roundPercent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.roundPercent;
-			global::Acr.UserDialogs.Resource.Attribute.saturation = global::AutoAppo_StevenVR.Droid.Resource.Attribute.saturation;
-			global::Acr.UserDialogs.Resource.Attribute.scaleFromTextSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.scaleFromTextSize;
-			global::Acr.UserDialogs.Resource.Attribute.scrimAnimationDuration = global::AutoAppo_StevenVR.Droid.Resource.Attribute.scrimAnimationDuration;
-			global::Acr.UserDialogs.Resource.Attribute.scrimBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.scrimBackground;
-			global::Acr.UserDialogs.Resource.Attribute.scrimVisibleHeightTrigger = global::AutoAppo_StevenVR.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::Acr.UserDialogs.Resource.Attribute.searchHintIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.searchHintIcon;
-			global::Acr.UserDialogs.Resource.Attribute.searchIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.searchIcon;
-			global::Acr.UserDialogs.Resource.Attribute.searchViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.searchViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.seekBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.seekBarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.selectableItemBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.selectableItemBackground;
-			global::Acr.UserDialogs.Resource.Attribute.selectableItemBackgroundBorderless = global::AutoAppo_StevenVR.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::Acr.UserDialogs.Resource.Attribute.selectionRequired = global::AutoAppo_StevenVR.Droid.Resource.Attribute.selectionRequired;
-			global::Acr.UserDialogs.Resource.Attribute.selectorSize = global::AutoAppo_StevenVR.Droid.Resource.Attribute.selectorSize;
-			global::Acr.UserDialogs.Resource.Attribute.setsTag = global::AutoAppo_StevenVR.Droid.Resource.Attribute.setsTag;
-			global::Acr.UserDialogs.Resource.Attribute.shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.shapeAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.shapeAppearanceLargeComponent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
-			global::Acr.UserDialogs.Resource.Attribute.shapeAppearanceMediumComponent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
-			global::Acr.UserDialogs.Resource.Attribute.shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Attribute.shapeAppearanceSmallComponent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
-			global::Acr.UserDialogs.Resource.Attribute.SharedValue = global::AutoAppo_StevenVR.Droid.Resource.Attribute.SharedValue;
-			global::Acr.UserDialogs.Resource.Attribute.SharedValueId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.SharedValueId;
-			global::Acr.UserDialogs.Resource.Attribute.shortcutMatchRequired = global::AutoAppo_StevenVR.Droid.Resource.Attribute.shortcutMatchRequired;
-			global::Acr.UserDialogs.Resource.Attribute.showAnimationBehavior = global::AutoAppo_StevenVR.Droid.Resource.Attribute.showAnimationBehavior;
-			global::Acr.UserDialogs.Resource.Attribute.showAsAction = global::AutoAppo_StevenVR.Droid.Resource.Attribute.showAsAction;
-			global::Acr.UserDialogs.Resource.Attribute.showDelay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.showDelay;
-			global::Acr.UserDialogs.Resource.Attribute.showDividers = global::AutoAppo_StevenVR.Droid.Resource.Attribute.showDividers;
-			global::Acr.UserDialogs.Resource.Attribute.showMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Attribute.showMotionSpec;
-			global::Acr.UserDialogs.Resource.Attribute.showPaths = global::AutoAppo_StevenVR.Droid.Resource.Attribute.showPaths;
-			global::Acr.UserDialogs.Resource.Attribute.showText = global::AutoAppo_StevenVR.Droid.Resource.Attribute.showText;
-			global::Acr.UserDialogs.Resource.Attribute.showTitle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.showTitle;
-			global::Acr.UserDialogs.Resource.Attribute.shrinkMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Attribute.shrinkMotionSpec;
-			global::Acr.UserDialogs.Resource.Attribute.singleChoiceItemLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::Acr.UserDialogs.Resource.Attribute.singleLine = global::AutoAppo_StevenVR.Droid.Resource.Attribute.singleLine;
-			global::Acr.UserDialogs.Resource.Attribute.singleSelection = global::AutoAppo_StevenVR.Droid.Resource.Attribute.singleSelection;
-			global::Acr.UserDialogs.Resource.Attribute.sizePercent = global::AutoAppo_StevenVR.Droid.Resource.Attribute.sizePercent;
-			global::Acr.UserDialogs.Resource.Attribute.sliderStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.sliderStyle;
-			global::Acr.UserDialogs.Resource.Attribute.snackbarButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.snackbarButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.snackbarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.snackbarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.snackbarTextViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.snackbarTextViewStyle;
-			global::Acr.UserDialogs.Resource.Attribute.spanCount = global::AutoAppo_StevenVR.Droid.Resource.Attribute.spanCount;
-			global::Acr.UserDialogs.Resource.Attribute.spinBars = global::AutoAppo_StevenVR.Droid.Resource.Attribute.spinBars;
-			global::Acr.UserDialogs.Resource.Attribute.spinnerDropDownItemStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::Acr.UserDialogs.Resource.Attribute.spinnerStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.spinnerStyle;
-			global::Acr.UserDialogs.Resource.Attribute.splitTrack = global::AutoAppo_StevenVR.Droid.Resource.Attribute.splitTrack;
-			global::Acr.UserDialogs.Resource.Attribute.springBoundary = global::AutoAppo_StevenVR.Droid.Resource.Attribute.springBoundary;
-			global::Acr.UserDialogs.Resource.Attribute.springDamping = global::AutoAppo_StevenVR.Droid.Resource.Attribute.springDamping;
-			global::Acr.UserDialogs.Resource.Attribute.springMass = global::AutoAppo_StevenVR.Droid.Resource.Attribute.springMass;
-			global::Acr.UserDialogs.Resource.Attribute.springStiffness = global::AutoAppo_StevenVR.Droid.Resource.Attribute.springStiffness;
-			global::Acr.UserDialogs.Resource.Attribute.springStopThreshold = global::AutoAppo_StevenVR.Droid.Resource.Attribute.springStopThreshold;
-			global::Acr.UserDialogs.Resource.Attribute.srcCompat = global::AutoAppo_StevenVR.Droid.Resource.Attribute.srcCompat;
-			global::Acr.UserDialogs.Resource.Attribute.stackFromEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.stackFromEnd;
-			global::Acr.UserDialogs.Resource.Attribute.staggered = global::AutoAppo_StevenVR.Droid.Resource.Attribute.staggered;
-			global::Acr.UserDialogs.Resource.Attribute.startIconCheckable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.startIconCheckable;
-			global::Acr.UserDialogs.Resource.Attribute.startIconContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Attribute.startIconContentDescription;
-			global::Acr.UserDialogs.Resource.Attribute.startIconDrawable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.startIconDrawable;
-			global::Acr.UserDialogs.Resource.Attribute.startIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.startIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.startIconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.startIconTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.state_above_anchor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.state_above_anchor;
-			global::Acr.UserDialogs.Resource.Attribute.state_collapsed = global::AutoAppo_StevenVR.Droid.Resource.Attribute.state_collapsed;
-			global::Acr.UserDialogs.Resource.Attribute.state_collapsible = global::AutoAppo_StevenVR.Droid.Resource.Attribute.state_collapsible;
-			global::Acr.UserDialogs.Resource.Attribute.state_dragged = global::AutoAppo_StevenVR.Droid.Resource.Attribute.state_dragged;
-			global::Acr.UserDialogs.Resource.Attribute.state_liftable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.state_liftable;
-			global::Acr.UserDialogs.Resource.Attribute.state_lifted = global::AutoAppo_StevenVR.Droid.Resource.Attribute.state_lifted;
-			global::Acr.UserDialogs.Resource.Attribute.statusBarBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.statusBarBackground;
-			global::Acr.UserDialogs.Resource.Attribute.statusBarForeground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.statusBarForeground;
-			global::Acr.UserDialogs.Resource.Attribute.statusBarScrim = global::AutoAppo_StevenVR.Droid.Resource.Attribute.statusBarScrim;
-			global::Acr.UserDialogs.Resource.Attribute.strokeColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.strokeColor;
-			global::Acr.UserDialogs.Resource.Attribute.strokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.strokeWidth;
-			global::Acr.UserDialogs.Resource.Attribute.subMenuArrow = global::AutoAppo_StevenVR.Droid.Resource.Attribute.subMenuArrow;
-			global::Acr.UserDialogs.Resource.Attribute.submitBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.submitBackground;
-			global::Acr.UserDialogs.Resource.Attribute.subtitle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.subtitle;
-			global::Acr.UserDialogs.Resource.Attribute.subtitleCentered = global::AutoAppo_StevenVR.Droid.Resource.Attribute.subtitleCentered;
-			global::Acr.UserDialogs.Resource.Attribute.subtitleTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.subtitleTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.subtitleTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.subtitleTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.subtitleTextStyle;
-			global::Acr.UserDialogs.Resource.Attribute.suffixText = global::AutoAppo_StevenVR.Droid.Resource.Attribute.suffixText;
-			global::Acr.UserDialogs.Resource.Attribute.suffixTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.suffixTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.suffixTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.suffixTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.suggestionRowLayout = global::AutoAppo_StevenVR.Droid.Resource.Attribute.suggestionRowLayout;
-			global::Acr.UserDialogs.Resource.Attribute.switchMinWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.switchMinWidth;
-			global::Acr.UserDialogs.Resource.Attribute.switchPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.switchPadding;
-			global::Acr.UserDialogs.Resource.Attribute.switchStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.switchStyle;
-			global::Acr.UserDialogs.Resource.Attribute.switchTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.switchTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.tabBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabBackground;
-			global::Acr.UserDialogs.Resource.Attribute.tabContentStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabContentStart;
-			global::Acr.UserDialogs.Resource.Attribute.tabGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabGravity;
-			global::Acr.UserDialogs.Resource.Attribute.tabIconTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIconTint;
-			global::Acr.UserDialogs.Resource.Attribute.tabIconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIconTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.tabIndicator = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIndicator;
-			global::Acr.UserDialogs.Resource.Attribute.tabIndicatorAnimationDuration = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
-			global::Acr.UserDialogs.Resource.Attribute.tabIndicatorAnimationMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIndicatorAnimationMode;
-			global::Acr.UserDialogs.Resource.Attribute.tabIndicatorColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIndicatorColor;
-			global::Acr.UserDialogs.Resource.Attribute.tabIndicatorFullWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIndicatorFullWidth;
-			global::Acr.UserDialogs.Resource.Attribute.tabIndicatorGravity = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIndicatorGravity;
-			global::Acr.UserDialogs.Resource.Attribute.tabIndicatorHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::Acr.UserDialogs.Resource.Attribute.tabInlineLabel = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabInlineLabel;
-			global::Acr.UserDialogs.Resource.Attribute.tabMaxWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabMaxWidth;
-			global::Acr.UserDialogs.Resource.Attribute.tabMinWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabMinWidth;
-			global::Acr.UserDialogs.Resource.Attribute.tabMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabMode;
-			global::Acr.UserDialogs.Resource.Attribute.tabPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabPadding;
-			global::Acr.UserDialogs.Resource.Attribute.tabPaddingBottom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabPaddingBottom;
-			global::Acr.UserDialogs.Resource.Attribute.tabPaddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabPaddingEnd;
-			global::Acr.UserDialogs.Resource.Attribute.tabPaddingStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabPaddingStart;
-			global::Acr.UserDialogs.Resource.Attribute.tabPaddingTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabPaddingTop;
-			global::Acr.UserDialogs.Resource.Attribute.tabRippleColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabRippleColor;
-			global::Acr.UserDialogs.Resource.Attribute.tabSelectedTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.tabStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabStyle;
-			global::Acr.UserDialogs.Resource.Attribute.tabTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.tabTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.tabUnboundedRipple = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tabUnboundedRipple;
-			global::Acr.UserDialogs.Resource.Attribute.targetId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.targetId;
-			global::Acr.UserDialogs.Resource.Attribute.telltales_tailColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.telltales_tailColor;
-			global::Acr.UserDialogs.Resource.Attribute.telltales_tailScale = global::AutoAppo_StevenVR.Droid.Resource.Attribute.telltales_tailScale;
-			global::Acr.UserDialogs.Resource.Attribute.telltales_velocityMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.telltales_velocityMode;
-			global::Acr.UserDialogs.Resource.Attribute.textAllCaps = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAllCaps;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceBody1 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceBody1;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceBody2 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceBody2;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceButton = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceButton;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceCaption = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceCaption;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceHeadline1 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceHeadline1;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceHeadline2 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceHeadline2;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceHeadline3 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceHeadline3;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceHeadline4 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceHeadline4;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceHeadline5 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceHeadline5;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceHeadline6 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceHeadline6;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceLargePopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceLineHeightEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceListItem = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceListItem;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceListItemSecondary = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceListItemSecondary;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceListItemSmall = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceOverline = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceOverline;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearancePopupMenuHeader = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceSearchResultSubtitle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceSearchResultTitle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceSmallPopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceSubtitle1 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceSubtitle1;
-			global::Acr.UserDialogs.Resource.Attribute.textAppearanceSubtitle2 = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textAppearanceSubtitle2;
-			global::Acr.UserDialogs.Resource.Attribute.textBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textBackground;
-			global::Acr.UserDialogs.Resource.Attribute.textBackgroundPanX = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textBackgroundPanX;
-			global::Acr.UserDialogs.Resource.Attribute.textBackgroundPanY = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textBackgroundPanY;
-			global::Acr.UserDialogs.Resource.Attribute.textBackgroundRotate = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textBackgroundRotate;
-			global::Acr.UserDialogs.Resource.Attribute.textBackgroundZoom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textBackgroundZoom;
-			global::Acr.UserDialogs.Resource.Attribute.textColorAlertDialogListItem = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::Acr.UserDialogs.Resource.Attribute.textColorSearchUrl = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textColorSearchUrl;
-			global::Acr.UserDialogs.Resource.Attribute.textEndPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textEndPadding;
-			global::Acr.UserDialogs.Resource.Attribute.textFillColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textFillColor;
-			global::Acr.UserDialogs.Resource.Attribute.textInputLayoutFocusedRectEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textInputLayoutFocusedRectEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.textInputStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textInputStyle;
-			global::Acr.UserDialogs.Resource.Attribute.textLocale = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textLocale;
-			global::Acr.UserDialogs.Resource.Attribute.textOutlineColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textOutlineColor;
-			global::Acr.UserDialogs.Resource.Attribute.textOutlineThickness = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textOutlineThickness;
-			global::Acr.UserDialogs.Resource.Attribute.textPanX = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textPanX;
-			global::Acr.UserDialogs.Resource.Attribute.textPanY = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textPanY;
-			global::Acr.UserDialogs.Resource.Attribute.textStartPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textStartPadding;
-			global::Acr.UserDialogs.Resource.Attribute.textureBlurFactor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textureBlurFactor;
-			global::Acr.UserDialogs.Resource.Attribute.textureEffect = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textureEffect;
-			global::Acr.UserDialogs.Resource.Attribute.textureHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textureHeight;
-			global::Acr.UserDialogs.Resource.Attribute.textureWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.textureWidth;
-			global::Acr.UserDialogs.Resource.Attribute.theme = global::AutoAppo_StevenVR.Droid.Resource.Attribute.theme;
-			global::Acr.UserDialogs.Resource.Attribute.themeLineHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.themeLineHeight;
-			global::Acr.UserDialogs.Resource.Attribute.thickness = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thickness;
-			global::Acr.UserDialogs.Resource.Attribute.thumbColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thumbColor;
-			global::Acr.UserDialogs.Resource.Attribute.thumbElevation = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thumbElevation;
-			global::Acr.UserDialogs.Resource.Attribute.thumbRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thumbRadius;
-			global::Acr.UserDialogs.Resource.Attribute.thumbStrokeColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thumbStrokeColor;
-			global::Acr.UserDialogs.Resource.Attribute.thumbStrokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thumbStrokeWidth;
-			global::Acr.UserDialogs.Resource.Attribute.thumbTextPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thumbTextPadding;
-			global::Acr.UserDialogs.Resource.Attribute.thumbTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thumbTint;
-			global::Acr.UserDialogs.Resource.Attribute.thumbTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.thumbTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.tickColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tickColor;
-			global::Acr.UserDialogs.Resource.Attribute.tickColorActive = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tickColorActive;
-			global::Acr.UserDialogs.Resource.Attribute.tickColorInactive = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tickColorInactive;
-			global::Acr.UserDialogs.Resource.Attribute.tickMark = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tickMark;
-			global::Acr.UserDialogs.Resource.Attribute.tickMarkTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tickMarkTint;
-			global::Acr.UserDialogs.Resource.Attribute.tickMarkTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tickMarkTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.tickVisible = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tickVisible;
-			global::Acr.UserDialogs.Resource.Attribute.tint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tint;
-			global::Acr.UserDialogs.Resource.Attribute.tintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tintMode;
-			global::Acr.UserDialogs.Resource.Attribute.title = global::AutoAppo_StevenVR.Droid.Resource.Attribute.title;
-			global::Acr.UserDialogs.Resource.Attribute.titleCentered = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleCentered;
-			global::Acr.UserDialogs.Resource.Attribute.titleCollapseMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleCollapseMode;
-			global::Acr.UserDialogs.Resource.Attribute.titleEnabled = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleEnabled;
-			global::Acr.UserDialogs.Resource.Attribute.titleMargin = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleMargin;
-			global::Acr.UserDialogs.Resource.Attribute.titleMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleMarginBottom;
-			global::Acr.UserDialogs.Resource.Attribute.titleMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleMarginEnd;
-			global::Acr.UserDialogs.Resource.Attribute.titleMargins = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleMargins;
-			global::Acr.UserDialogs.Resource.Attribute.titleMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleMarginStart;
-			global::Acr.UserDialogs.Resource.Attribute.titleMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleMarginTop;
-			global::Acr.UserDialogs.Resource.Attribute.titleTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleTextAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.titleTextColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleTextColor;
-			global::Acr.UserDialogs.Resource.Attribute.titleTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.titleTextStyle;
-			global::Acr.UserDialogs.Resource.Attribute.toolbarId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.toolbarId;
-			global::Acr.UserDialogs.Resource.Attribute.toolbarNavigationButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::Acr.UserDialogs.Resource.Attribute.toolbarStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.toolbarStyle;
-			global::Acr.UserDialogs.Resource.Attribute.tooltipForegroundColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tooltipForegroundColor;
-			global::Acr.UserDialogs.Resource.Attribute.tooltipFrameBackground = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tooltipFrameBackground;
-			global::Acr.UserDialogs.Resource.Attribute.tooltipStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tooltipStyle;
-			global::Acr.UserDialogs.Resource.Attribute.tooltipText = global::AutoAppo_StevenVR.Droid.Resource.Attribute.tooltipText;
-			global::Acr.UserDialogs.Resource.Attribute.touchAnchorId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.touchAnchorId;
-			global::Acr.UserDialogs.Resource.Attribute.touchAnchorSide = global::AutoAppo_StevenVR.Droid.Resource.Attribute.touchAnchorSide;
-			global::Acr.UserDialogs.Resource.Attribute.touchRegionId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.touchRegionId;
-			global::Acr.UserDialogs.Resource.Attribute.track = global::AutoAppo_StevenVR.Droid.Resource.Attribute.track;
-			global::Acr.UserDialogs.Resource.Attribute.trackColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.trackColor;
-			global::Acr.UserDialogs.Resource.Attribute.trackColorActive = global::AutoAppo_StevenVR.Droid.Resource.Attribute.trackColorActive;
-			global::Acr.UserDialogs.Resource.Attribute.trackColorInactive = global::AutoAppo_StevenVR.Droid.Resource.Attribute.trackColorInactive;
-			global::Acr.UserDialogs.Resource.Attribute.trackCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Attribute.trackCornerRadius;
-			global::Acr.UserDialogs.Resource.Attribute.trackHeight = global::AutoAppo_StevenVR.Droid.Resource.Attribute.trackHeight;
-			global::Acr.UserDialogs.Resource.Attribute.trackThickness = global::AutoAppo_StevenVR.Droid.Resource.Attribute.trackThickness;
-			global::Acr.UserDialogs.Resource.Attribute.trackTint = global::AutoAppo_StevenVR.Droid.Resource.Attribute.trackTint;
-			global::Acr.UserDialogs.Resource.Attribute.trackTintMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.trackTintMode;
-			global::Acr.UserDialogs.Resource.Attribute.transformPivotTarget = global::AutoAppo_StevenVR.Droid.Resource.Attribute.transformPivotTarget;
-			global::Acr.UserDialogs.Resource.Attribute.transitionDisable = global::AutoAppo_StevenVR.Droid.Resource.Attribute.transitionDisable;
-			global::Acr.UserDialogs.Resource.Attribute.transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Attribute.transitionEasing;
-			global::Acr.UserDialogs.Resource.Attribute.transitionFlags = global::AutoAppo_StevenVR.Droid.Resource.Attribute.transitionFlags;
-			global::Acr.UserDialogs.Resource.Attribute.transitionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Attribute.transitionPathRotate;
-			global::Acr.UserDialogs.Resource.Attribute.transitionShapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Attribute.transitionShapeAppearance;
-			global::Acr.UserDialogs.Resource.Attribute.triggerId = global::AutoAppo_StevenVR.Droid.Resource.Attribute.triggerId;
-			global::Acr.UserDialogs.Resource.Attribute.triggerReceiver = global::AutoAppo_StevenVR.Droid.Resource.Attribute.triggerReceiver;
-			global::Acr.UserDialogs.Resource.Attribute.triggerSlack = global::AutoAppo_StevenVR.Droid.Resource.Attribute.triggerSlack;
-			global::Acr.UserDialogs.Resource.Attribute.ttcIndex = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ttcIndex;
-			global::Acr.UserDialogs.Resource.Attribute.upDuration = global::AutoAppo_StevenVR.Droid.Resource.Attribute.upDuration;
-			global::Acr.UserDialogs.Resource.Attribute.useCompatPadding = global::AutoAppo_StevenVR.Droid.Resource.Attribute.useCompatPadding;
-			global::Acr.UserDialogs.Resource.Attribute.useMaterialThemeColors = global::AutoAppo_StevenVR.Droid.Resource.Attribute.useMaterialThemeColors;
-			global::Acr.UserDialogs.Resource.Attribute.values = global::AutoAppo_StevenVR.Droid.Resource.Attribute.values;
-			global::Acr.UserDialogs.Resource.Attribute.verticalOffset = global::AutoAppo_StevenVR.Droid.Resource.Attribute.verticalOffset;
-			global::Acr.UserDialogs.Resource.Attribute.viewInflaterClass = global::AutoAppo_StevenVR.Droid.Resource.Attribute.viewInflaterClass;
-			global::Acr.UserDialogs.Resource.Attribute.viewTransitionMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.viewTransitionMode;
-			global::Acr.UserDialogs.Resource.Attribute.viewTransitionOnCross = global::AutoAppo_StevenVR.Droid.Resource.Attribute.viewTransitionOnCross;
-			global::Acr.UserDialogs.Resource.Attribute.viewTransitionOnNegativeCross = global::AutoAppo_StevenVR.Droid.Resource.Attribute.viewTransitionOnNegativeCross;
-			global::Acr.UserDialogs.Resource.Attribute.viewTransitionOnPositiveCross = global::AutoAppo_StevenVR.Droid.Resource.Attribute.viewTransitionOnPositiveCross;
-			global::Acr.UserDialogs.Resource.Attribute.visibilityMode = global::AutoAppo_StevenVR.Droid.Resource.Attribute.visibilityMode;
-			global::Acr.UserDialogs.Resource.Attribute.voiceIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.voiceIcon;
-			global::Acr.UserDialogs.Resource.Attribute.warmth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.warmth;
-			global::Acr.UserDialogs.Resource.Attribute.waveDecay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.waveDecay;
-			global::Acr.UserDialogs.Resource.Attribute.waveOffset = global::AutoAppo_StevenVR.Droid.Resource.Attribute.waveOffset;
-			global::Acr.UserDialogs.Resource.Attribute.wavePeriod = global::AutoAppo_StevenVR.Droid.Resource.Attribute.wavePeriod;
-			global::Acr.UserDialogs.Resource.Attribute.wavePhase = global::AutoAppo_StevenVR.Droid.Resource.Attribute.wavePhase;
-			global::Acr.UserDialogs.Resource.Attribute.waveShape = global::AutoAppo_StevenVR.Droid.Resource.Attribute.waveShape;
-			global::Acr.UserDialogs.Resource.Attribute.waveVariesBy = global::AutoAppo_StevenVR.Droid.Resource.Attribute.waveVariesBy;
-			global::Acr.UserDialogs.Resource.Attribute.windowActionBar = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowActionBar;
-			global::Acr.UserDialogs.Resource.Attribute.windowActionBarOverlay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::Acr.UserDialogs.Resource.Attribute.windowActionModeOverlay = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::Acr.UserDialogs.Resource.Attribute.windowFixedHeightMajor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::Acr.UserDialogs.Resource.Attribute.windowFixedHeightMinor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::Acr.UserDialogs.Resource.Attribute.windowFixedWidthMajor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::Acr.UserDialogs.Resource.Attribute.windowFixedWidthMinor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::Acr.UserDialogs.Resource.Attribute.windowMinWidthMajor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::Acr.UserDialogs.Resource.Attribute.windowMinWidthMinor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::Acr.UserDialogs.Resource.Attribute.windowNoTitle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.windowNoTitle;
-			global::Acr.UserDialogs.Resource.Attribute.yearSelectedStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.yearSelectedStyle;
-			global::Acr.UserDialogs.Resource.Attribute.yearStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.yearStyle;
-			global::Acr.UserDialogs.Resource.Attribute.yearTodayStyle = global::AutoAppo_StevenVR.Droid.Resource.Attribute.yearTodayStyle;
-			global::Acr.UserDialogs.Resource.Boolean.abc_action_bar_embed_tabs = global::AutoAppo_StevenVR.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::Acr.UserDialogs.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::AutoAppo_StevenVR.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::Acr.UserDialogs.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::AutoAppo_StevenVR.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
-			global::Acr.UserDialogs.Resource.Color.abc_background_cache_hint_selector_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::Acr.UserDialogs.Resource.Color.abc_background_cache_hint_selector_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::Acr.UserDialogs.Resource.Color.abc_btn_colored_borderless_text_material = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::Acr.UserDialogs.Resource.Color.abc_btn_colored_text_material = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_btn_colored_text_material;
-			global::Acr.UserDialogs.Resource.Color.abc_color_highlight_material = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_color_highlight_material;
-			global::Acr.UserDialogs.Resource.Color.abc_decor_view_status_guard = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_decor_view_status_guard;
-			global::Acr.UserDialogs.Resource.Color.abc_decor_view_status_guard_light = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_decor_view_status_guard_light;
-			global::Acr.UserDialogs.Resource.Color.abc_hint_foreground_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_hint_foreground_material_dark;
-			global::Acr.UserDialogs.Resource.Color.abc_hint_foreground_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_hint_foreground_material_light;
-			global::Acr.UserDialogs.Resource.Color.abc_primary_text_disable_only_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::Acr.UserDialogs.Resource.Color.abc_primary_text_disable_only_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::Acr.UserDialogs.Resource.Color.abc_primary_text_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::Acr.UserDialogs.Resource.Color.abc_primary_text_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_primary_text_material_light;
-			global::Acr.UserDialogs.Resource.Color.abc_search_url_text = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_search_url_text;
-			global::Acr.UserDialogs.Resource.Color.abc_search_url_text_normal = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_search_url_text_normal;
-			global::Acr.UserDialogs.Resource.Color.abc_search_url_text_pressed = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::Acr.UserDialogs.Resource.Color.abc_search_url_text_selected = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_search_url_text_selected;
-			global::Acr.UserDialogs.Resource.Color.abc_secondary_text_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::Acr.UserDialogs.Resource.Color.abc_secondary_text_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::Acr.UserDialogs.Resource.Color.abc_tint_btn_checkable = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_tint_btn_checkable;
-			global::Acr.UserDialogs.Resource.Color.abc_tint_default = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_tint_default;
-			global::Acr.UserDialogs.Resource.Color.abc_tint_edittext = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_tint_edittext;
-			global::Acr.UserDialogs.Resource.Color.abc_tint_seek_thumb = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_tint_seek_thumb;
-			global::Acr.UserDialogs.Resource.Color.abc_tint_spinner = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_tint_spinner;
-			global::Acr.UserDialogs.Resource.Color.abc_tint_switch_track = global::AutoAppo_StevenVR.Droid.Resource.Color.abc_tint_switch_track;
-			global::Acr.UserDialogs.Resource.Color.accent_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.accent_material_dark;
-			global::Acr.UserDialogs.Resource.Color.accent_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.accent_material_light;
-			global::Acr.UserDialogs.Resource.Color.androidx_core_ripple_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.androidx_core_ripple_material_light;
-			global::Acr.UserDialogs.Resource.Color.androidx_core_secondary_text_default_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
-			global::Acr.UserDialogs.Resource.Color.background_floating_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.background_floating_material_dark;
-			global::Acr.UserDialogs.Resource.Color.background_floating_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.background_floating_material_light;
-			global::Acr.UserDialogs.Resource.Color.background_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.background_material_dark;
-			global::Acr.UserDialogs.Resource.Color.background_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.background_material_light;
-			global::Acr.UserDialogs.Resource.Color.bright_foreground_disabled_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::Acr.UserDialogs.Resource.Color.bright_foreground_disabled_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::Acr.UserDialogs.Resource.Color.bright_foreground_inverse_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::Acr.UserDialogs.Resource.Color.bright_foreground_inverse_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::Acr.UserDialogs.Resource.Color.bright_foreground_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.bright_foreground_material_dark;
-			global::Acr.UserDialogs.Resource.Color.bright_foreground_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.bright_foreground_material_light;
-			global::Acr.UserDialogs.Resource.Color.button_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.button_material_dark;
-			global::Acr.UserDialogs.Resource.Color.button_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.button_material_light;
-			global::Acr.UserDialogs.Resource.Color.cardview_dark_background = global::AutoAppo_StevenVR.Droid.Resource.Color.cardview_dark_background;
-			global::Acr.UserDialogs.Resource.Color.cardview_light_background = global::AutoAppo_StevenVR.Droid.Resource.Color.cardview_light_background;
-			global::Acr.UserDialogs.Resource.Color.cardview_shadow_end_color = global::AutoAppo_StevenVR.Droid.Resource.Color.cardview_shadow_end_color;
-			global::Acr.UserDialogs.Resource.Color.cardview_shadow_start_color = global::AutoAppo_StevenVR.Droid.Resource.Color.cardview_shadow_start_color;
-			global::Acr.UserDialogs.Resource.Color.checkbox_themeable_attribute_color = global::AutoAppo_StevenVR.Droid.Resource.Color.checkbox_themeable_attribute_color;
-			global::Acr.UserDialogs.Resource.Color.design_bottom_navigation_shadow_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_bottom_navigation_shadow_color;
-			global::Acr.UserDialogs.Resource.Color.design_box_stroke_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_box_stroke_color;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_background = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_background;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_error = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_error;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_on_background = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_on_background;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_on_error = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_on_error;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_on_primary = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_on_primary;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_on_secondary = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_on_secondary;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_on_surface = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_on_surface;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_primary = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_primary;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_primary_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_primary_dark;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_primary_variant = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_primary_variant;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_secondary = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_secondary;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_secondary_variant = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_secondary_variant;
-			global::Acr.UserDialogs.Resource.Color.design_dark_default_color_surface = global::AutoAppo_StevenVR.Droid.Resource.Color.design_dark_default_color_surface;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_background = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_background;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_error = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_error;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_on_background = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_on_background;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_on_error = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_on_error;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_on_primary = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_on_primary;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_on_secondary = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_on_secondary;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_on_surface = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_on_surface;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_primary = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_primary;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_primary_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_primary_dark;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_primary_variant = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_primary_variant;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_secondary = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_secondary;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_secondary_variant = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_secondary_variant;
-			global::Acr.UserDialogs.Resource.Color.design_default_color_surface = global::AutoAppo_StevenVR.Droid.Resource.Color.design_default_color_surface;
-			global::Acr.UserDialogs.Resource.Color.design_error = global::AutoAppo_StevenVR.Droid.Resource.Color.design_error;
-			global::Acr.UserDialogs.Resource.Color.design_fab_shadow_end_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::Acr.UserDialogs.Resource.Color.design_fab_shadow_mid_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::Acr.UserDialogs.Resource.Color.design_fab_shadow_start_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::Acr.UserDialogs.Resource.Color.design_fab_stroke_end_inner_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::Acr.UserDialogs.Resource.Color.design_fab_stroke_end_outer_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::Acr.UserDialogs.Resource.Color.design_fab_stroke_top_inner_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::Acr.UserDialogs.Resource.Color.design_fab_stroke_top_outer_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::Acr.UserDialogs.Resource.Color.design_icon_tint = global::AutoAppo_StevenVR.Droid.Resource.Color.design_icon_tint;
-			global::Acr.UserDialogs.Resource.Color.design_snackbar_background_color = global::AutoAppo_StevenVR.Droid.Resource.Color.design_snackbar_background_color;
-			global::Acr.UserDialogs.Resource.Color.dim_foreground_disabled_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::Acr.UserDialogs.Resource.Color.dim_foreground_disabled_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::Acr.UserDialogs.Resource.Color.dim_foreground_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.dim_foreground_material_dark;
-			global::Acr.UserDialogs.Resource.Color.dim_foreground_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.dim_foreground_material_light;
-			global::Acr.UserDialogs.Resource.Color.error_color_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.error_color_material_dark;
-			global::Acr.UserDialogs.Resource.Color.error_color_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.error_color_material_light;
-			global::Acr.UserDialogs.Resource.Color.foreground_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.foreground_material_dark;
-			global::Acr.UserDialogs.Resource.Color.foreground_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.foreground_material_light;
-			global::Acr.UserDialogs.Resource.Color.highlighted_text_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.highlighted_text_material_dark;
-			global::Acr.UserDialogs.Resource.Color.highlighted_text_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.highlighted_text_material_light;
-			global::Acr.UserDialogs.Resource.Color.material_blue_grey_800 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_blue_grey_800;
-			global::Acr.UserDialogs.Resource.Color.material_blue_grey_900 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_blue_grey_900;
-			global::Acr.UserDialogs.Resource.Color.material_blue_grey_950 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_blue_grey_950;
-			global::Acr.UserDialogs.Resource.Color.material_cursor_color = global::AutoAppo_StevenVR.Droid.Resource.Color.material_cursor_color;
-			global::Acr.UserDialogs.Resource.Color.material_deep_teal_200 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_deep_teal_200;
-			global::Acr.UserDialogs.Resource.Color.material_deep_teal_500 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_deep_teal_500;
-			global::Acr.UserDialogs.Resource.Color.material_grey_100 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_grey_100;
-			global::Acr.UserDialogs.Resource.Color.material_grey_300 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_grey_300;
-			global::Acr.UserDialogs.Resource.Color.material_grey_50 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_grey_50;
-			global::Acr.UserDialogs.Resource.Color.material_grey_600 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_grey_600;
-			global::Acr.UserDialogs.Resource.Color.material_grey_800 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_grey_800;
-			global::Acr.UserDialogs.Resource.Color.material_grey_850 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_grey_850;
-			global::Acr.UserDialogs.Resource.Color.material_grey_900 = global::AutoAppo_StevenVR.Droid.Resource.Color.material_grey_900;
-			global::Acr.UserDialogs.Resource.Color.material_on_background_disabled = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_background_disabled;
-			global::Acr.UserDialogs.Resource.Color.material_on_background_emphasis_high_type = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_background_emphasis_high_type;
-			global::Acr.UserDialogs.Resource.Color.material_on_background_emphasis_medium = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_background_emphasis_medium;
-			global::Acr.UserDialogs.Resource.Color.material_on_primary_disabled = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_primary_disabled;
-			global::Acr.UserDialogs.Resource.Color.material_on_primary_emphasis_high_type = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_primary_emphasis_high_type;
-			global::Acr.UserDialogs.Resource.Color.material_on_primary_emphasis_medium = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_primary_emphasis_medium;
-			global::Acr.UserDialogs.Resource.Color.material_on_surface_disabled = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_surface_disabled;
-			global::Acr.UserDialogs.Resource.Color.material_on_surface_emphasis_high_type = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_surface_emphasis_high_type;
-			global::Acr.UserDialogs.Resource.Color.material_on_surface_emphasis_medium = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_surface_emphasis_medium;
-			global::Acr.UserDialogs.Resource.Color.material_on_surface_stroke = global::AutoAppo_StevenVR.Droid.Resource.Color.material_on_surface_stroke;
-			global::Acr.UserDialogs.Resource.Color.material_slider_active_tick_marks_color = global::AutoAppo_StevenVR.Droid.Resource.Color.material_slider_active_tick_marks_color;
-			global::Acr.UserDialogs.Resource.Color.material_slider_active_track_color = global::AutoAppo_StevenVR.Droid.Resource.Color.material_slider_active_track_color;
-			global::Acr.UserDialogs.Resource.Color.material_slider_halo_color = global::AutoAppo_StevenVR.Droid.Resource.Color.material_slider_halo_color;
-			global::Acr.UserDialogs.Resource.Color.material_slider_inactive_tick_marks_color = global::AutoAppo_StevenVR.Droid.Resource.Color.material_slider_inactive_tick_marks_color;
-			global::Acr.UserDialogs.Resource.Color.material_slider_inactive_track_color = global::AutoAppo_StevenVR.Droid.Resource.Color.material_slider_inactive_track_color;
-			global::Acr.UserDialogs.Resource.Color.material_slider_thumb_color = global::AutoAppo_StevenVR.Droid.Resource.Color.material_slider_thumb_color;
-			global::Acr.UserDialogs.Resource.Color.material_timepicker_button_background = global::AutoAppo_StevenVR.Droid.Resource.Color.material_timepicker_button_background;
-			global::Acr.UserDialogs.Resource.Color.material_timepicker_button_stroke = global::AutoAppo_StevenVR.Droid.Resource.Color.material_timepicker_button_stroke;
-			global::Acr.UserDialogs.Resource.Color.material_timepicker_clockface = global::AutoAppo_StevenVR.Droid.Resource.Color.material_timepicker_clockface;
-			global::Acr.UserDialogs.Resource.Color.material_timepicker_clock_text_color = global::AutoAppo_StevenVR.Droid.Resource.Color.material_timepicker_clock_text_color;
-			global::Acr.UserDialogs.Resource.Color.material_timepicker_modebutton_tint = global::AutoAppo_StevenVR.Droid.Resource.Color.material_timepicker_modebutton_tint;
-			global::Acr.UserDialogs.Resource.Color.mtrl_btn_bg_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_btn_bg_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_btn_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_btn_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_btn_stroke_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_btn_text_btn_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_btn_text_color_disabled = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_btn_text_color_disabled;
-			global::Acr.UserDialogs.Resource.Color.mtrl_btn_text_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_btn_text_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_btn_transparent_bg_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_calendar_item_stroke_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_calendar_selected_range = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_calendar_selected_range;
-			global::Acr.UserDialogs.Resource.Color.mtrl_card_view_foreground = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_card_view_foreground;
-			global::Acr.UserDialogs.Resource.Color.mtrl_card_view_ripple = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_card_view_ripple;
-			global::Acr.UserDialogs.Resource.Color.mtrl_chip_background_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_chip_background_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_chip_close_icon_tint = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_chip_close_icon_tint;
-			global::Acr.UserDialogs.Resource.Color.mtrl_chip_surface_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_chip_surface_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_chip_text_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_chip_text_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_choice_chip_background_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_choice_chip_background_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_choice_chip_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_choice_chip_text_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_choice_chip_text_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_error = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_error;
-			global::Acr.UserDialogs.Resource.Color.mtrl_fab_bg_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_fab_bg_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_fab_icon_text_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_fab_icon_text_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_fab_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_fab_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_filled_background_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_filled_background_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_filled_icon_tint = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_filled_icon_tint;
-			global::Acr.UserDialogs.Resource.Color.mtrl_filled_stroke_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_filled_stroke_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_indicator_text_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_indicator_text_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_navigation_bar_colored_item_tint = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_navigation_bar_colored_item_tint;
-			global::Acr.UserDialogs.Resource.Color.mtrl_navigation_bar_colored_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_navigation_bar_colored_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_navigation_bar_item_tint = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_navigation_bar_item_tint;
-			global::Acr.UserDialogs.Resource.Color.mtrl_navigation_bar_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_navigation_bar_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_navigation_item_background_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_navigation_item_background_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_navigation_item_icon_tint = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
-			global::Acr.UserDialogs.Resource.Color.mtrl_navigation_item_text_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_navigation_item_text_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_on_surface_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_on_surface_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_outlined_icon_tint = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_outlined_icon_tint;
-			global::Acr.UserDialogs.Resource.Color.mtrl_outlined_stroke_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_outlined_stroke_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_popupmenu_overlay_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_scrim_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_scrim_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_tabs_colored_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_tabs_icon_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
-			global::Acr.UserDialogs.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
-			global::Acr.UserDialogs.Resource.Color.mtrl_tabs_ripple_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_tabs_ripple_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_textinput_default_box_stroke_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_textinput_disabled_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_textinput_disabled_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
-			global::Acr.UserDialogs.Resource.Color.mtrl_text_btn_text_color_selector = global::AutoAppo_StevenVR.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
-			global::Acr.UserDialogs.Resource.Color.notification_action_color_filter = global::AutoAppo_StevenVR.Droid.Resource.Color.notification_action_color_filter;
-			global::Acr.UserDialogs.Resource.Color.notification_icon_bg_color = global::AutoAppo_StevenVR.Droid.Resource.Color.notification_icon_bg_color;
-			global::Acr.UserDialogs.Resource.Color.primary_dark_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.primary_dark_material_dark;
-			global::Acr.UserDialogs.Resource.Color.primary_dark_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.primary_dark_material_light;
-			global::Acr.UserDialogs.Resource.Color.primary_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.primary_material_dark;
-			global::Acr.UserDialogs.Resource.Color.primary_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.primary_material_light;
-			global::Acr.UserDialogs.Resource.Color.primary_text_default_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.primary_text_default_material_dark;
-			global::Acr.UserDialogs.Resource.Color.primary_text_default_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.primary_text_default_material_light;
-			global::Acr.UserDialogs.Resource.Color.primary_text_disabled_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::Acr.UserDialogs.Resource.Color.primary_text_disabled_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Acr.UserDialogs.Resource.Color.radiobutton_themeable_attribute_color = global::AutoAppo_StevenVR.Droid.Resource.Color.radiobutton_themeable_attribute_color;
-			global::Acr.UserDialogs.Resource.Color.ripple_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.ripple_material_dark;
-			global::Acr.UserDialogs.Resource.Color.ripple_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.ripple_material_light;
-			global::Acr.UserDialogs.Resource.Color.secondary_text_default_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::Acr.UserDialogs.Resource.Color.secondary_text_default_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.secondary_text_default_material_light;
-			global::Acr.UserDialogs.Resource.Color.secondary_text_disabled_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::Acr.UserDialogs.Resource.Color.secondary_text_disabled_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::Acr.UserDialogs.Resource.Color.switch_thumb_disabled_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::Acr.UserDialogs.Resource.Color.switch_thumb_disabled_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::Acr.UserDialogs.Resource.Color.switch_thumb_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.switch_thumb_material_dark;
-			global::Acr.UserDialogs.Resource.Color.switch_thumb_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.switch_thumb_material_light;
-			global::Acr.UserDialogs.Resource.Color.switch_thumb_normal_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::Acr.UserDialogs.Resource.Color.switch_thumb_normal_material_light = global::AutoAppo_StevenVR.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Acr.UserDialogs.Resource.Color.test_mtrl_calendar_day = global::AutoAppo_StevenVR.Droid.Resource.Color.test_mtrl_calendar_day;
-			global::Acr.UserDialogs.Resource.Color.test_mtrl_calendar_day_selected = global::AutoAppo_StevenVR.Droid.Resource.Color.test_mtrl_calendar_day_selected;
-			global::Acr.UserDialogs.Resource.Color.tooltip_background_dark = global::AutoAppo_StevenVR.Droid.Resource.Color.tooltip_background_dark;
-			global::Acr.UserDialogs.Resource.Color.tooltip_background_light = global::AutoAppo_StevenVR.Droid.Resource.Color.tooltip_background_light;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_content_inset_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_default_height_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_default_padding_end_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_default_padding_start_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_elevation_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_elevation_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_stacked_max_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_button_min_height_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_button_min_width_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_action_button_min_width_overflow_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_alert_dialog_button_bar_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::Acr.UserDialogs.Resource.Dimension.abc_alert_dialog_button_dimen = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
-			global::Acr.UserDialogs.Resource.Dimension.abc_button_inset_horizontal_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_button_inset_vertical_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_button_padding_horizontal_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_button_padding_vertical_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::Acr.UserDialogs.Resource.Dimension.abc_config_prefDialogWidth = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::Acr.UserDialogs.Resource.Dimension.abc_control_corner_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_control_corner_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_control_inset_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_control_inset_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_control_padding_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_control_padding_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_corner_radius_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_fixed_height_major = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_fixed_height_minor = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_fixed_width_major = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_fixed_width_minor = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_min_width_major = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_min_width_minor = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_padding_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_padding_top_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dialog_title_divider_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dialog_title_divider_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_disabled_alpha_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::Acr.UserDialogs.Resource.Dimension.abc_disabled_alpha_material_light = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dropdownitem_icon_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dropdownitem_text_padding_left = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::Acr.UserDialogs.Resource.Dimension.abc_dropdownitem_text_padding_right = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::Acr.UserDialogs.Resource.Dimension.abc_edit_text_inset_bottom_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_edit_text_inset_top_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_floating_window_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_floating_window_z;
-			global::Acr.UserDialogs.Resource.Dimension.abc_list_item_height_large_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_list_item_height_large_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_list_item_height_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_list_item_height_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_list_item_height_small_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_list_item_height_small_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_list_item_padding_horizontal_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_panel_menu_list_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::Acr.UserDialogs.Resource.Dimension.abc_progress_bar_height_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_progress_bar_height_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_search_view_preferred_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_search_view_preferred_height;
-			global::Acr.UserDialogs.Resource.Dimension.abc_search_view_preferred_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::Acr.UserDialogs.Resource.Dimension.abc_seekbar_track_background_height_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_seekbar_track_progress_height_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_select_dialog_padding_start_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_star_big = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_star_big;
-			global::Acr.UserDialogs.Resource.Dimension.abc_star_medium = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_star_medium;
-			global::Acr.UserDialogs.Resource.Dimension.abc_star_small = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_star_small;
-			global::Acr.UserDialogs.Resource.Dimension.abc_switch_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_switch_padding;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_body_1_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_body_2_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_button_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_caption_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_display_1_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_display_2_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_display_3_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_display_4_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_headline_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_large_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_medium_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_menu_header_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_menu_header_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_menu_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_small_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_subhead_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_title_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::Acr.UserDialogs.Resource.Dimension.abc_text_size_title_material_toolbar = global::AutoAppo_StevenVR.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Acr.UserDialogs.Resource.Dimension.action_bar_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.action_bar_size;
-			global::Acr.UserDialogs.Resource.Dimension.appcompat_dialog_background_inset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.appcompat_dialog_background_inset;
-			global::Acr.UserDialogs.Resource.Dimension.cardview_compat_inset_shadow = global::AutoAppo_StevenVR.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::Acr.UserDialogs.Resource.Dimension.cardview_default_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.cardview_default_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.cardview_default_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.cardview_default_radius;
-			global::Acr.UserDialogs.Resource.Dimension.clock_face_margin_start = global::AutoAppo_StevenVR.Droid.Resource.Dimension.clock_face_margin_start;
-			global::Acr.UserDialogs.Resource.Dimension.compat_button_inset_horizontal_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::Acr.UserDialogs.Resource.Dimension.compat_button_inset_vertical_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.compat_button_inset_vertical_material;
-			global::Acr.UserDialogs.Resource.Dimension.compat_button_padding_horizontal_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::Acr.UserDialogs.Resource.Dimension.compat_button_padding_vertical_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.compat_button_padding_vertical_material;
-			global::Acr.UserDialogs.Resource.Dimension.compat_control_corner_material = global::AutoAppo_StevenVR.Droid.Resource.Dimension.compat_control_corner_material;
-			global::Acr.UserDialogs.Resource.Dimension.compat_notification_large_icon_max_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
-			global::Acr.UserDialogs.Resource.Dimension.compat_notification_large_icon_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.default_dimension = global::AutoAppo_StevenVR.Droid.Resource.Dimension.default_dimension;
-			global::Acr.UserDialogs.Resource.Dimension.def_drawer_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.def_drawer_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.design_appbar_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_appbar_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_active_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_height;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_item_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_item_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_label_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_label_padding;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_margin;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_shadow_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_navigation_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_navigation_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_sheet_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_sheet_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_sheet_modal_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.design_bottom_sheet_peek_height_min = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::Acr.UserDialogs.Resource.Dimension.design_fab_border_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_fab_border_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_fab_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_fab_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.design_fab_image_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_fab_image_size;
-			global::Acr.UserDialogs.Resource.Dimension.design_fab_size_mini = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_fab_size_mini;
-			global::Acr.UserDialogs.Resource.Dimension.design_fab_size_normal = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_fab_size_normal;
-			global::Acr.UserDialogs.Resource.Dimension.design_fab_translation_z_hovered_focused = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
-			global::Acr.UserDialogs.Resource.Dimension.design_fab_translation_z_pressed = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::Acr.UserDialogs.Resource.Dimension.design_navigation_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_navigation_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.design_navigation_icon_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::Acr.UserDialogs.Resource.Dimension.design_navigation_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.design_navigation_item_horizontal_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
-			global::Acr.UserDialogs.Resource.Dimension.design_navigation_item_icon_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_navigation_item_icon_padding;
-			global::Acr.UserDialogs.Resource.Dimension.design_navigation_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_navigation_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_navigation_padding_bottom = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::Acr.UserDialogs.Resource.Dimension.design_navigation_separator_vertical_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_action_inline_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_action_text_color_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_background_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_padding_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_padding_vertical = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::Acr.UserDialogs.Resource.Dimension.design_snackbar_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.design_tab_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_tab_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_tab_scrollable_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.design_tab_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_tab_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.design_tab_text_size_2line = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::Acr.UserDialogs.Resource.Dimension.design_textinput_caption_translate_y = global::AutoAppo_StevenVR.Droid.Resource.Dimension.design_textinput_caption_translate_y;
-			global::Acr.UserDialogs.Resource.Dimension.disabled_alpha_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::Acr.UserDialogs.Resource.Dimension.disabled_alpha_material_light = global::AutoAppo_StevenVR.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::Acr.UserDialogs.Resource.Dimension.fastscroll_default_thickness = global::AutoAppo_StevenVR.Droid.Resource.Dimension.fastscroll_default_thickness;
-			global::Acr.UserDialogs.Resource.Dimension.fastscroll_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.fastscroll_margin;
-			global::Acr.UserDialogs.Resource.Dimension.fastscroll_minimum_range = global::AutoAppo_StevenVR.Droid.Resource.Dimension.fastscroll_minimum_range;
-			global::Acr.UserDialogs.Resource.Dimension.highlight_alpha_material_colored = global::AutoAppo_StevenVR.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::Acr.UserDialogs.Resource.Dimension.highlight_alpha_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::Acr.UserDialogs.Resource.Dimension.highlight_alpha_material_light = global::AutoAppo_StevenVR.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::Acr.UserDialogs.Resource.Dimension.hint_alpha_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Dimension.hint_alpha_material_dark;
-			global::Acr.UserDialogs.Resource.Dimension.hint_alpha_material_light = global::AutoAppo_StevenVR.Droid.Resource.Dimension.hint_alpha_material_light;
-			global::Acr.UserDialogs.Resource.Dimension.hint_pressed_alpha_material_dark = global::AutoAppo_StevenVR.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::Acr.UserDialogs.Resource.Dimension.hint_pressed_alpha_material_light = global::AutoAppo_StevenVR.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::Acr.UserDialogs.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::AutoAppo_StevenVR.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::Acr.UserDialogs.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::AutoAppo_StevenVR.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::Acr.UserDialogs.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::AutoAppo_StevenVR.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::Acr.UserDialogs.Resource.Dimension.material_bottom_sheet_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_bottom_sheet_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_display_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_display_padding;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_face_margin_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_face_margin_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_hand_center_dot_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_hand_center_dot_radius;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_hand_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_hand_padding;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_hand_stroke_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_hand_stroke_width;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_number_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_number_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_period_toggle_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_period_toggle_height;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_period_toggle_margin_left = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_period_toggle_margin_left;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_period_toggle_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_period_toggle_width;
-			global::Acr.UserDialogs.Resource.Dimension.material_clock_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_clock_size;
-			global::Acr.UserDialogs.Resource.Dimension.material_cursor_inset_bottom = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_cursor_inset_bottom;
-			global::Acr.UserDialogs.Resource.Dimension.material_cursor_inset_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_cursor_inset_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_cursor_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_cursor_width;
-			global::Acr.UserDialogs.Resource.Dimension.material_emphasis_disabled = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_emphasis_disabled;
-			global::Acr.UserDialogs.Resource.Dimension.material_emphasis_high_type = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_emphasis_high_type;
-			global::Acr.UserDialogs.Resource.Dimension.material_emphasis_medium = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_emphasis_medium;
-			global::Acr.UserDialogs.Resource.Dimension.material_filled_edittext_font_1_3_padding_bottom = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_filled_edittext_font_1_3_padding_bottom;
-			global::Acr.UserDialogs.Resource.Dimension.material_filled_edittext_font_1_3_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_filled_edittext_font_1_3_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_filled_edittext_font_2_0_padding_bottom = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_filled_edittext_font_2_0_padding_bottom;
-			global::Acr.UserDialogs.Resource.Dimension.material_filled_edittext_font_2_0_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_filled_edittext_font_2_0_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_font_1_3_box_collapsed_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_font_1_3_box_collapsed_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_font_2_0_box_collapsed_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_font_2_0_box_collapsed_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_helper_text_default_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_helper_text_default_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_helper_text_font_1_3_padding_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_helper_text_font_1_3_padding_horizontal;
-			global::Acr.UserDialogs.Resource.Dimension.material_helper_text_font_1_3_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_helper_text_font_1_3_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_input_text_to_prefix_suffix_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_input_text_to_prefix_suffix_padding;
-			global::Acr.UserDialogs.Resource.Dimension.material_textinput_default_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_textinput_default_width;
-			global::Acr.UserDialogs.Resource.Dimension.material_textinput_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_textinput_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.material_textinput_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_textinput_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.material_text_view_test_line_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_text_view_test_line_height;
-			global::Acr.UserDialogs.Resource.Dimension.material_text_view_test_line_height_override = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_text_view_test_line_height_override;
-			global::Acr.UserDialogs.Resource.Dimension.material_timepicker_dialog_buttons_margin_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_timepicker_dialog_buttons_margin_top;
-			global::Acr.UserDialogs.Resource.Dimension.material_time_picker_minimum_screen_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_time_picker_minimum_screen_height;
-			global::Acr.UserDialogs.Resource.Dimension.material_time_picker_minimum_screen_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.material_time_picker_minimum_screen_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_badge_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_badge_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_badge_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_badge_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_horizontal_offset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_horizontal_offset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_vertical_offset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_vertical_offset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_badge_with_text_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_bottomappbar_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_bottomappbar_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_corner_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_disabled_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_disabled_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_disabled_z;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_focused_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_focused_z;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_hovered_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_hovered_z;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_icon_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_icon_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_inset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_inset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_letter_spacing = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_padding_bottom = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_padding_left = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_padding_left;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_padding_right = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_padding_right;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_pressed_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_pressed_z;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_snackbar_margin_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_snackbar_margin_horizontal;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_stroke_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_stroke_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_btn_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_btn_z;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_action_confirm_button_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_action_confirm_button_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_action_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_action_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_action_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_action_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_bottom_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_content_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_content_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_days_of_week_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_day_corner = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_day_corner;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_day_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_day_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_day_today_stroke = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_day_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_day_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_content_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_text_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_landscape_header_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_navigation_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_year_corner = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_year_corner;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_year_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_year_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_calendar_year_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_calendar_year_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_card_checked_icon_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_card_checked_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_card_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_card_corner_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_card_dragged_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_card_dragged_z;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_card_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_card_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_card_spacing = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_card_spacing;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_chip_pressed_translation_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_chip_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_chip_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_edittext_rectangle_top_offset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_edittext_rectangle_top_offset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_end_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_min_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_start_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_top_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_fab_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_fab_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_fab_min_touch_target = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_fab_translation_z_pressed = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_high_ripple_default_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_large_touch_target = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_large_touch_target;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_low_ripple_default_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_min_touch_target_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_min_touch_target_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_bar_item_default_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_bar_item_default_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_bar_item_default_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_bar_item_default_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_item_icon_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_item_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_active_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_active_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_compact_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_compact_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_default_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_default_width;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_icon_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_icon_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_text_bottom_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_text_bottom_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_navigation_rail_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_navigation_rail_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_inset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_inset;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_inset_extra_small = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_inset_extra_small;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_inset_medium = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_inset_medium;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_inset_small = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_inset_small;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_size;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_size_extra_small = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_size_extra_small;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_size_medium = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_size_medium;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_size_small = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_size_small;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_track_thickness_extra_small = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_extra_small;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_track_thickness_medium = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_medium;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_circular_track_thickness_small = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_small;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_indicator_full_rounded_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_indicator_full_rounded_corner_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_progress_track_thickness = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_progress_track_thickness;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_shape_corner_size_large_component = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_shape_corner_size_small_component = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_halo_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_halo_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_label_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_label_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_label_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_label_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_label_square_side = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_label_square_side;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_thumb_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_thumb_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_thumb_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_thumb_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_track_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_track_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_track_side_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_track_side_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_track_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_track_top;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_slider_widget_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_slider_widget_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_snackbar_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_snackbar_margin;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_snackbar_message_margin_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_snackbar_message_margin_horizontal;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_snackbar_padding_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_snackbar_padding_horizontal;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_switch_thumb_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_counter_margin_start = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_counter_margin_start;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_toolbar_default_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_toolbar_default_height;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_tooltip_arrowSize = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_tooltip_arrowSize;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_tooltip_cornerSize = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_tooltip_cornerSize;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_tooltip_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_tooltip_minHeight;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_tooltip_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_tooltip_minWidth;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_tooltip_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_tooltip_padding;
-			global::Acr.UserDialogs.Resource.Dimension.mtrl_transition_shared_axis_slide_distance = global::AutoAppo_StevenVR.Droid.Resource.Dimension.mtrl_transition_shared_axis_slide_distance;
-			global::Acr.UserDialogs.Resource.Dimension.notification_action_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_action_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.notification_action_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_action_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.notification_big_circle_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_big_circle_margin;
-			global::Acr.UserDialogs.Resource.Dimension.notification_content_margin_start = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_content_margin_start;
-			global::Acr.UserDialogs.Resource.Dimension.notification_large_icon_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_large_icon_height;
-			global::Acr.UserDialogs.Resource.Dimension.notification_large_icon_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_large_icon_width;
-			global::Acr.UserDialogs.Resource.Dimension.notification_main_column_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_main_column_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.notification_media_narrow_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_media_narrow_margin;
-			global::Acr.UserDialogs.Resource.Dimension.notification_right_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_right_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.notification_right_side_padding_top = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_right_side_padding_top;
-			global::Acr.UserDialogs.Resource.Dimension.notification_small_icon_background_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_small_icon_background_padding;
-			global::Acr.UserDialogs.Resource.Dimension.notification_small_icon_size_as_large = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_small_icon_size_as_large;
-			global::Acr.UserDialogs.Resource.Dimension.notification_subtext_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_subtext_size;
-			global::Acr.UserDialogs.Resource.Dimension.notification_top_pad = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_top_pad;
-			global::Acr.UserDialogs.Resource.Dimension.notification_top_pad_large_text = global::AutoAppo_StevenVR.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::Acr.UserDialogs.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_active_item_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_active_item_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_active_item_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_active_item_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_active_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_active_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_elevation = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_elevation;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_height;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_icon_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_icon_size;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_item_max_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_item_max_width;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_item_min_width = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_item_min_width;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_label_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_label_padding;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_shadow_height = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_shadow_height;
-			global::Acr.UserDialogs.Resource.Dimension.test_navigation_bar_text_size = global::AutoAppo_StevenVR.Droid.Resource.Dimension.test_navigation_bar_text_size;
-			global::Acr.UserDialogs.Resource.Dimension.tooltip_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Dimension.tooltip_corner_radius;
-			global::Acr.UserDialogs.Resource.Dimension.tooltip_horizontal_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.tooltip_horizontal_padding;
-			global::Acr.UserDialogs.Resource.Dimension.tooltip_margin = global::AutoAppo_StevenVR.Droid.Resource.Dimension.tooltip_margin;
-			global::Acr.UserDialogs.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::AutoAppo_StevenVR.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
-			global::Acr.UserDialogs.Resource.Dimension.tooltip_precise_anchor_threshold = global::AutoAppo_StevenVR.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
-			global::Acr.UserDialogs.Resource.Dimension.tooltip_vertical_padding = global::AutoAppo_StevenVR.Droid.Resource.Dimension.tooltip_vertical_padding;
-			global::Acr.UserDialogs.Resource.Dimension.tooltip_y_offset_non_touch = global::AutoAppo_StevenVR.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
-			global::Acr.UserDialogs.Resource.Dimension.tooltip_y_offset_touch = global::AutoAppo_StevenVR.Droid.Resource.Dimension.tooltip_y_offset_touch;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_action_bar_item_background_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_borderless_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_check_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_check_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_check_material_anim = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_check_material_anim;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_colored_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_default_mtrl_shape = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_radio_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_radio_material_anim = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_radio_material_anim;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::Acr.UserDialogs.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::Acr.UserDialogs.Resource.Drawable.abc_cab_background_internal_bg = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::Acr.UserDialogs.Resource.Drawable.abc_cab_background_top_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_control_background_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_control_background_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_dialog_material_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_dialog_material_background;
-			global::Acr.UserDialogs.Resource.Drawable.abc_edit_text_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_edit_text_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_ab_back_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_ab_back_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_clear_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_clear_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_go_search_api_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_go_search_api_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_menu_overflow_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_search_api_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_search_api_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ic_voice_search_api_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_item_background_holo_dark = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::Acr.UserDialogs.Resource.Drawable.abc_item_background_holo_light = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_divider_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_divider_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_divider_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_focused_holo = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_longpressed_holo = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_pressed_holo_dark = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_pressed_holo_light = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_selector_disabled_holo_light = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_selector_holo_dark = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::Acr.UserDialogs.Resource.Drawable.abc_list_selector_holo_light = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::Acr.UserDialogs.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::Acr.UserDialogs.Resource.Drawable.abc_popup_background_mtrl_mult = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ratingbar_indicator_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ratingbar_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ratingbar_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_ratingbar_small_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::Acr.UserDialogs.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::Acr.UserDialogs.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_seekbar_thumb_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_seekbar_tick_mark_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_seekbar_track_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_spinner_textfield_background_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_star_black_48dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_star_black_48dp;
-			global::Acr.UserDialogs.Resource.Drawable.abc_star_half_black_48dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_star_half_black_48dp;
-			global::Acr.UserDialogs.Resource.Drawable.abc_switch_thumb_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_switch_track_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_tab_indicator_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Acr.UserDialogs.Resource.Drawable.abc_textfield_search_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_text_cursor_material = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::Acr.UserDialogs.Resource.Drawable.abc_text_select_handle_left_mtrl = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl;
-			global::Acr.UserDialogs.Resource.Drawable.abc_text_select_handle_middle_mtrl = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl;
-			global::Acr.UserDialogs.Resource.Drawable.abc_text_select_handle_right_mtrl = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl;
-			global::Acr.UserDialogs.Resource.Drawable.abc_vector_test = global::AutoAppo_StevenVR.Droid.Resource.Drawable.abc_vector_test;
-			global::Acr.UserDialogs.Resource.Drawable.avd_hide_password = global::AutoAppo_StevenVR.Droid.Resource.Drawable.avd_hide_password;
-			global::Acr.UserDialogs.Resource.Drawable.avd_show_password = global::AutoAppo_StevenVR.Droid.Resource.Drawable.avd_show_password;
-			global::Acr.UserDialogs.Resource.Drawable.btn_checkbox_checked_mtrl = global::AutoAppo_StevenVR.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
-			global::Acr.UserDialogs.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::AutoAppo_StevenVR.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
-			global::Acr.UserDialogs.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::AutoAppo_StevenVR.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
-			global::Acr.UserDialogs.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::AutoAppo_StevenVR.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
-			global::Acr.UserDialogs.Resource.Drawable.btn_radio_off_mtrl = global::AutoAppo_StevenVR.Droid.Resource.Drawable.btn_radio_off_mtrl;
-			global::Acr.UserDialogs.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::AutoAppo_StevenVR.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
-			global::Acr.UserDialogs.Resource.Drawable.btn_radio_on_mtrl = global::AutoAppo_StevenVR.Droid.Resource.Drawable.btn_radio_on_mtrl;
-			global::Acr.UserDialogs.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::AutoAppo_StevenVR.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
-			global::Acr.UserDialogs.Resource.Drawable.design_fab_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.design_fab_background;
-			global::Acr.UserDialogs.Resource.Drawable.design_ic_visibility = global::AutoAppo_StevenVR.Droid.Resource.Drawable.design_ic_visibility;
-			global::Acr.UserDialogs.Resource.Drawable.design_ic_visibility_off = global::AutoAppo_StevenVR.Droid.Resource.Drawable.design_ic_visibility_off;
-			global::Acr.UserDialogs.Resource.Drawable.design_password_eye = global::AutoAppo_StevenVR.Droid.Resource.Drawable.design_password_eye;
-			global::Acr.UserDialogs.Resource.Drawable.design_snackbar_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.design_snackbar_background;
-			global::Acr.UserDialogs.Resource.Drawable.ic_clock_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.ic_clock_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.ic_errorstatus = global::AutoAppo_StevenVR.Droid.Resource.Drawable.ic_errorstatus;
-			global::Acr.UserDialogs.Resource.Drawable.ic_keyboard_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.ic_keyboard_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.ic_mtrl_checked_circle = global::AutoAppo_StevenVR.Droid.Resource.Drawable.ic_mtrl_checked_circle;
-			global::Acr.UserDialogs.Resource.Drawable.ic_mtrl_chip_checked_black = global::AutoAppo_StevenVR.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
-			global::Acr.UserDialogs.Resource.Drawable.ic_mtrl_chip_checked_circle = global::AutoAppo_StevenVR.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
-			global::Acr.UserDialogs.Resource.Drawable.ic_mtrl_chip_close_circle = global::AutoAppo_StevenVR.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
-			global::Acr.UserDialogs.Resource.Drawable.ic_successstatus = global::AutoAppo_StevenVR.Droid.Resource.Drawable.ic_successstatus;
-			global::Acr.UserDialogs.Resource.Drawable.material_cursor_drawable = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_cursor_drawable;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_calendar_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_calendar_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_clear_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_clear_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_edit_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_edit_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_keyboard_arrow_next_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_keyboard_arrow_next_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_keyboard_arrow_previous_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_keyboard_arrow_previous_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_menu_arrow_down_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_menu_arrow_down_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.material_ic_menu_arrow_up_black_24dp = global::AutoAppo_StevenVR.Droid.Resource.Drawable.material_ic_menu_arrow_up_black_24dp;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_dialog_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_dialog_background;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_dropdown_arrow = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_dropdown_arrow;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_ic_arrow_drop_down = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_ic_arrow_drop_up = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_ic_cancel = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_ic_cancel;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_ic_error = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_ic_error;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_navigation_bar_item_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_navigation_bar_item_background;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_popupmenu_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_popupmenu_background;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_popupmenu_background_dark = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
-			global::Acr.UserDialogs.Resource.Drawable.mtrl_tabs_default_indicator = global::AutoAppo_StevenVR.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
-			global::Acr.UserDialogs.Resource.Drawable.navigation_empty_icon = global::AutoAppo_StevenVR.Droid.Resource.Drawable.navigation_empty_icon;
-			global::Acr.UserDialogs.Resource.Drawable.notification_action_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_action_background;
-			global::Acr.UserDialogs.Resource.Drawable.notification_bg = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_bg;
-			global::Acr.UserDialogs.Resource.Drawable.notification_bg_low = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_bg_low;
-			global::Acr.UserDialogs.Resource.Drawable.notification_bg_low_normal = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_bg_low_normal;
-			global::Acr.UserDialogs.Resource.Drawable.notification_bg_low_pressed = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_bg_low_pressed;
-			global::Acr.UserDialogs.Resource.Drawable.notification_bg_normal = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_bg_normal;
-			global::Acr.UserDialogs.Resource.Drawable.notification_bg_normal_pressed = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_bg_normal_pressed;
-			global::Acr.UserDialogs.Resource.Drawable.notification_icon_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_icon_background;
-			global::Acr.UserDialogs.Resource.Drawable.notification_template_icon_bg = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::Acr.UserDialogs.Resource.Drawable.notification_template_icon_low_bg = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_template_icon_low_bg;
-			global::Acr.UserDialogs.Resource.Drawable.notification_tile_bg = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notification_tile_bg;
-			global::Acr.UserDialogs.Resource.Drawable.notify_panel_notification_icon_bg = global::AutoAppo_StevenVR.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::Acr.UserDialogs.Resource.Drawable.roundedbg = global::AutoAppo_StevenVR.Droid.Resource.Drawable.roundedbg;
-			global::Acr.UserDialogs.Resource.Drawable.roundedbgdark = global::AutoAppo_StevenVR.Droid.Resource.Drawable.roundedbgdark;
-			global::Acr.UserDialogs.Resource.Drawable.test_custom_background = global::AutoAppo_StevenVR.Droid.Resource.Drawable.test_custom_background;
-			global::Acr.UserDialogs.Resource.Drawable.tooltip_frame_dark = global::AutoAppo_StevenVR.Droid.Resource.Drawable.tooltip_frame_dark;
-			global::Acr.UserDialogs.Resource.Drawable.tooltip_frame_light = global::AutoAppo_StevenVR.Droid.Resource.Drawable.tooltip_frame_light;
-			global::Acr.UserDialogs.Resource.Id.accelerate = global::AutoAppo_StevenVR.Droid.Resource.Id.accelerate;
-			global::Acr.UserDialogs.Resource.Id.accessibility_action_clickable_span = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_action_clickable_span;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_0 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_0;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_1 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_1;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_10 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_10;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_11 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_11;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_12 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_12;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_13 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_13;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_14 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_14;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_15 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_15;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_16 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_16;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_17 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_17;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_18 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_18;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_19 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_19;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_2 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_2;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_20 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_20;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_21 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_21;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_22 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_22;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_23 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_23;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_24 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_24;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_25 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_25;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_26 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_26;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_27 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_27;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_28 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_28;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_29 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_29;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_3 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_3;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_30 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_30;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_31 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_31;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_4 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_4;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_5 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_5;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_6 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_6;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_7 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_7;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_8 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_8;
-			global::Acr.UserDialogs.Resource.Id.accessibility_custom_action_9 = global::AutoAppo_StevenVR.Droid.Resource.Id.accessibility_custom_action_9;
-			global::Acr.UserDialogs.Resource.Id.actionDown = global::AutoAppo_StevenVR.Droid.Resource.Id.actionDown;
-			global::Acr.UserDialogs.Resource.Id.actionDownUp = global::AutoAppo_StevenVR.Droid.Resource.Id.actionDownUp;
-			global::Acr.UserDialogs.Resource.Id.actions = global::AutoAppo_StevenVR.Droid.Resource.Id.actions;
-			global::Acr.UserDialogs.Resource.Id.actionUp = global::AutoAppo_StevenVR.Droid.Resource.Id.actionUp;
-			global::Acr.UserDialogs.Resource.Id.action_bar = global::AutoAppo_StevenVR.Droid.Resource.Id.action_bar;
-			global::Acr.UserDialogs.Resource.Id.action_bar_activity_content = global::AutoAppo_StevenVR.Droid.Resource.Id.action_bar_activity_content;
-			global::Acr.UserDialogs.Resource.Id.action_bar_container = global::AutoAppo_StevenVR.Droid.Resource.Id.action_bar_container;
-			global::Acr.UserDialogs.Resource.Id.action_bar_root = global::AutoAppo_StevenVR.Droid.Resource.Id.action_bar_root;
-			global::Acr.UserDialogs.Resource.Id.action_bar_spinner = global::AutoAppo_StevenVR.Droid.Resource.Id.action_bar_spinner;
-			global::Acr.UserDialogs.Resource.Id.action_bar_subtitle = global::AutoAppo_StevenVR.Droid.Resource.Id.action_bar_subtitle;
-			global::Acr.UserDialogs.Resource.Id.action_bar_title = global::AutoAppo_StevenVR.Droid.Resource.Id.action_bar_title;
-			global::Acr.UserDialogs.Resource.Id.action_container = global::AutoAppo_StevenVR.Droid.Resource.Id.action_container;
-			global::Acr.UserDialogs.Resource.Id.action_context_bar = global::AutoAppo_StevenVR.Droid.Resource.Id.action_context_bar;
-			global::Acr.UserDialogs.Resource.Id.action_divider = global::AutoAppo_StevenVR.Droid.Resource.Id.action_divider;
-			global::Acr.UserDialogs.Resource.Id.action_image = global::AutoAppo_StevenVR.Droid.Resource.Id.action_image;
-			global::Acr.UserDialogs.Resource.Id.action_menu_divider = global::AutoAppo_StevenVR.Droid.Resource.Id.action_menu_divider;
-			global::Acr.UserDialogs.Resource.Id.action_menu_presenter = global::AutoAppo_StevenVR.Droid.Resource.Id.action_menu_presenter;
-			global::Acr.UserDialogs.Resource.Id.action_mode_bar = global::AutoAppo_StevenVR.Droid.Resource.Id.action_mode_bar;
-			global::Acr.UserDialogs.Resource.Id.action_mode_bar_stub = global::AutoAppo_StevenVR.Droid.Resource.Id.action_mode_bar_stub;
-			global::Acr.UserDialogs.Resource.Id.action_mode_close_button = global::AutoAppo_StevenVR.Droid.Resource.Id.action_mode_close_button;
-			global::Acr.UserDialogs.Resource.Id.action_text = global::AutoAppo_StevenVR.Droid.Resource.Id.action_text;
-			global::Acr.UserDialogs.Resource.Id.activity_chooser_view_content = global::AutoAppo_StevenVR.Droid.Resource.Id.activity_chooser_view_content;
-			global::Acr.UserDialogs.Resource.Id.add = global::AutoAppo_StevenVR.Droid.Resource.Id.add;
-			global::Acr.UserDialogs.Resource.Id.alertTitle = global::AutoAppo_StevenVR.Droid.Resource.Id.alertTitle;
-			global::Acr.UserDialogs.Resource.Id.aligned = global::AutoAppo_StevenVR.Droid.Resource.Id.aligned;
-			global::Acr.UserDialogs.Resource.Id.all = global::AutoAppo_StevenVR.Droid.Resource.Id.all;
-			global::Acr.UserDialogs.Resource.Id.allStates = global::AutoAppo_StevenVR.Droid.Resource.Id.allStates;
-			global::Acr.UserDialogs.Resource.Id.ALT = global::AutoAppo_StevenVR.Droid.Resource.Id.ALT;
-			global::Acr.UserDialogs.Resource.Id.always = global::AutoAppo_StevenVR.Droid.Resource.Id.always;
-			global::Acr.UserDialogs.Resource.Id.animateToEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.animateToEnd;
-			global::Acr.UserDialogs.Resource.Id.animateToStart = global::AutoAppo_StevenVR.Droid.Resource.Id.animateToStart;
-			global::Acr.UserDialogs.Resource.Id.anticipate = global::AutoAppo_StevenVR.Droid.Resource.Id.anticipate;
-			global::Acr.UserDialogs.Resource.Id.antiClockwise = global::AutoAppo_StevenVR.Droid.Resource.Id.antiClockwise;
-			global::Acr.UserDialogs.Resource.Id.arc = global::AutoAppo_StevenVR.Droid.Resource.Id.arc;
-			global::Acr.UserDialogs.Resource.Id.asConfigured = global::AutoAppo_StevenVR.Droid.Resource.Id.asConfigured;
-			global::Acr.UserDialogs.Resource.Id.async = global::AutoAppo_StevenVR.Droid.Resource.Id.async;
-			global::Acr.UserDialogs.Resource.Id.auto = global::AutoAppo_StevenVR.Droid.Resource.Id.auto;
-			global::Acr.UserDialogs.Resource.Id.autoComplete = global::AutoAppo_StevenVR.Droid.Resource.Id.autoComplete;
-			global::Acr.UserDialogs.Resource.Id.autoCompleteToEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.autoCompleteToEnd;
-			global::Acr.UserDialogs.Resource.Id.autoCompleteToStart = global::AutoAppo_StevenVR.Droid.Resource.Id.autoCompleteToStart;
-			global::Acr.UserDialogs.Resource.Id.barrier = global::AutoAppo_StevenVR.Droid.Resource.Id.barrier;
-			global::Acr.UserDialogs.Resource.Id.baseline = global::AutoAppo_StevenVR.Droid.Resource.Id.baseline;
-			global::Acr.UserDialogs.Resource.Id.beginning = global::AutoAppo_StevenVR.Droid.Resource.Id.beginning;
-			global::Acr.UserDialogs.Resource.Id.beginOnFirstDraw = global::AutoAppo_StevenVR.Droid.Resource.Id.beginOnFirstDraw;
-			global::Acr.UserDialogs.Resource.Id.bestChoice = global::AutoAppo_StevenVR.Droid.Resource.Id.bestChoice;
-			global::Acr.UserDialogs.Resource.Id.blocking = global::AutoAppo_StevenVR.Droid.Resource.Id.blocking;
-			global::Acr.UserDialogs.Resource.Id.bottom = global::AutoAppo_StevenVR.Droid.Resource.Id.bottom;
-			global::Acr.UserDialogs.Resource.Id.BOTTOM_END = global::AutoAppo_StevenVR.Droid.Resource.Id.BOTTOM_END;
-			global::Acr.UserDialogs.Resource.Id.BOTTOM_START = global::AutoAppo_StevenVR.Droid.Resource.Id.BOTTOM_START;
-			global::Acr.UserDialogs.Resource.Id.bounce = global::AutoAppo_StevenVR.Droid.Resource.Id.bounce;
-			global::Acr.UserDialogs.Resource.Id.bounceBoth = global::AutoAppo_StevenVR.Droid.Resource.Id.bounceBoth;
-			global::Acr.UserDialogs.Resource.Id.bounceEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.bounceEnd;
-			global::Acr.UserDialogs.Resource.Id.bounceStart = global::AutoAppo_StevenVR.Droid.Resource.Id.bounceStart;
-			global::Acr.UserDialogs.Resource.Id.buttonPanel = global::AutoAppo_StevenVR.Droid.Resource.Id.buttonPanel;
-			global::Acr.UserDialogs.Resource.Id.cache_measures = global::AutoAppo_StevenVR.Droid.Resource.Id.cache_measures;
-			global::Acr.UserDialogs.Resource.Id.cancel_button = global::AutoAppo_StevenVR.Droid.Resource.Id.cancel_button;
-			global::Acr.UserDialogs.Resource.Id.carryVelocity = global::AutoAppo_StevenVR.Droid.Resource.Id.carryVelocity;
-			global::Acr.UserDialogs.Resource.Id.center = global::AutoAppo_StevenVR.Droid.Resource.Id.center;
-			global::Acr.UserDialogs.Resource.Id.center_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Id.center_horizontal;
-			global::Acr.UserDialogs.Resource.Id.center_vertical = global::AutoAppo_StevenVR.Droid.Resource.Id.center_vertical;
-			global::Acr.UserDialogs.Resource.Id.chain = global::AutoAppo_StevenVR.Droid.Resource.Id.chain;
-			global::Acr.UserDialogs.Resource.Id.chains = global::AutoAppo_StevenVR.Droid.Resource.Id.chains;
-			global::Acr.UserDialogs.Resource.Id.checkbox = global::AutoAppo_StevenVR.Droid.Resource.Id.checkbox;
-			global::Acr.UserDialogs.Resource.Id.@checked = global::AutoAppo_StevenVR.Droid.Resource.Id.@checked;
-			global::Acr.UserDialogs.Resource.Id.chip = global::AutoAppo_StevenVR.Droid.Resource.Id.chip;
-			global::Acr.UserDialogs.Resource.Id.chip1 = global::AutoAppo_StevenVR.Droid.Resource.Id.chip1;
-			global::Acr.UserDialogs.Resource.Id.chip2 = global::AutoAppo_StevenVR.Droid.Resource.Id.chip2;
-			global::Acr.UserDialogs.Resource.Id.chip3 = global::AutoAppo_StevenVR.Droid.Resource.Id.chip3;
-			global::Acr.UserDialogs.Resource.Id.chip_group = global::AutoAppo_StevenVR.Droid.Resource.Id.chip_group;
-			global::Acr.UserDialogs.Resource.Id.chronometer = global::AutoAppo_StevenVR.Droid.Resource.Id.chronometer;
-			global::Acr.UserDialogs.Resource.Id.circle_center = global::AutoAppo_StevenVR.Droid.Resource.Id.circle_center;
-			global::Acr.UserDialogs.Resource.Id.clear_text = global::AutoAppo_StevenVR.Droid.Resource.Id.clear_text;
-			global::Acr.UserDialogs.Resource.Id.clip_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Id.clip_horizontal;
-			global::Acr.UserDialogs.Resource.Id.clip_vertical = global::AutoAppo_StevenVR.Droid.Resource.Id.clip_vertical;
-			global::Acr.UserDialogs.Resource.Id.clockwise = global::AutoAppo_StevenVR.Droid.Resource.Id.clockwise;
-			global::Acr.UserDialogs.Resource.Id.closest = global::AutoAppo_StevenVR.Droid.Resource.Id.closest;
-			global::Acr.UserDialogs.Resource.Id.collapseActionView = global::AutoAppo_StevenVR.Droid.Resource.Id.collapseActionView;
-			global::Acr.UserDialogs.Resource.Id.confirm_button = global::AutoAppo_StevenVR.Droid.Resource.Id.confirm_button;
-			global::Acr.UserDialogs.Resource.Id.constraint = global::AutoAppo_StevenVR.Droid.Resource.Id.constraint;
-			global::Acr.UserDialogs.Resource.Id.container = global::AutoAppo_StevenVR.Droid.Resource.Id.container;
-			global::Acr.UserDialogs.Resource.Id.content = global::AutoAppo_StevenVR.Droid.Resource.Id.content;
-			global::Acr.UserDialogs.Resource.Id.contentPanel = global::AutoAppo_StevenVR.Droid.Resource.Id.contentPanel;
-			global::Acr.UserDialogs.Resource.Id.contiguous = global::AutoAppo_StevenVR.Droid.Resource.Id.contiguous;
-			global::Acr.UserDialogs.Resource.Id.continuousVelocity = global::AutoAppo_StevenVR.Droid.Resource.Id.continuousVelocity;
-			global::Acr.UserDialogs.Resource.Id.coordinator = global::AutoAppo_StevenVR.Droid.Resource.Id.coordinator;
-			global::Acr.UserDialogs.Resource.Id.cos = global::AutoAppo_StevenVR.Droid.Resource.Id.cos;
-			global::Acr.UserDialogs.Resource.Id.counterclockwise = global::AutoAppo_StevenVR.Droid.Resource.Id.counterclockwise;
-			global::Acr.UserDialogs.Resource.Id.CTRL = global::AutoAppo_StevenVR.Droid.Resource.Id.CTRL;
-			global::Acr.UserDialogs.Resource.Id.currentState = global::AutoAppo_StevenVR.Droid.Resource.Id.currentState;
-			global::Acr.UserDialogs.Resource.Id.custom = global::AutoAppo_StevenVR.Droid.Resource.Id.custom;
-			global::Acr.UserDialogs.Resource.Id.customPanel = global::AutoAppo_StevenVR.Droid.Resource.Id.customPanel;
-			global::Acr.UserDialogs.Resource.Id.cut = global::AutoAppo_StevenVR.Droid.Resource.Id.cut;
-			global::Acr.UserDialogs.Resource.Id.date_picker_actions = global::AutoAppo_StevenVR.Droid.Resource.Id.date_picker_actions;
-			global::Acr.UserDialogs.Resource.Id.decelerate = global::AutoAppo_StevenVR.Droid.Resource.Id.decelerate;
-			global::Acr.UserDialogs.Resource.Id.decelerateAndComplete = global::AutoAppo_StevenVR.Droid.Resource.Id.decelerateAndComplete;
-			global::Acr.UserDialogs.Resource.Id.decor_content_parent = global::AutoAppo_StevenVR.Droid.Resource.Id.decor_content_parent;
-			global::Acr.UserDialogs.Resource.Id.default_activity_button = global::AutoAppo_StevenVR.Droid.Resource.Id.default_activity_button;
-			global::Acr.UserDialogs.Resource.Id.deltaRelative = global::AutoAppo_StevenVR.Droid.Resource.Id.deltaRelative;
-			global::Acr.UserDialogs.Resource.Id.dependency_ordering = global::AutoAppo_StevenVR.Droid.Resource.Id.dependency_ordering;
-			global::Acr.UserDialogs.Resource.Id.design_bottom_sheet = global::AutoAppo_StevenVR.Droid.Resource.Id.design_bottom_sheet;
-			global::Acr.UserDialogs.Resource.Id.design_menu_item_action_area = global::AutoAppo_StevenVR.Droid.Resource.Id.design_menu_item_action_area;
-			global::Acr.UserDialogs.Resource.Id.design_menu_item_action_area_stub = global::AutoAppo_StevenVR.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::Acr.UserDialogs.Resource.Id.design_menu_item_text = global::AutoAppo_StevenVR.Droid.Resource.Id.design_menu_item_text;
-			global::Acr.UserDialogs.Resource.Id.design_navigation_view = global::AutoAppo_StevenVR.Droid.Resource.Id.design_navigation_view;
-			global::Acr.UserDialogs.Resource.Id.dialog_button = global::AutoAppo_StevenVR.Droid.Resource.Id.dialog_button;
-			global::Acr.UserDialogs.Resource.Id.dimensions = global::AutoAppo_StevenVR.Droid.Resource.Id.dimensions;
-			global::Acr.UserDialogs.Resource.Id.direct = global::AutoAppo_StevenVR.Droid.Resource.Id.direct;
-			global::Acr.UserDialogs.Resource.Id.disableHome = global::AutoAppo_StevenVR.Droid.Resource.Id.disableHome;
-			global::Acr.UserDialogs.Resource.Id.disableIntraAutoTransition = global::AutoAppo_StevenVR.Droid.Resource.Id.disableIntraAutoTransition;
-			global::Acr.UserDialogs.Resource.Id.disablePostScroll = global::AutoAppo_StevenVR.Droid.Resource.Id.disablePostScroll;
-			global::Acr.UserDialogs.Resource.Id.disableScroll = global::AutoAppo_StevenVR.Droid.Resource.Id.disableScroll;
-			global::Acr.UserDialogs.Resource.Id.disjoint = global::AutoAppo_StevenVR.Droid.Resource.Id.disjoint;
-			global::Acr.UserDialogs.Resource.Id.dragAnticlockwise = global::AutoAppo_StevenVR.Droid.Resource.Id.dragAnticlockwise;
-			global::Acr.UserDialogs.Resource.Id.dragClockwise = global::AutoAppo_StevenVR.Droid.Resource.Id.dragClockwise;
-			global::Acr.UserDialogs.Resource.Id.dragDown = global::AutoAppo_StevenVR.Droid.Resource.Id.dragDown;
-			global::Acr.UserDialogs.Resource.Id.dragEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.dragEnd;
-			global::Acr.UserDialogs.Resource.Id.dragLeft = global::AutoAppo_StevenVR.Droid.Resource.Id.dragLeft;
-			global::Acr.UserDialogs.Resource.Id.dragRight = global::AutoAppo_StevenVR.Droid.Resource.Id.dragRight;
-			global::Acr.UserDialogs.Resource.Id.dragStart = global::AutoAppo_StevenVR.Droid.Resource.Id.dragStart;
-			global::Acr.UserDialogs.Resource.Id.dragUp = global::AutoAppo_StevenVR.Droid.Resource.Id.dragUp;
-			global::Acr.UserDialogs.Resource.Id.dropdown_menu = global::AutoAppo_StevenVR.Droid.Resource.Id.dropdown_menu;
-			global::Acr.UserDialogs.Resource.Id.easeIn = global::AutoAppo_StevenVR.Droid.Resource.Id.easeIn;
-			global::Acr.UserDialogs.Resource.Id.easeInOut = global::AutoAppo_StevenVR.Droid.Resource.Id.easeInOut;
-			global::Acr.UserDialogs.Resource.Id.easeOut = global::AutoAppo_StevenVR.Droid.Resource.Id.easeOut;
-			global::Acr.UserDialogs.Resource.Id.east = global::AutoAppo_StevenVR.Droid.Resource.Id.east;
-			global::Acr.UserDialogs.Resource.Id.edit_query = global::AutoAppo_StevenVR.Droid.Resource.Id.edit_query;
-			global::Acr.UserDialogs.Resource.Id.elastic = global::AutoAppo_StevenVR.Droid.Resource.Id.elastic;
-			global::Acr.UserDialogs.Resource.Id.end = global::AutoAppo_StevenVR.Droid.Resource.Id.end;
-			global::Acr.UserDialogs.Resource.Id.endToStart = global::AutoAppo_StevenVR.Droid.Resource.Id.endToStart;
-			global::Acr.UserDialogs.Resource.Id.enterAlways = global::AutoAppo_StevenVR.Droid.Resource.Id.enterAlways;
-			global::Acr.UserDialogs.Resource.Id.enterAlwaysCollapsed = global::AutoAppo_StevenVR.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::Acr.UserDialogs.Resource.Id.exitUntilCollapsed = global::AutoAppo_StevenVR.Droid.Resource.Id.exitUntilCollapsed;
-			global::Acr.UserDialogs.Resource.Id.expanded_menu = global::AutoAppo_StevenVR.Droid.Resource.Id.expanded_menu;
-			global::Acr.UserDialogs.Resource.Id.expand_activities_button = global::AutoAppo_StevenVR.Droid.Resource.Id.expand_activities_button;
-			global::Acr.UserDialogs.Resource.Id.fade = global::AutoAppo_StevenVR.Droid.Resource.Id.fade;
-			global::Acr.UserDialogs.Resource.Id.fill = global::AutoAppo_StevenVR.Droid.Resource.Id.fill;
-			global::Acr.UserDialogs.Resource.Id.filled = global::AutoAppo_StevenVR.Droid.Resource.Id.filled;
-			global::Acr.UserDialogs.Resource.Id.fill_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Id.fill_horizontal;
-			global::Acr.UserDialogs.Resource.Id.fill_vertical = global::AutoAppo_StevenVR.Droid.Resource.Id.fill_vertical;
-			global::Acr.UserDialogs.Resource.Id.fitToContents = global::AutoAppo_StevenVR.Droid.Resource.Id.fitToContents;
-			global::Acr.UserDialogs.Resource.Id.@fixed = global::AutoAppo_StevenVR.Droid.Resource.Id.@fixed;
-			global::Acr.UserDialogs.Resource.Id.flip = global::AutoAppo_StevenVR.Droid.Resource.Id.flip;
-			global::Acr.UserDialogs.Resource.Id.floating = global::AutoAppo_StevenVR.Droid.Resource.Id.floating;
-			global::Acr.UserDialogs.Resource.Id.forever = global::AutoAppo_StevenVR.Droid.Resource.Id.forever;
-			global::Acr.UserDialogs.Resource.Id.fragment_container_view_tag = global::AutoAppo_StevenVR.Droid.Resource.Id.fragment_container_view_tag;
-			global::Acr.UserDialogs.Resource.Id.frost = global::AutoAppo_StevenVR.Droid.Resource.Id.frost;
-			global::Acr.UserDialogs.Resource.Id.FUNCTION = global::AutoAppo_StevenVR.Droid.Resource.Id.FUNCTION;
-			global::Acr.UserDialogs.Resource.Id.ghost_view = global::AutoAppo_StevenVR.Droid.Resource.Id.ghost_view;
-			global::Acr.UserDialogs.Resource.Id.ghost_view_holder = global::AutoAppo_StevenVR.Droid.Resource.Id.ghost_view_holder;
-			global::Acr.UserDialogs.Resource.Id.gone = global::AutoAppo_StevenVR.Droid.Resource.Id.gone;
-			global::Acr.UserDialogs.Resource.Id.graph = global::AutoAppo_StevenVR.Droid.Resource.Id.graph;
-			global::Acr.UserDialogs.Resource.Id.graph_wrap = global::AutoAppo_StevenVR.Droid.Resource.Id.graph_wrap;
-			global::Acr.UserDialogs.Resource.Id.grouping = global::AutoAppo_StevenVR.Droid.Resource.Id.grouping;
-			global::Acr.UserDialogs.Resource.Id.groups = global::AutoAppo_StevenVR.Droid.Resource.Id.groups;
-			global::Acr.UserDialogs.Resource.Id.group_divider = global::AutoAppo_StevenVR.Droid.Resource.Id.group_divider;
-			global::Acr.UserDialogs.Resource.Id.guideline = global::AutoAppo_StevenVR.Droid.Resource.Id.guideline;
-			global::Acr.UserDialogs.Resource.Id.header_title = global::AutoAppo_StevenVR.Droid.Resource.Id.header_title;
-			global::Acr.UserDialogs.Resource.Id.hideable = global::AutoAppo_StevenVR.Droid.Resource.Id.hideable;
-			global::Acr.UserDialogs.Resource.Id.home = global::AutoAppo_StevenVR.Droid.Resource.Id.home;
-			global::Acr.UserDialogs.Resource.Id.homeAsUp = global::AutoAppo_StevenVR.Droid.Resource.Id.homeAsUp;
-			global::Acr.UserDialogs.Resource.Id.honorRequest = global::AutoAppo_StevenVR.Droid.Resource.Id.honorRequest;
-			global::Acr.UserDialogs.Resource.Id.horizontal_only = global::AutoAppo_StevenVR.Droid.Resource.Id.horizontal_only;
-			global::Acr.UserDialogs.Resource.Id.icon = global::AutoAppo_StevenVR.Droid.Resource.Id.icon;
-			global::Acr.UserDialogs.Resource.Id.icon_group = global::AutoAppo_StevenVR.Droid.Resource.Id.icon_group;
-			global::Acr.UserDialogs.Resource.Id.ifRoom = global::AutoAppo_StevenVR.Droid.Resource.Id.ifRoom;
-			global::Acr.UserDialogs.Resource.Id.ignore = global::AutoAppo_StevenVR.Droid.Resource.Id.ignore;
-			global::Acr.UserDialogs.Resource.Id.ignoreRequest = global::AutoAppo_StevenVR.Droid.Resource.Id.ignoreRequest;
-			global::Acr.UserDialogs.Resource.Id.image = global::AutoAppo_StevenVR.Droid.Resource.Id.image;
-			global::Acr.UserDialogs.Resource.Id.immediateStop = global::AutoAppo_StevenVR.Droid.Resource.Id.immediateStop;
-			global::Acr.UserDialogs.Resource.Id.included = global::AutoAppo_StevenVR.Droid.Resource.Id.included;
-			global::Acr.UserDialogs.Resource.Id.info = global::AutoAppo_StevenVR.Droid.Resource.Id.info;
-			global::Acr.UserDialogs.Resource.Id.invisible = global::AutoAppo_StevenVR.Droid.Resource.Id.invisible;
-			global::Acr.UserDialogs.Resource.Id.inward = global::AutoAppo_StevenVR.Droid.Resource.Id.inward;
-			global::Acr.UserDialogs.Resource.Id.italic = global::AutoAppo_StevenVR.Droid.Resource.Id.italic;
-			global::Acr.UserDialogs.Resource.Id.item_touch_helper_previous_elevation = global::AutoAppo_StevenVR.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::Acr.UserDialogs.Resource.Id.jumpToEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.jumpToEnd;
-			global::Acr.UserDialogs.Resource.Id.jumpToStart = global::AutoAppo_StevenVR.Droid.Resource.Id.jumpToStart;
-			global::Acr.UserDialogs.Resource.Id.labeled = global::AutoAppo_StevenVR.Droid.Resource.Id.labeled;
-			global::Acr.UserDialogs.Resource.Id.layout = global::AutoAppo_StevenVR.Droid.Resource.Id.layout;
-			global::Acr.UserDialogs.Resource.Id.left = global::AutoAppo_StevenVR.Droid.Resource.Id.left;
-			global::Acr.UserDialogs.Resource.Id.leftToRight = global::AutoAppo_StevenVR.Droid.Resource.Id.leftToRight;
-			global::Acr.UserDialogs.Resource.Id.legacy = global::AutoAppo_StevenVR.Droid.Resource.Id.legacy;
-			global::Acr.UserDialogs.Resource.Id.line1 = global::AutoAppo_StevenVR.Droid.Resource.Id.line1;
-			global::Acr.UserDialogs.Resource.Id.line3 = global::AutoAppo_StevenVR.Droid.Resource.Id.line3;
-			global::Acr.UserDialogs.Resource.Id.linear = global::AutoAppo_StevenVR.Droid.Resource.Id.linear;
-			global::Acr.UserDialogs.Resource.Id.listMode = global::AutoAppo_StevenVR.Droid.Resource.Id.listMode;
-			global::Acr.UserDialogs.Resource.Id.list_item = global::AutoAppo_StevenVR.Droid.Resource.Id.list_item;
-			global::Acr.UserDialogs.Resource.Id.loadingImage = global::AutoAppo_StevenVR.Droid.Resource.Id.loadingImage;
-			global::Acr.UserDialogs.Resource.Id.loadingProgressBar = global::AutoAppo_StevenVR.Droid.Resource.Id.loadingProgressBar;
-			global::Acr.UserDialogs.Resource.Id.loadingProgressWheel = global::AutoAppo_StevenVR.Droid.Resource.Id.loadingProgressWheel;
-			global::Acr.UserDialogs.Resource.Id.masked = global::AutoAppo_StevenVR.Droid.Resource.Id.masked;
-			global::Acr.UserDialogs.Resource.Id.match_constraint = global::AutoAppo_StevenVR.Droid.Resource.Id.match_constraint;
-			global::Acr.UserDialogs.Resource.Id.match_parent = global::AutoAppo_StevenVR.Droid.Resource.Id.match_parent;
-			global::Acr.UserDialogs.Resource.Id.material_clock_display = global::AutoAppo_StevenVR.Droid.Resource.Id.material_clock_display;
-			global::Acr.UserDialogs.Resource.Id.material_clock_face = global::AutoAppo_StevenVR.Droid.Resource.Id.material_clock_face;
-			global::Acr.UserDialogs.Resource.Id.material_clock_hand = global::AutoAppo_StevenVR.Droid.Resource.Id.material_clock_hand;
-			global::Acr.UserDialogs.Resource.Id.material_clock_period_am_button = global::AutoAppo_StevenVR.Droid.Resource.Id.material_clock_period_am_button;
-			global::Acr.UserDialogs.Resource.Id.material_clock_period_pm_button = global::AutoAppo_StevenVR.Droid.Resource.Id.material_clock_period_pm_button;
-			global::Acr.UserDialogs.Resource.Id.material_clock_period_toggle = global::AutoAppo_StevenVR.Droid.Resource.Id.material_clock_period_toggle;
-			global::Acr.UserDialogs.Resource.Id.material_hour_text_input = global::AutoAppo_StevenVR.Droid.Resource.Id.material_hour_text_input;
-			global::Acr.UserDialogs.Resource.Id.material_hour_tv = global::AutoAppo_StevenVR.Droid.Resource.Id.material_hour_tv;
-			global::Acr.UserDialogs.Resource.Id.material_label = global::AutoAppo_StevenVR.Droid.Resource.Id.material_label;
-			global::Acr.UserDialogs.Resource.Id.material_minute_text_input = global::AutoAppo_StevenVR.Droid.Resource.Id.material_minute_text_input;
-			global::Acr.UserDialogs.Resource.Id.material_minute_tv = global::AutoAppo_StevenVR.Droid.Resource.Id.material_minute_tv;
-			global::Acr.UserDialogs.Resource.Id.material_textinput_timepicker = global::AutoAppo_StevenVR.Droid.Resource.Id.material_textinput_timepicker;
-			global::Acr.UserDialogs.Resource.Id.material_timepicker_cancel_button = global::AutoAppo_StevenVR.Droid.Resource.Id.material_timepicker_cancel_button;
-			global::Acr.UserDialogs.Resource.Id.material_timepicker_container = global::AutoAppo_StevenVR.Droid.Resource.Id.material_timepicker_container;
-			global::Acr.UserDialogs.Resource.Id.material_timepicker_edit_text = global::AutoAppo_StevenVR.Droid.Resource.Id.material_timepicker_edit_text;
-			global::Acr.UserDialogs.Resource.Id.material_timepicker_mode_button = global::AutoAppo_StevenVR.Droid.Resource.Id.material_timepicker_mode_button;
-			global::Acr.UserDialogs.Resource.Id.material_timepicker_ok_button = global::AutoAppo_StevenVR.Droid.Resource.Id.material_timepicker_ok_button;
-			global::Acr.UserDialogs.Resource.Id.material_timepicker_view = global::AutoAppo_StevenVR.Droid.Resource.Id.material_timepicker_view;
-			global::Acr.UserDialogs.Resource.Id.material_value_index = global::AutoAppo_StevenVR.Droid.Resource.Id.material_value_index;
-			global::Acr.UserDialogs.Resource.Id.message = global::AutoAppo_StevenVR.Droid.Resource.Id.message;
-			global::Acr.UserDialogs.Resource.Id.META = global::AutoAppo_StevenVR.Droid.Resource.Id.META;
-			global::Acr.UserDialogs.Resource.Id.middle = global::AutoAppo_StevenVR.Droid.Resource.Id.middle;
-			global::Acr.UserDialogs.Resource.Id.mini = global::AutoAppo_StevenVR.Droid.Resource.Id.mini;
-			global::Acr.UserDialogs.Resource.Id.month_grid = global::AutoAppo_StevenVR.Droid.Resource.Id.month_grid;
-			global::Acr.UserDialogs.Resource.Id.month_navigation_bar = global::AutoAppo_StevenVR.Droid.Resource.Id.month_navigation_bar;
-			global::Acr.UserDialogs.Resource.Id.month_navigation_fragment_toggle = global::AutoAppo_StevenVR.Droid.Resource.Id.month_navigation_fragment_toggle;
-			global::Acr.UserDialogs.Resource.Id.month_navigation_next = global::AutoAppo_StevenVR.Droid.Resource.Id.month_navigation_next;
-			global::Acr.UserDialogs.Resource.Id.month_navigation_previous = global::AutoAppo_StevenVR.Droid.Resource.Id.month_navigation_previous;
-			global::Acr.UserDialogs.Resource.Id.month_title = global::AutoAppo_StevenVR.Droid.Resource.Id.month_title;
-			global::Acr.UserDialogs.Resource.Id.motion_base = global::AutoAppo_StevenVR.Droid.Resource.Id.motion_base;
-			global::Acr.UserDialogs.Resource.Id.mtrl_anchor_parent = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_anchor_parent;
-			global::Acr.UserDialogs.Resource.Id.mtrl_calendar_days_of_week = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_calendar_days_of_week;
-			global::Acr.UserDialogs.Resource.Id.mtrl_calendar_day_selector_frame = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
-			global::Acr.UserDialogs.Resource.Id.mtrl_calendar_frame = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_calendar_frame;
-			global::Acr.UserDialogs.Resource.Id.mtrl_calendar_main_pane = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_calendar_main_pane;
-			global::Acr.UserDialogs.Resource.Id.mtrl_calendar_months = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_calendar_months;
-			global::Acr.UserDialogs.Resource.Id.mtrl_calendar_selection_frame = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_calendar_selection_frame;
-			global::Acr.UserDialogs.Resource.Id.mtrl_calendar_text_input_frame = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_calendar_text_input_frame;
-			global::Acr.UserDialogs.Resource.Id.mtrl_calendar_year_selector_frame = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
-			global::Acr.UserDialogs.Resource.Id.mtrl_card_checked_layer_id = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_card_checked_layer_id;
-			global::Acr.UserDialogs.Resource.Id.mtrl_child_content_container = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_child_content_container;
-			global::Acr.UserDialogs.Resource.Id.mtrl_internal_children_alpha_tag = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
-			global::Acr.UserDialogs.Resource.Id.mtrl_motion_snapshot_view = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_motion_snapshot_view;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_fullscreen;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_header = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_header;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_header_selection_text = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_header_selection_text;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_header_title_and_selection = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_header_toggle = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_header_toggle;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_text_input_date = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_text_input_date;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_text_input_range_end = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_text_input_range_end;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_text_input_range_start = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_text_input_range_start;
-			global::Acr.UserDialogs.Resource.Id.mtrl_picker_title_text = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_picker_title_text;
-			global::Acr.UserDialogs.Resource.Id.mtrl_view_tag_bottom_padding = global::AutoAppo_StevenVR.Droid.Resource.Id.mtrl_view_tag_bottom_padding;
-			global::Acr.UserDialogs.Resource.Id.multiply = global::AutoAppo_StevenVR.Droid.Resource.Id.multiply;
-			global::Acr.UserDialogs.Resource.Id.navigation_bar_item_icon_view = global::AutoAppo_StevenVR.Droid.Resource.Id.navigation_bar_item_icon_view;
-			global::Acr.UserDialogs.Resource.Id.navigation_bar_item_labels_group = global::AutoAppo_StevenVR.Droid.Resource.Id.navigation_bar_item_labels_group;
-			global::Acr.UserDialogs.Resource.Id.navigation_bar_item_large_label_view = global::AutoAppo_StevenVR.Droid.Resource.Id.navigation_bar_item_large_label_view;
-			global::Acr.UserDialogs.Resource.Id.navigation_bar_item_small_label_view = global::AutoAppo_StevenVR.Droid.Resource.Id.navigation_bar_item_small_label_view;
-			global::Acr.UserDialogs.Resource.Id.navigation_header_container = global::AutoAppo_StevenVR.Droid.Resource.Id.navigation_header_container;
-			global::Acr.UserDialogs.Resource.Id.never = global::AutoAppo_StevenVR.Droid.Resource.Id.never;
-			global::Acr.UserDialogs.Resource.Id.neverCompleteToEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.neverCompleteToEnd;
-			global::Acr.UserDialogs.Resource.Id.neverCompleteToStart = global::AutoAppo_StevenVR.Droid.Resource.Id.neverCompleteToStart;
-			global::Acr.UserDialogs.Resource.Id.none = global::AutoAppo_StevenVR.Droid.Resource.Id.none;
-			global::Acr.UserDialogs.Resource.Id.normal = global::AutoAppo_StevenVR.Droid.Resource.Id.normal;
-			global::Acr.UserDialogs.Resource.Id.north = global::AutoAppo_StevenVR.Droid.Resource.Id.north;
-			global::Acr.UserDialogs.Resource.Id.noScroll = global::AutoAppo_StevenVR.Droid.Resource.Id.noScroll;
-			global::Acr.UserDialogs.Resource.Id.noState = global::AutoAppo_StevenVR.Droid.Resource.Id.noState;
-			global::Acr.UserDialogs.Resource.Id.notification_background = global::AutoAppo_StevenVR.Droid.Resource.Id.notification_background;
-			global::Acr.UserDialogs.Resource.Id.notification_main_column = global::AutoAppo_StevenVR.Droid.Resource.Id.notification_main_column;
-			global::Acr.UserDialogs.Resource.Id.notification_main_column_container = global::AutoAppo_StevenVR.Droid.Resource.Id.notification_main_column_container;
-			global::Acr.UserDialogs.Resource.Id.NO_DEBUG = global::AutoAppo_StevenVR.Droid.Resource.Id.NO_DEBUG;
-			global::Acr.UserDialogs.Resource.Id.off = global::AutoAppo_StevenVR.Droid.Resource.Id.off;
-			global::Acr.UserDialogs.Resource.Id.on = global::AutoAppo_StevenVR.Droid.Resource.Id.on;
-			global::Acr.UserDialogs.Resource.Id.outline = global::AutoAppo_StevenVR.Droid.Resource.Id.outline;
-			global::Acr.UserDialogs.Resource.Id.outward = global::AutoAppo_StevenVR.Droid.Resource.Id.outward;
-			global::Acr.UserDialogs.Resource.Id.overshoot = global::AutoAppo_StevenVR.Droid.Resource.Id.overshoot;
-			global::Acr.UserDialogs.Resource.Id.packed = global::AutoAppo_StevenVR.Droid.Resource.Id.packed;
-			global::Acr.UserDialogs.Resource.Id.parallax = global::AutoAppo_StevenVR.Droid.Resource.Id.parallax;
-			global::Acr.UserDialogs.Resource.Id.parent = global::AutoAppo_StevenVR.Droid.Resource.Id.parent;
-			global::Acr.UserDialogs.Resource.Id.parentPanel = global::AutoAppo_StevenVR.Droid.Resource.Id.parentPanel;
-			global::Acr.UserDialogs.Resource.Id.parentRelative = global::AutoAppo_StevenVR.Droid.Resource.Id.parentRelative;
-			global::Acr.UserDialogs.Resource.Id.parent_matrix = global::AutoAppo_StevenVR.Droid.Resource.Id.parent_matrix;
-			global::Acr.UserDialogs.Resource.Id.password_toggle = global::AutoAppo_StevenVR.Droid.Resource.Id.password_toggle;
-			global::Acr.UserDialogs.Resource.Id.path = global::AutoAppo_StevenVR.Droid.Resource.Id.path;
-			global::Acr.UserDialogs.Resource.Id.pathRelative = global::AutoAppo_StevenVR.Droid.Resource.Id.pathRelative;
-			global::Acr.UserDialogs.Resource.Id.peekHeight = global::AutoAppo_StevenVR.Droid.Resource.Id.peekHeight;
-			global::Acr.UserDialogs.Resource.Id.percent = global::AutoAppo_StevenVR.Droid.Resource.Id.percent;
-			global::Acr.UserDialogs.Resource.Id.pin = global::AutoAppo_StevenVR.Droid.Resource.Id.pin;
-			global::Acr.UserDialogs.Resource.Id.position = global::AutoAppo_StevenVR.Droid.Resource.Id.position;
-			global::Acr.UserDialogs.Resource.Id.postLayout = global::AutoAppo_StevenVR.Droid.Resource.Id.postLayout;
-			global::Acr.UserDialogs.Resource.Id.progress_circular = global::AutoAppo_StevenVR.Droid.Resource.Id.progress_circular;
-			global::Acr.UserDialogs.Resource.Id.progress_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Id.progress_horizontal;
-			global::Acr.UserDialogs.Resource.Id.radio = global::AutoAppo_StevenVR.Droid.Resource.Id.radio;
-			global::Acr.UserDialogs.Resource.Id.ratio = global::AutoAppo_StevenVR.Droid.Resource.Id.ratio;
-			global::Acr.UserDialogs.Resource.Id.rectangles = global::AutoAppo_StevenVR.Droid.Resource.Id.rectangles;
-			global::Acr.UserDialogs.Resource.Id.reverseSawtooth = global::AutoAppo_StevenVR.Droid.Resource.Id.reverseSawtooth;
-			global::Acr.UserDialogs.Resource.Id.right = global::AutoAppo_StevenVR.Droid.Resource.Id.right;
-			global::Acr.UserDialogs.Resource.Id.rightToLeft = global::AutoAppo_StevenVR.Droid.Resource.Id.rightToLeft;
-			global::Acr.UserDialogs.Resource.Id.right_icon = global::AutoAppo_StevenVR.Droid.Resource.Id.right_icon;
-			global::Acr.UserDialogs.Resource.Id.right_side = global::AutoAppo_StevenVR.Droid.Resource.Id.right_side;
-			global::Acr.UserDialogs.Resource.Id.rounded = global::AutoAppo_StevenVR.Droid.Resource.Id.rounded;
-			global::Acr.UserDialogs.Resource.Id.row_index_key = global::AutoAppo_StevenVR.Droid.Resource.Id.row_index_key;
-			global::Acr.UserDialogs.Resource.Id.save_non_transition_alpha = global::AutoAppo_StevenVR.Droid.Resource.Id.save_non_transition_alpha;
-			global::Acr.UserDialogs.Resource.Id.save_overlay_view = global::AutoAppo_StevenVR.Droid.Resource.Id.save_overlay_view;
-			global::Acr.UserDialogs.Resource.Id.sawtooth = global::AutoAppo_StevenVR.Droid.Resource.Id.sawtooth;
-			global::Acr.UserDialogs.Resource.Id.scale = global::AutoAppo_StevenVR.Droid.Resource.Id.scale;
-			global::Acr.UserDialogs.Resource.Id.screen = global::AutoAppo_StevenVR.Droid.Resource.Id.screen;
-			global::Acr.UserDialogs.Resource.Id.scroll = global::AutoAppo_StevenVR.Droid.Resource.Id.scroll;
-			global::Acr.UserDialogs.Resource.Id.scrollable = global::AutoAppo_StevenVR.Droid.Resource.Id.scrollable;
-			global::Acr.UserDialogs.Resource.Id.scrollIndicatorDown = global::AutoAppo_StevenVR.Droid.Resource.Id.scrollIndicatorDown;
-			global::Acr.UserDialogs.Resource.Id.scrollIndicatorUp = global::AutoAppo_StevenVR.Droid.Resource.Id.scrollIndicatorUp;
-			global::Acr.UserDialogs.Resource.Id.scrollView = global::AutoAppo_StevenVR.Droid.Resource.Id.scrollView;
-			global::Acr.UserDialogs.Resource.Id.search_badge = global::AutoAppo_StevenVR.Droid.Resource.Id.search_badge;
-			global::Acr.UserDialogs.Resource.Id.search_bar = global::AutoAppo_StevenVR.Droid.Resource.Id.search_bar;
-			global::Acr.UserDialogs.Resource.Id.search_button = global::AutoAppo_StevenVR.Droid.Resource.Id.search_button;
-			global::Acr.UserDialogs.Resource.Id.search_close_btn = global::AutoAppo_StevenVR.Droid.Resource.Id.search_close_btn;
-			global::Acr.UserDialogs.Resource.Id.search_edit_frame = global::AutoAppo_StevenVR.Droid.Resource.Id.search_edit_frame;
-			global::Acr.UserDialogs.Resource.Id.search_go_btn = global::AutoAppo_StevenVR.Droid.Resource.Id.search_go_btn;
-			global::Acr.UserDialogs.Resource.Id.search_mag_icon = global::AutoAppo_StevenVR.Droid.Resource.Id.search_mag_icon;
-			global::Acr.UserDialogs.Resource.Id.search_plate = global::AutoAppo_StevenVR.Droid.Resource.Id.search_plate;
-			global::Acr.UserDialogs.Resource.Id.search_src_text = global::AutoAppo_StevenVR.Droid.Resource.Id.search_src_text;
-			global::Acr.UserDialogs.Resource.Id.search_voice_btn = global::AutoAppo_StevenVR.Droid.Resource.Id.search_voice_btn;
-			global::Acr.UserDialogs.Resource.Id.selected = global::AutoAppo_StevenVR.Droid.Resource.Id.selected;
-			global::Acr.UserDialogs.Resource.Id.selection_type = global::AutoAppo_StevenVR.Droid.Resource.Id.selection_type;
-			global::Acr.UserDialogs.Resource.Id.select_dialog_listview = global::AutoAppo_StevenVR.Droid.Resource.Id.select_dialog_listview;
-			global::Acr.UserDialogs.Resource.Id.sharedValueSet = global::AutoAppo_StevenVR.Droid.Resource.Id.sharedValueSet;
-			global::Acr.UserDialogs.Resource.Id.sharedValueUnset = global::AutoAppo_StevenVR.Droid.Resource.Id.sharedValueUnset;
-			global::Acr.UserDialogs.Resource.Id.SHIFT = global::AutoAppo_StevenVR.Droid.Resource.Id.SHIFT;
-			global::Acr.UserDialogs.Resource.Id.shortcut = global::AutoAppo_StevenVR.Droid.Resource.Id.shortcut;
-			global::Acr.UserDialogs.Resource.Id.showCustom = global::AutoAppo_StevenVR.Droid.Resource.Id.showCustom;
-			global::Acr.UserDialogs.Resource.Id.showHome = global::AutoAppo_StevenVR.Droid.Resource.Id.showHome;
-			global::Acr.UserDialogs.Resource.Id.showTitle = global::AutoAppo_StevenVR.Droid.Resource.Id.showTitle;
-			global::Acr.UserDialogs.Resource.Id.SHOW_ALL = global::AutoAppo_StevenVR.Droid.Resource.Id.SHOW_ALL;
-			global::Acr.UserDialogs.Resource.Id.SHOW_PATH = global::AutoAppo_StevenVR.Droid.Resource.Id.SHOW_PATH;
-			global::Acr.UserDialogs.Resource.Id.SHOW_PROGRESS = global::AutoAppo_StevenVR.Droid.Resource.Id.SHOW_PROGRESS;
-			global::Acr.UserDialogs.Resource.Id.sin = global::AutoAppo_StevenVR.Droid.Resource.Id.sin;
-			global::Acr.UserDialogs.Resource.Id.skipCollapsed = global::AutoAppo_StevenVR.Droid.Resource.Id.skipCollapsed;
-			global::Acr.UserDialogs.Resource.Id.skipped = global::AutoAppo_StevenVR.Droid.Resource.Id.skipped;
-			global::Acr.UserDialogs.Resource.Id.slide = global::AutoAppo_StevenVR.Droid.Resource.Id.slide;
-			global::Acr.UserDialogs.Resource.Id.snackbar_action = global::AutoAppo_StevenVR.Droid.Resource.Id.snackbar_action;
-			global::Acr.UserDialogs.Resource.Id.snackbar_text = global::AutoAppo_StevenVR.Droid.Resource.Id.snackbar_text;
-			global::Acr.UserDialogs.Resource.Id.snap = global::AutoAppo_StevenVR.Droid.Resource.Id.snap;
-			global::Acr.UserDialogs.Resource.Id.snapMargins = global::AutoAppo_StevenVR.Droid.Resource.Id.snapMargins;
-			global::Acr.UserDialogs.Resource.Id.south = global::AutoAppo_StevenVR.Droid.Resource.Id.south;
-			global::Acr.UserDialogs.Resource.Id.spacer = global::AutoAppo_StevenVR.Droid.Resource.Id.spacer;
-			global::Acr.UserDialogs.Resource.Id.special_effects_controller_view_tag = global::AutoAppo_StevenVR.Droid.Resource.Id.special_effects_controller_view_tag;
-			global::Acr.UserDialogs.Resource.Id.spline = global::AutoAppo_StevenVR.Droid.Resource.Id.spline;
-			global::Acr.UserDialogs.Resource.Id.split_action_bar = global::AutoAppo_StevenVR.Droid.Resource.Id.split_action_bar;
-			global::Acr.UserDialogs.Resource.Id.spread = global::AutoAppo_StevenVR.Droid.Resource.Id.spread;
-			global::Acr.UserDialogs.Resource.Id.spread_inside = global::AutoAppo_StevenVR.Droid.Resource.Id.spread_inside;
-			global::Acr.UserDialogs.Resource.Id.spring = global::AutoAppo_StevenVR.Droid.Resource.Id.spring;
-			global::Acr.UserDialogs.Resource.Id.square = global::AutoAppo_StevenVR.Droid.Resource.Id.square;
-			global::Acr.UserDialogs.Resource.Id.src_atop = global::AutoAppo_StevenVR.Droid.Resource.Id.src_atop;
-			global::Acr.UserDialogs.Resource.Id.src_in = global::AutoAppo_StevenVR.Droid.Resource.Id.src_in;
-			global::Acr.UserDialogs.Resource.Id.src_over = global::AutoAppo_StevenVR.Droid.Resource.Id.src_over;
-			global::Acr.UserDialogs.Resource.Id.standard = global::AutoAppo_StevenVR.Droid.Resource.Id.standard;
-			global::Acr.UserDialogs.Resource.Id.start = global::AutoAppo_StevenVR.Droid.Resource.Id.start;
-			global::Acr.UserDialogs.Resource.Id.startHorizontal = global::AutoAppo_StevenVR.Droid.Resource.Id.startHorizontal;
-			global::Acr.UserDialogs.Resource.Id.startToEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.startToEnd;
-			global::Acr.UserDialogs.Resource.Id.startVertical = global::AutoAppo_StevenVR.Droid.Resource.Id.startVertical;
-			global::Acr.UserDialogs.Resource.Id.staticLayout = global::AutoAppo_StevenVR.Droid.Resource.Id.staticLayout;
-			global::Acr.UserDialogs.Resource.Id.staticPostLayout = global::AutoAppo_StevenVR.Droid.Resource.Id.staticPostLayout;
-			global::Acr.UserDialogs.Resource.Id.stop = global::AutoAppo_StevenVR.Droid.Resource.Id.stop;
-			global::Acr.UserDialogs.Resource.Id.stretch = global::AutoAppo_StevenVR.Droid.Resource.Id.stretch;
-			global::Acr.UserDialogs.Resource.Id.submenuarrow = global::AutoAppo_StevenVR.Droid.Resource.Id.submenuarrow;
-			global::Acr.UserDialogs.Resource.Id.submit_area = global::AutoAppo_StevenVR.Droid.Resource.Id.submit_area;
-			global::Acr.UserDialogs.Resource.Id.supportScrollUp = global::AutoAppo_StevenVR.Droid.Resource.Id.supportScrollUp;
-			global::Acr.UserDialogs.Resource.Id.SYM = global::AutoAppo_StevenVR.Droid.Resource.Id.SYM;
-			global::Acr.UserDialogs.Resource.Id.tabMode = global::AutoAppo_StevenVR.Droid.Resource.Id.tabMode;
-			global::Acr.UserDialogs.Resource.Id.tag_accessibility_actions = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_accessibility_actions;
-			global::Acr.UserDialogs.Resource.Id.tag_accessibility_clickable_spans = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_accessibility_clickable_spans;
-			global::Acr.UserDialogs.Resource.Id.tag_accessibility_heading = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_accessibility_heading;
-			global::Acr.UserDialogs.Resource.Id.tag_accessibility_pane_title = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_accessibility_pane_title;
-			global::Acr.UserDialogs.Resource.Id.tag_on_apply_window_listener = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_on_apply_window_listener;
-			global::Acr.UserDialogs.Resource.Id.tag_on_receive_content_listener = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_on_receive_content_listener;
-			global::Acr.UserDialogs.Resource.Id.tag_on_receive_content_mime_types = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_on_receive_content_mime_types;
-			global::Acr.UserDialogs.Resource.Id.tag_screen_reader_focusable = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_screen_reader_focusable;
-			global::Acr.UserDialogs.Resource.Id.tag_state_description = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_state_description;
-			global::Acr.UserDialogs.Resource.Id.tag_transition_group = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_transition_group;
-			global::Acr.UserDialogs.Resource.Id.tag_unhandled_key_event_manager = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_unhandled_key_event_manager;
-			global::Acr.UserDialogs.Resource.Id.tag_unhandled_key_listeners = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_unhandled_key_listeners;
-			global::Acr.UserDialogs.Resource.Id.tag_window_insets_animation_callback = global::AutoAppo_StevenVR.Droid.Resource.Id.tag_window_insets_animation_callback;
-			global::Acr.UserDialogs.Resource.Id.test_checkbox_android_button_tint = global::AutoAppo_StevenVR.Droid.Resource.Id.test_checkbox_android_button_tint;
-			global::Acr.UserDialogs.Resource.Id.test_checkbox_app_button_tint = global::AutoAppo_StevenVR.Droid.Resource.Id.test_checkbox_app_button_tint;
-			global::Acr.UserDialogs.Resource.Id.test_radiobutton_android_button_tint = global::AutoAppo_StevenVR.Droid.Resource.Id.test_radiobutton_android_button_tint;
-			global::Acr.UserDialogs.Resource.Id.test_radiobutton_app_button_tint = global::AutoAppo_StevenVR.Droid.Resource.Id.test_radiobutton_app_button_tint;
-			global::Acr.UserDialogs.Resource.Id.text = global::AutoAppo_StevenVR.Droid.Resource.Id.text;
-			global::Acr.UserDialogs.Resource.Id.text2 = global::AutoAppo_StevenVR.Droid.Resource.Id.text2;
-			global::Acr.UserDialogs.Resource.Id.textEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.textEnd;
-			global::Acr.UserDialogs.Resource.Id.textinput_counter = global::AutoAppo_StevenVR.Droid.Resource.Id.textinput_counter;
-			global::Acr.UserDialogs.Resource.Id.textinput_error = global::AutoAppo_StevenVR.Droid.Resource.Id.textinput_error;
-			global::Acr.UserDialogs.Resource.Id.textinput_helper_text = global::AutoAppo_StevenVR.Droid.Resource.Id.textinput_helper_text;
-			global::Acr.UserDialogs.Resource.Id.textinput_placeholder = global::AutoAppo_StevenVR.Droid.Resource.Id.textinput_placeholder;
-			global::Acr.UserDialogs.Resource.Id.textinput_prefix_text = global::AutoAppo_StevenVR.Droid.Resource.Id.textinput_prefix_text;
-			global::Acr.UserDialogs.Resource.Id.textinput_suffix_text = global::AutoAppo_StevenVR.Droid.Resource.Id.textinput_suffix_text;
-			global::Acr.UserDialogs.Resource.Id.textSpacerNoButtons = global::AutoAppo_StevenVR.Droid.Resource.Id.textSpacerNoButtons;
-			global::Acr.UserDialogs.Resource.Id.textSpacerNoTitle = global::AutoAppo_StevenVR.Droid.Resource.Id.textSpacerNoTitle;
-			global::Acr.UserDialogs.Resource.Id.textStart = global::AutoAppo_StevenVR.Droid.Resource.Id.textStart;
-			global::Acr.UserDialogs.Resource.Id.textTop = global::AutoAppo_StevenVR.Droid.Resource.Id.textTop;
-			global::Acr.UserDialogs.Resource.Id.textViewStatus = global::AutoAppo_StevenVR.Droid.Resource.Id.textViewStatus;
-			global::Acr.UserDialogs.Resource.Id.text_input_end_icon = global::AutoAppo_StevenVR.Droid.Resource.Id.text_input_end_icon;
-			global::Acr.UserDialogs.Resource.Id.text_input_error_icon = global::AutoAppo_StevenVR.Droid.Resource.Id.text_input_error_icon;
-			global::Acr.UserDialogs.Resource.Id.text_input_start_icon = global::AutoAppo_StevenVR.Droid.Resource.Id.text_input_start_icon;
-			global::Acr.UserDialogs.Resource.Id.time = global::AutoAppo_StevenVR.Droid.Resource.Id.time;
-			global::Acr.UserDialogs.Resource.Id.title = global::AutoAppo_StevenVR.Droid.Resource.Id.title;
-			global::Acr.UserDialogs.Resource.Id.titleDividerNoCustom = global::AutoAppo_StevenVR.Droid.Resource.Id.titleDividerNoCustom;
-			global::Acr.UserDialogs.Resource.Id.title_template = global::AutoAppo_StevenVR.Droid.Resource.Id.title_template;
-			global::Acr.UserDialogs.Resource.Id.toggle = global::AutoAppo_StevenVR.Droid.Resource.Id.toggle;
-			global::Acr.UserDialogs.Resource.Id.top = global::AutoAppo_StevenVR.Droid.Resource.Id.top;
-			global::Acr.UserDialogs.Resource.Id.topPanel = global::AutoAppo_StevenVR.Droid.Resource.Id.topPanel;
-			global::Acr.UserDialogs.Resource.Id.TOP_END = global::AutoAppo_StevenVR.Droid.Resource.Id.TOP_END;
-			global::Acr.UserDialogs.Resource.Id.TOP_START = global::AutoAppo_StevenVR.Droid.Resource.Id.TOP_START;
-			global::Acr.UserDialogs.Resource.Id.touch_outside = global::AutoAppo_StevenVR.Droid.Resource.Id.touch_outside;
-			global::Acr.UserDialogs.Resource.Id.transitionToEnd = global::AutoAppo_StevenVR.Droid.Resource.Id.transitionToEnd;
-			global::Acr.UserDialogs.Resource.Id.transitionToStart = global::AutoAppo_StevenVR.Droid.Resource.Id.transitionToStart;
-			global::Acr.UserDialogs.Resource.Id.transition_current_scene = global::AutoAppo_StevenVR.Droid.Resource.Id.transition_current_scene;
-			global::Acr.UserDialogs.Resource.Id.transition_layout_save = global::AutoAppo_StevenVR.Droid.Resource.Id.transition_layout_save;
-			global::Acr.UserDialogs.Resource.Id.transition_position = global::AutoAppo_StevenVR.Droid.Resource.Id.transition_position;
-			global::Acr.UserDialogs.Resource.Id.transition_scene_layoutid_cache = global::AutoAppo_StevenVR.Droid.Resource.Id.transition_scene_layoutid_cache;
-			global::Acr.UserDialogs.Resource.Id.transition_transform = global::AutoAppo_StevenVR.Droid.Resource.Id.transition_transform;
-			global::Acr.UserDialogs.Resource.Id.triangle = global::AutoAppo_StevenVR.Droid.Resource.Id.triangle;
-			global::Acr.UserDialogs.Resource.Id.@unchecked = global::AutoAppo_StevenVR.Droid.Resource.Id.@unchecked;
-			global::Acr.UserDialogs.Resource.Id.uniform = global::AutoAppo_StevenVR.Droid.Resource.Id.uniform;
-			global::Acr.UserDialogs.Resource.Id.unlabeled = global::AutoAppo_StevenVR.Droid.Resource.Id.unlabeled;
-			global::Acr.UserDialogs.Resource.Id.up = global::AutoAppo_StevenVR.Droid.Resource.Id.up;
-			global::Acr.UserDialogs.Resource.Id.useLogo = global::AutoAppo_StevenVR.Droid.Resource.Id.useLogo;
-			global::Acr.UserDialogs.Resource.Id.vertical_only = global::AutoAppo_StevenVR.Droid.Resource.Id.vertical_only;
-			global::Acr.UserDialogs.Resource.Id.view_offset_helper = global::AutoAppo_StevenVR.Droid.Resource.Id.view_offset_helper;
-			global::Acr.UserDialogs.Resource.Id.view_transition = global::AutoAppo_StevenVR.Droid.Resource.Id.view_transition;
-			global::Acr.UserDialogs.Resource.Id.view_tree_lifecycle_owner = global::AutoAppo_StevenVR.Droid.Resource.Id.view_tree_lifecycle_owner;
-			global::Acr.UserDialogs.Resource.Id.view_tree_saved_state_registry_owner = global::AutoAppo_StevenVR.Droid.Resource.Id.view_tree_saved_state_registry_owner;
-			global::Acr.UserDialogs.Resource.Id.view_tree_view_model_store_owner = global::AutoAppo_StevenVR.Droid.Resource.Id.view_tree_view_model_store_owner;
-			global::Acr.UserDialogs.Resource.Id.visible = global::AutoAppo_StevenVR.Droid.Resource.Id.visible;
-			global::Acr.UserDialogs.Resource.Id.visible_removing_fragment_view_tag = global::AutoAppo_StevenVR.Droid.Resource.Id.visible_removing_fragment_view_tag;
-			global::Acr.UserDialogs.Resource.Id.west = global::AutoAppo_StevenVR.Droid.Resource.Id.west;
-			global::Acr.UserDialogs.Resource.Id.withinBounds = global::AutoAppo_StevenVR.Droid.Resource.Id.withinBounds;
-			global::Acr.UserDialogs.Resource.Id.withText = global::AutoAppo_StevenVR.Droid.Resource.Id.withText;
-			global::Acr.UserDialogs.Resource.Id.wrap = global::AutoAppo_StevenVR.Droid.Resource.Id.wrap;
-			global::Acr.UserDialogs.Resource.Id.wrap_content = global::AutoAppo_StevenVR.Droid.Resource.Id.wrap_content;
-			global::Acr.UserDialogs.Resource.Id.wrap_content_constrained = global::AutoAppo_StevenVR.Droid.Resource.Id.wrap_content_constrained;
-			global::Acr.UserDialogs.Resource.Id.x_left = global::AutoAppo_StevenVR.Droid.Resource.Id.x_left;
-			global::Acr.UserDialogs.Resource.Id.x_right = global::AutoAppo_StevenVR.Droid.Resource.Id.x_right;
-			global::Acr.UserDialogs.Resource.Id.zero_corner_chip = global::AutoAppo_StevenVR.Droid.Resource.Id.zero_corner_chip;
-			global::Acr.UserDialogs.Resource.Integer.abc_config_activityDefaultDur = global::AutoAppo_StevenVR.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::Acr.UserDialogs.Resource.Integer.abc_config_activityShortDur = global::AutoAppo_StevenVR.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::Acr.UserDialogs.Resource.Integer.app_bar_elevation_anim_duration = global::AutoAppo_StevenVR.Droid.Resource.Integer.app_bar_elevation_anim_duration;
-			global::Acr.UserDialogs.Resource.Integer.bottom_sheet_slide_duration = global::AutoAppo_StevenVR.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::Acr.UserDialogs.Resource.Integer.cancel_button_image_alpha = global::AutoAppo_StevenVR.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::Acr.UserDialogs.Resource.Integer.config_tooltipAnimTime = global::AutoAppo_StevenVR.Droid.Resource.Integer.config_tooltipAnimTime;
-			global::Acr.UserDialogs.Resource.Integer.design_snackbar_text_max_lines = global::AutoAppo_StevenVR.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::Acr.UserDialogs.Resource.Integer.design_tab_indicator_anim_duration_ms = global::AutoAppo_StevenVR.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
-			global::Acr.UserDialogs.Resource.Integer.hide_password_duration = global::AutoAppo_StevenVR.Droid.Resource.Integer.hide_password_duration;
-			global::Acr.UserDialogs.Resource.Integer.material_motion_duration_long_1 = global::AutoAppo_StevenVR.Droid.Resource.Integer.material_motion_duration_long_1;
-			global::Acr.UserDialogs.Resource.Integer.material_motion_duration_long_2 = global::AutoAppo_StevenVR.Droid.Resource.Integer.material_motion_duration_long_2;
-			global::Acr.UserDialogs.Resource.Integer.material_motion_duration_medium_1 = global::AutoAppo_StevenVR.Droid.Resource.Integer.material_motion_duration_medium_1;
-			global::Acr.UserDialogs.Resource.Integer.material_motion_duration_medium_2 = global::AutoAppo_StevenVR.Droid.Resource.Integer.material_motion_duration_medium_2;
-			global::Acr.UserDialogs.Resource.Integer.material_motion_duration_short_1 = global::AutoAppo_StevenVR.Droid.Resource.Integer.material_motion_duration_short_1;
-			global::Acr.UserDialogs.Resource.Integer.material_motion_duration_short_2 = global::AutoAppo_StevenVR.Droid.Resource.Integer.material_motion_duration_short_2;
-			global::Acr.UserDialogs.Resource.Integer.material_motion_path = global::AutoAppo_StevenVR.Droid.Resource.Integer.material_motion_path;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_badge_max_character_count = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_badge_max_character_count;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_btn_anim_delay_ms = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_btn_anim_duration_ms = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_calendar_header_orientation = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_calendar_header_orientation;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_calendar_selection_text_lines = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_calendar_year_selector_span = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_card_anim_delay_ms = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_card_anim_duration_ms = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_chip_anim_duration = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_chip_anim_duration;
-			global::Acr.UserDialogs.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::AutoAppo_StevenVR.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
-			global::Acr.UserDialogs.Resource.Integer.show_password_duration = global::AutoAppo_StevenVR.Droid.Resource.Integer.show_password_duration;
-			global::Acr.UserDialogs.Resource.Integer.status_bar_notification_info_maxnum = global::AutoAppo_StevenVR.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::Acr.UserDialogs.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
-			global::Acr.UserDialogs.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
-			global::Acr.UserDialogs.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
-			global::Acr.UserDialogs.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
-			global::Acr.UserDialogs.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
-			global::Acr.UserDialogs.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
-			global::Acr.UserDialogs.Resource.Interpolator.fast_out_slow_in = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.fast_out_slow_in;
-			global::Acr.UserDialogs.Resource.Interpolator.mtrl_fast_out_linear_in = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
-			global::Acr.UserDialogs.Resource.Interpolator.mtrl_fast_out_slow_in = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
-			global::Acr.UserDialogs.Resource.Interpolator.mtrl_linear = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.mtrl_linear;
-			global::Acr.UserDialogs.Resource.Interpolator.mtrl_linear_out_slow_in = global::AutoAppo_StevenVR.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
-			global::Acr.UserDialogs.Resource.Layout.abc_action_bar_title_item = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::Acr.UserDialogs.Resource.Layout.abc_action_bar_up_container = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::Acr.UserDialogs.Resource.Layout.abc_action_menu_item_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::Acr.UserDialogs.Resource.Layout.abc_action_menu_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_action_menu_layout;
-			global::Acr.UserDialogs.Resource.Layout.abc_action_mode_bar = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_action_mode_bar;
-			global::Acr.UserDialogs.Resource.Layout.abc_action_mode_close_item_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::Acr.UserDialogs.Resource.Layout.abc_activity_chooser_view = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::Acr.UserDialogs.Resource.Layout.abc_activity_chooser_view_list_item = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::Acr.UserDialogs.Resource.Layout.abc_alert_dialog_button_bar_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::Acr.UserDialogs.Resource.Layout.abc_alert_dialog_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::Acr.UserDialogs.Resource.Layout.abc_alert_dialog_title_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_alert_dialog_title_material;
-			global::Acr.UserDialogs.Resource.Layout.abc_cascading_menu_item_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_cascading_menu_item_layout;
-			global::Acr.UserDialogs.Resource.Layout.abc_dialog_title_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_dialog_title_material;
-			global::Acr.UserDialogs.Resource.Layout.abc_expanded_menu_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::Acr.UserDialogs.Resource.Layout.abc_list_menu_item_checkbox = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::Acr.UserDialogs.Resource.Layout.abc_list_menu_item_icon = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::Acr.UserDialogs.Resource.Layout.abc_list_menu_item_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::Acr.UserDialogs.Resource.Layout.abc_list_menu_item_radio = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::Acr.UserDialogs.Resource.Layout.abc_popup_menu_header_item_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::Acr.UserDialogs.Resource.Layout.abc_popup_menu_item_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::Acr.UserDialogs.Resource.Layout.abc_screen_content_include = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_screen_content_include;
-			global::Acr.UserDialogs.Resource.Layout.abc_screen_simple = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_screen_simple;
-			global::Acr.UserDialogs.Resource.Layout.abc_screen_simple_overlay_action_mode = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::Acr.UserDialogs.Resource.Layout.abc_screen_toolbar = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_screen_toolbar;
-			global::Acr.UserDialogs.Resource.Layout.abc_search_dropdown_item_icons_2line = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::Acr.UserDialogs.Resource.Layout.abc_search_view = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_search_view;
-			global::Acr.UserDialogs.Resource.Layout.abc_select_dialog_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_select_dialog_material;
-			global::Acr.UserDialogs.Resource.Layout.abc_tooltip = global::AutoAppo_StevenVR.Droid.Resource.Layout.abc_tooltip;
-			global::Acr.UserDialogs.Resource.Layout.custom_dialog = global::AutoAppo_StevenVR.Droid.Resource.Layout.custom_dialog;
-			global::Acr.UserDialogs.Resource.Layout.design_bottom_navigation_item = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_bottom_navigation_item;
-			global::Acr.UserDialogs.Resource.Layout.design_bottom_sheet_dialog = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::Acr.UserDialogs.Resource.Layout.design_layout_snackbar = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_layout_snackbar;
-			global::Acr.UserDialogs.Resource.Layout.design_layout_snackbar_include = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::Acr.UserDialogs.Resource.Layout.design_layout_tab_icon = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_layout_tab_icon;
-			global::Acr.UserDialogs.Resource.Layout.design_layout_tab_text = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_layout_tab_text;
-			global::Acr.UserDialogs.Resource.Layout.design_menu_item_action_area = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_menu_item_action_area;
-			global::Acr.UserDialogs.Resource.Layout.design_navigation_item = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_navigation_item;
-			global::Acr.UserDialogs.Resource.Layout.design_navigation_item_header = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_navigation_item_header;
-			global::Acr.UserDialogs.Resource.Layout.design_navigation_item_separator = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_navigation_item_separator;
-			global::Acr.UserDialogs.Resource.Layout.design_navigation_item_subheader = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::Acr.UserDialogs.Resource.Layout.design_navigation_menu = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_navigation_menu;
-			global::Acr.UserDialogs.Resource.Layout.design_navigation_menu_item = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_navigation_menu_item;
-			global::Acr.UserDialogs.Resource.Layout.design_text_input_end_icon = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_text_input_end_icon;
-			global::Acr.UserDialogs.Resource.Layout.design_text_input_start_icon = global::AutoAppo_StevenVR.Droid.Resource.Layout.design_text_input_start_icon;
-			global::Acr.UserDialogs.Resource.Layout.loading = global::AutoAppo_StevenVR.Droid.Resource.Layout.loading;
-			global::Acr.UserDialogs.Resource.Layout.loadingimage = global::AutoAppo_StevenVR.Droid.Resource.Layout.loadingimage;
-			global::Acr.UserDialogs.Resource.Layout.loadingprogress = global::AutoAppo_StevenVR.Droid.Resource.Layout.loadingprogress;
-			global::Acr.UserDialogs.Resource.Layout.material_chip_input_combo = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_chip_input_combo;
-			global::Acr.UserDialogs.Resource.Layout.material_clockface_textview = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_clockface_textview;
-			global::Acr.UserDialogs.Resource.Layout.material_clockface_view = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_clockface_view;
-			global::Acr.UserDialogs.Resource.Layout.material_clock_display = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_clock_display;
-			global::Acr.UserDialogs.Resource.Layout.material_clock_display_divider = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_clock_display_divider;
-			global::Acr.UserDialogs.Resource.Layout.material_clock_period_toggle = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_clock_period_toggle;
-			global::Acr.UserDialogs.Resource.Layout.material_clock_period_toggle_land = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_clock_period_toggle_land;
-			global::Acr.UserDialogs.Resource.Layout.material_radial_view_group = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_radial_view_group;
-			global::Acr.UserDialogs.Resource.Layout.material_textinput_timepicker = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_textinput_timepicker;
-			global::Acr.UserDialogs.Resource.Layout.material_timepicker = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_timepicker;
-			global::Acr.UserDialogs.Resource.Layout.material_timepicker_dialog = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_timepicker_dialog;
-			global::Acr.UserDialogs.Resource.Layout.material_timepicker_textinput_display = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_timepicker_textinput_display;
-			global::Acr.UserDialogs.Resource.Layout.material_time_chip = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_time_chip;
-			global::Acr.UserDialogs.Resource.Layout.material_time_input = global::AutoAppo_StevenVR.Droid.Resource.Layout.material_time_input;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_alert_dialog = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_alert_dialog;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_alert_dialog_actions = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_alert_dialog_actions;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_alert_dialog_title = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_alert_dialog_title;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_alert_select_dialog_item = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_day = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_day;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_days_of_week = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_days_of_week;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_day_of_week = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_day_of_week;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_horizontal = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_horizontal;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_month = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_month;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_months = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_months;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_month_labeled = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_month_labeled;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_month_navigation = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_month_navigation;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_vertical = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_vertical;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_calendar_year = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_calendar_year;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_layout_snackbar = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_layout_snackbar;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_layout_snackbar_include = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_layout_snackbar_include;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_navigation_rail_item = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_navigation_rail_item;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_actions = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_actions;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_dialog = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_dialog;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_fullscreen;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_header_dialog = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_header_dialog;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_header_fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_header_selection_text = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_header_selection_text;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_header_title_text = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_header_title_text;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_header_toggle = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_header_toggle;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_text_input_date = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_text_input_date;
-			global::Acr.UserDialogs.Resource.Layout.mtrl_picker_text_input_date_range = global::AutoAppo_StevenVR.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
-			global::Acr.UserDialogs.Resource.Layout.notification_action = global::AutoAppo_StevenVR.Droid.Resource.Layout.notification_action;
-			global::Acr.UserDialogs.Resource.Layout.notification_action_tombstone = global::AutoAppo_StevenVR.Droid.Resource.Layout.notification_action_tombstone;
-			global::Acr.UserDialogs.Resource.Layout.notification_template_custom_big = global::AutoAppo_StevenVR.Droid.Resource.Layout.notification_template_custom_big;
-			global::Acr.UserDialogs.Resource.Layout.notification_template_icon_group = global::AutoAppo_StevenVR.Droid.Resource.Layout.notification_template_icon_group;
-			global::Acr.UserDialogs.Resource.Layout.notification_template_part_chronometer = global::AutoAppo_StevenVR.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::Acr.UserDialogs.Resource.Layout.notification_template_part_time = global::AutoAppo_StevenVR.Droid.Resource.Layout.notification_template_part_time;
-			global::Acr.UserDialogs.Resource.Layout.select_dialog_item_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.select_dialog_item_material;
-			global::Acr.UserDialogs.Resource.Layout.select_dialog_multichoice_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::Acr.UserDialogs.Resource.Layout.select_dialog_singlechoice_material = global::AutoAppo_StevenVR.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Acr.UserDialogs.Resource.Layout.support_simple_spinner_dropdown_item = global::AutoAppo_StevenVR.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Acr.UserDialogs.Resource.Layout.test_action_chip = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_action_chip;
-			global::Acr.UserDialogs.Resource.Layout.test_chip_zero_corner_radius = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_chip_zero_corner_radius;
-			global::Acr.UserDialogs.Resource.Layout.test_design_checkbox = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_design_checkbox;
-			global::Acr.UserDialogs.Resource.Layout.test_design_radiobutton = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_design_radiobutton;
-			global::Acr.UserDialogs.Resource.Layout.test_navigation_bar_item_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_navigation_bar_item_layout;
-			global::Acr.UserDialogs.Resource.Layout.test_reflow_chipgroup = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_reflow_chipgroup;
-			global::Acr.UserDialogs.Resource.Layout.test_toolbar = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_toolbar;
-			global::Acr.UserDialogs.Resource.Layout.test_toolbar_custom_background = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_toolbar_custom_background;
-			global::Acr.UserDialogs.Resource.Layout.test_toolbar_elevation = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_toolbar_elevation;
-			global::Acr.UserDialogs.Resource.Layout.test_toolbar_surface = global::AutoAppo_StevenVR.Droid.Resource.Layout.test_toolbar_surface;
-			global::Acr.UserDialogs.Resource.Layout.text_view_without_line_height = global::AutoAppo_StevenVR.Droid.Resource.Layout.text_view_without_line_height;
-			global::Acr.UserDialogs.Resource.Layout.text_view_with_line_height_from_appearance = global::AutoAppo_StevenVR.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
-			global::Acr.UserDialogs.Resource.Layout.text_view_with_line_height_from_layout = global::AutoAppo_StevenVR.Droid.Resource.Layout.text_view_with_line_height_from_layout;
-			global::Acr.UserDialogs.Resource.Layout.text_view_with_line_height_from_style = global::AutoAppo_StevenVR.Droid.Resource.Layout.text_view_with_line_height_from_style;
-			global::Acr.UserDialogs.Resource.Layout.text_view_with_theme_line_height = global::AutoAppo_StevenVR.Droid.Resource.Layout.text_view_with_theme_line_height;
-			global::Acr.UserDialogs.Resource.Plurals.mtrl_badge_content_description = global::AutoAppo_StevenVR.Droid.Resource.Plurals.mtrl_badge_content_description;
-			global::Acr.UserDialogs.Resource.String.abc_action_bar_home_description = global::AutoAppo_StevenVR.Droid.Resource.String.abc_action_bar_home_description;
-			global::Acr.UserDialogs.Resource.String.abc_action_bar_up_description = global::AutoAppo_StevenVR.Droid.Resource.String.abc_action_bar_up_description;
-			global::Acr.UserDialogs.Resource.String.abc_action_menu_overflow_description = global::AutoAppo_StevenVR.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::Acr.UserDialogs.Resource.String.abc_action_mode_done = global::AutoAppo_StevenVR.Droid.Resource.String.abc_action_mode_done;
-			global::Acr.UserDialogs.Resource.String.abc_activitychooserview_choose_application = global::AutoAppo_StevenVR.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::Acr.UserDialogs.Resource.String.abc_activity_chooser_view_see_all = global::AutoAppo_StevenVR.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::Acr.UserDialogs.Resource.String.abc_capital_off = global::AutoAppo_StevenVR.Droid.Resource.String.abc_capital_off;
-			global::Acr.UserDialogs.Resource.String.abc_capital_on = global::AutoAppo_StevenVR.Droid.Resource.String.abc_capital_on;
-			global::Acr.UserDialogs.Resource.String.abc_menu_alt_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_alt_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_menu_ctrl_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_menu_delete_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_delete_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_menu_enter_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_enter_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_menu_function_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_function_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_menu_meta_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_meta_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_menu_shift_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_shift_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_menu_space_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_space_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_menu_sym_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_menu_sym_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_prepend_shortcut_label = global::AutoAppo_StevenVR.Droid.Resource.String.abc_prepend_shortcut_label;
-			global::Acr.UserDialogs.Resource.String.abc_searchview_description_clear = global::AutoAppo_StevenVR.Droid.Resource.String.abc_searchview_description_clear;
-			global::Acr.UserDialogs.Resource.String.abc_searchview_description_query = global::AutoAppo_StevenVR.Droid.Resource.String.abc_searchview_description_query;
-			global::Acr.UserDialogs.Resource.String.abc_searchview_description_search = global::AutoAppo_StevenVR.Droid.Resource.String.abc_searchview_description_search;
-			global::Acr.UserDialogs.Resource.String.abc_searchview_description_submit = global::AutoAppo_StevenVR.Droid.Resource.String.abc_searchview_description_submit;
-			global::Acr.UserDialogs.Resource.String.abc_searchview_description_voice = global::AutoAppo_StevenVR.Droid.Resource.String.abc_searchview_description_voice;
-			global::Acr.UserDialogs.Resource.String.abc_search_hint = global::AutoAppo_StevenVR.Droid.Resource.String.abc_search_hint;
-			global::Acr.UserDialogs.Resource.String.abc_shareactionprovider_share_with = global::AutoAppo_StevenVR.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::Acr.UserDialogs.Resource.String.abc_shareactionprovider_share_with_application = global::AutoAppo_StevenVR.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::Acr.UserDialogs.Resource.String.abc_toolbar_collapse_description = global::AutoAppo_StevenVR.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::Acr.UserDialogs.Resource.String.appbar_scrolling_view_behavior = global::AutoAppo_StevenVR.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::Acr.UserDialogs.Resource.String.bottomsheet_action_expand_halfway = global::AutoAppo_StevenVR.Droid.Resource.String.bottomsheet_action_expand_halfway;
-			global::Acr.UserDialogs.Resource.String.bottom_sheet_behavior = global::AutoAppo_StevenVR.Droid.Resource.String.bottom_sheet_behavior;
-			global::Acr.UserDialogs.Resource.String.character_counter_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.character_counter_content_description;
-			global::Acr.UserDialogs.Resource.String.character_counter_overflowed_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.character_counter_overflowed_content_description;
-			global::Acr.UserDialogs.Resource.String.character_counter_pattern = global::AutoAppo_StevenVR.Droid.Resource.String.character_counter_pattern;
-			global::Acr.UserDialogs.Resource.String.chip_text = global::AutoAppo_StevenVR.Droid.Resource.String.chip_text;
-			global::Acr.UserDialogs.Resource.String.clear_text_end_icon_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.clear_text_end_icon_content_description;
-			global::Acr.UserDialogs.Resource.String.error_icon_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.error_icon_content_description;
-			global::Acr.UserDialogs.Resource.String.exposed_dropdown_menu_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.exposed_dropdown_menu_content_description;
-			global::Acr.UserDialogs.Resource.String.fab_transformation_scrim_behavior = global::AutoAppo_StevenVR.Droid.Resource.String.fab_transformation_scrim_behavior;
-			global::Acr.UserDialogs.Resource.String.fab_transformation_sheet_behavior = global::AutoAppo_StevenVR.Droid.Resource.String.fab_transformation_sheet_behavior;
-			global::Acr.UserDialogs.Resource.String.hide_bottom_view_on_scroll_behavior = global::AutoAppo_StevenVR.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
-			global::Acr.UserDialogs.Resource.String.icon_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.icon_content_description;
-			global::Acr.UserDialogs.Resource.String.item_view_role_description = global::AutoAppo_StevenVR.Droid.Resource.String.item_view_role_description;
-			global::Acr.UserDialogs.Resource.String.library_name = global::AutoAppo_StevenVR.Droid.Resource.String.library_name;
-			global::Acr.UserDialogs.Resource.String.material_clock_display_divider = global::AutoAppo_StevenVR.Droid.Resource.String.material_clock_display_divider;
-			global::Acr.UserDialogs.Resource.String.material_clock_toggle_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.material_clock_toggle_content_description;
-			global::Acr.UserDialogs.Resource.String.material_hour_selection = global::AutoAppo_StevenVR.Droid.Resource.String.material_hour_selection;
-			global::Acr.UserDialogs.Resource.String.material_hour_suffix = global::AutoAppo_StevenVR.Droid.Resource.String.material_hour_suffix;
-			global::Acr.UserDialogs.Resource.String.material_minute_selection = global::AutoAppo_StevenVR.Droid.Resource.String.material_minute_selection;
-			global::Acr.UserDialogs.Resource.String.material_minute_suffix = global::AutoAppo_StevenVR.Droid.Resource.String.material_minute_suffix;
-			global::Acr.UserDialogs.Resource.String.material_motion_easing_accelerated = global::AutoAppo_StevenVR.Droid.Resource.String.material_motion_easing_accelerated;
-			global::Acr.UserDialogs.Resource.String.material_motion_easing_decelerated = global::AutoAppo_StevenVR.Droid.Resource.String.material_motion_easing_decelerated;
-			global::Acr.UserDialogs.Resource.String.material_motion_easing_emphasized = global::AutoAppo_StevenVR.Droid.Resource.String.material_motion_easing_emphasized;
-			global::Acr.UserDialogs.Resource.String.material_motion_easing_linear = global::AutoAppo_StevenVR.Droid.Resource.String.material_motion_easing_linear;
-			global::Acr.UserDialogs.Resource.String.material_motion_easing_standard = global::AutoAppo_StevenVR.Droid.Resource.String.material_motion_easing_standard;
-			global::Acr.UserDialogs.Resource.String.material_slider_range_end = global::AutoAppo_StevenVR.Droid.Resource.String.material_slider_range_end;
-			global::Acr.UserDialogs.Resource.String.material_slider_range_start = global::AutoAppo_StevenVR.Droid.Resource.String.material_slider_range_start;
-			global::Acr.UserDialogs.Resource.String.material_timepicker_am = global::AutoAppo_StevenVR.Droid.Resource.String.material_timepicker_am;
-			global::Acr.UserDialogs.Resource.String.material_timepicker_clock_mode_description = global::AutoAppo_StevenVR.Droid.Resource.String.material_timepicker_clock_mode_description;
-			global::Acr.UserDialogs.Resource.String.material_timepicker_hour = global::AutoAppo_StevenVR.Droid.Resource.String.material_timepicker_hour;
-			global::Acr.UserDialogs.Resource.String.material_timepicker_minute = global::AutoAppo_StevenVR.Droid.Resource.String.material_timepicker_minute;
-			global::Acr.UserDialogs.Resource.String.material_timepicker_pm = global::AutoAppo_StevenVR.Droid.Resource.String.material_timepicker_pm;
-			global::Acr.UserDialogs.Resource.String.material_timepicker_select_time = global::AutoAppo_StevenVR.Droid.Resource.String.material_timepicker_select_time;
-			global::Acr.UserDialogs.Resource.String.material_timepicker_text_input_mode_description = global::AutoAppo_StevenVR.Droid.Resource.String.material_timepicker_text_input_mode_description;
-			global::Acr.UserDialogs.Resource.String.mtrl_badge_numberless_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_badge_numberless_content_description;
-			global::Acr.UserDialogs.Resource.String.mtrl_chip_close_icon_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_chip_close_icon_content_description;
-			global::Acr.UserDialogs.Resource.String.mtrl_exceed_max_badge_number_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_exceed_max_badge_number_content_description;
-			global::Acr.UserDialogs.Resource.String.mtrl_exceed_max_badge_number_suffix = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_a11y_next_month = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_a11y_next_month;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_a11y_prev_month = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_a11y_prev_month;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_announce_current_selection = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_announce_current_selection;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_cancel = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_cancel;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_confirm = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_confirm;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_date_header_selected = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_date_header_selected;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_date_header_title = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_date_header_title;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_date_header_unselected = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_date_header_unselected;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_day_of_week_column_header = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_invalid_format = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_invalid_format;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_invalid_format_example = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_invalid_format_example;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_invalid_format_use = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_invalid_format_use;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_invalid_range = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_invalid_range;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_navigate_to_year_description = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_out_of_range = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_out_of_range;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_range_header_only_end_selected = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_range_header_only_start_selected = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_range_header_selected = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_range_header_selected;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_range_header_title = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_range_header_title;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_range_header_unselected = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_range_header_unselected;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_save = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_save;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_text_input_date_hint = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_text_input_date_hint;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_text_input_day_abbr = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_text_input_month_abbr = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_text_input_year_abbr = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_toggle_to_day_selection = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
-			global::Acr.UserDialogs.Resource.String.mtrl_picker_toggle_to_year_selection = global::AutoAppo_StevenVR.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
-			global::Acr.UserDialogs.Resource.String.password_toggle_content_description = global::AutoAppo_StevenVR.Droid.Resource.String.password_toggle_content_description;
-			global::Acr.UserDialogs.Resource.String.path_password_eye = global::AutoAppo_StevenVR.Droid.Resource.String.path_password_eye;
-			global::Acr.UserDialogs.Resource.String.path_password_eye_mask_strike_through = global::AutoAppo_StevenVR.Droid.Resource.String.path_password_eye_mask_strike_through;
-			global::Acr.UserDialogs.Resource.String.path_password_eye_mask_visible = global::AutoAppo_StevenVR.Droid.Resource.String.path_password_eye_mask_visible;
-			global::Acr.UserDialogs.Resource.String.path_password_strike_through = global::AutoAppo_StevenVR.Droid.Resource.String.path_password_strike_through;
-			global::Acr.UserDialogs.Resource.String.search_menu_title = global::AutoAppo_StevenVR.Droid.Resource.String.search_menu_title;
-			global::Acr.UserDialogs.Resource.String.status_bar_notification_info_overflow = global::AutoAppo_StevenVR.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::Acr.UserDialogs.Resource.Style.AlertDialog_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.AlertDialog_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.AndroidThemeColorAccentYellow = global::AutoAppo_StevenVR.Droid.Resource.Style.AndroidThemeColorAccentYellow;
-			global::Acr.UserDialogs.Resource.Style.Animation_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Animation_AppCompat_DropDownUp = global::AutoAppo_StevenVR.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::Acr.UserDialogs.Resource.Style.Animation_AppCompat_Tooltip = global::AutoAppo_StevenVR.Droid.Resource.Style.Animation_AppCompat_Tooltip;
-			global::Acr.UserDialogs.Resource.Style.Animation_Design_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Base_AlertDialog_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_AlertDialog_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_Animation_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::Acr.UserDialogs.Resource.Style.Base_Animation_AppCompat_Tooltip = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
-			global::Acr.UserDialogs.Resource.Style.Base_CardView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_CardView;
-			global::Acr.UserDialogs.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_DialogWindowTitle_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
-			global::Acr.UserDialogs.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
-			global::Acr.UserDialogs.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Large = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
-			global::Acr.UserDialogs.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
-			global::Acr.UserDialogs.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_ThemeOverlay_MaterialComponents_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_ThemeOverlay_MaterialComponents_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_Theme_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_Theme_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_Theme_MaterialComponents = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_Theme_MaterialComponents;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_Theme_MaterialComponents_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V22_Theme_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_V22_Theme_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_V23_Theme_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_V23_Theme_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_V26_Theme_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V26_Theme_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_V26_Theme_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
-			global::Acr.UserDialogs.Resource.Style.Base_V28_Theme_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V28_Theme_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_V28_Theme_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V7_Theme_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V7_Theme_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::Acr.UserDialogs.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::Acr.UserDialogs.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActionMode = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Button_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_EditText = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ImageButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ListView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_RatingBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_SearchView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_SeekBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Spinner = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_TextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Toolbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_Design_TabLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_Chip = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_MaterialCalendar_NavigationButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_MaterialCalendar_NavigationButton;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_Slider = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_Slider;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_Snackbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_Snackbar;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
-			global::Acr.UserDialogs.Resource.Style.Base_Widget_MaterialComponents_TextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
-			global::Acr.UserDialogs.Resource.Style.CardView = global::AutoAppo_StevenVR.Droid.Resource.Style.CardView;
-			global::Acr.UserDialogs.Resource.Style.CardView_Dark = global::AutoAppo_StevenVR.Droid.Resource.Style.CardView_Dark;
-			global::Acr.UserDialogs.Resource.Style.CardView_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.CardView_Light;
-			global::Acr.UserDialogs.Resource.Style.EmptyTheme = global::AutoAppo_StevenVR.Droid.Resource.Style.EmptyTheme;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
-			global::Acr.UserDialogs.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::AutoAppo_StevenVR.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
-			global::Acr.UserDialogs.Resource.Style.Platform_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Platform_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Platform_MaterialComponents = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_MaterialComponents;
-			global::Acr.UserDialogs.Resource.Style.Platform_MaterialComponents_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Platform_MaterialComponents_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_MaterialComponents_Light;
-			global::Acr.UserDialogs.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Platform_ThemeOverlay_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::Acr.UserDialogs.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Platform_V21_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_V21_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Platform_V21_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_V21_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Platform_V25_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_V25_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Platform_V25_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_V25_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Platform_Widget_AppCompat_Spinner = global::AutoAppo_StevenVR.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::Acr.UserDialogs.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::Acr.UserDialogs.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::Acr.UserDialogs.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_Cut = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearance_MaterialComponents = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
-			global::Acr.UserDialogs.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip = global::AutoAppo_StevenVR.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip;
-			global::Acr.UserDialogs.Resource.Style.TestStyleWithLineHeight = global::AutoAppo_StevenVR.Droid.Resource.Style.TestStyleWithLineHeight;
-			global::Acr.UserDialogs.Resource.Style.TestStyleWithLineHeightAppearance = global::AutoAppo_StevenVR.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
-			global::Acr.UserDialogs.Resource.Style.TestStyleWithoutLineHeight = global::AutoAppo_StevenVR.Droid.Resource.Style.TestStyleWithoutLineHeight;
-			global::Acr.UserDialogs.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::AutoAppo_StevenVR.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
-			global::Acr.UserDialogs.Resource.Style.TestThemeWithLineHeight = global::AutoAppo_StevenVR.Droid.Resource.Style.TestThemeWithLineHeight;
-			global::Acr.UserDialogs.Resource.Style.TestThemeWithLineHeightDisabled = global::AutoAppo_StevenVR.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
-			global::Acr.UserDialogs.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::AutoAppo_StevenVR.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
-			global::Acr.UserDialogs.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::AutoAppo_StevenVR.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
-			global::Acr.UserDialogs.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::AutoAppo_StevenVR.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
-			global::Acr.UserDialogs.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::AutoAppo_StevenVR.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
-			global::Acr.UserDialogs.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::AutoAppo_StevenVR.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Body1 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Body2 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Caption = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Display1 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Display2 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Display3 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Display4 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Headline = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Large = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Medium = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Menu = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Subhead = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Tooltip = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Compat_Notification = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Compat_Notification;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Compat_Notification_Info = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Compat_Notification_Time = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Compat_Notification_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Counter = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Counter_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Error = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_HelperText = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_HelperText;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Hint = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Placeholder = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Placeholder;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Prefix = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Prefix;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Snackbar_Message = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Suffix = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Suffix;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Design_Tab = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Badge = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Caption = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Chip = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Overline = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_TimePicker_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_TimePicker_Title;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_MaterialComponents_Tooltip = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_MaterialComponents_Tooltip;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Acr.UserDialogs.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::AutoAppo_StevenVR.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlayColorAccentRed = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlayColorAccentRed;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat_Dark = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker_Display = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker_Display;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
-			global::Acr.UserDialogs.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::AutoAppo_StevenVR.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_CompactMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_DayNight = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Empty = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Empty;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_AppCompat_NoActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_Design = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_Design;
-			global::Acr.UserDialogs.Resource.Style.Theme_Design_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_Design_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_Design_Light;
-			global::Acr.UserDialogs.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_Design_Light_NoActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_Design_NoActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_CompactMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_NoActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
-			global::Acr.UserDialogs.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::AutoAppo_StevenVR.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActionMode = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ActivityChooserView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ButtonBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Button_Borderless = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Button_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Button_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_EditText = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ImageButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_SearchView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ListMenuView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ListPopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ListView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ListView_DropDown = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ListView_Menu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_PopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_PopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ProgressBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_RatingBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_RatingBar_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_SearchView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_SeekBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Spinner = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_TextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_TextView;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Toolbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::Acr.UserDialogs.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Acr.UserDialogs.Resource.Style.Widget_Compat_NotificationActionContainer = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::Acr.UserDialogs.Resource.Style.Widget_Compat_NotificationActionText = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Compat_NotificationActionText;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_AppBarLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_BottomNavigationView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_BottomNavigationView;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_BottomSheet_Modal = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_CollapsingToolbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_FloatingActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_NavigationView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_Snackbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_TabLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_TextInputEditText = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_TextInputEditText;
-			global::Acr.UserDialogs.Resource.Style.Widget_Design_TextInputLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Badge = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Badge;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_BottomSheet = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CardView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CardView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ChipGroup = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Chip_Action = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_ExtraSmall = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_ExtraSmall;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Medium = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Medium;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Small = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Small;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CollapsingToolbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CollapsingToolbar;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_LinearProgressIndicator = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_LinearProgressIndicator;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderCancelButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderCancelButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthNavigationButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthNavigationButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthTextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthTextView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_YearNavigationButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_YearNavigationButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_NavigationRailView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored_Compact = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored_Compact;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_NavigationRailView_Compact = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Compact;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_NavigationRailView_PrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_PrimarySurface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_NavigationView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_PopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ProgressIndicator = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ProgressIndicator;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_ShapeableImageView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_ShapeableImageView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Slider = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Slider;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Snackbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Snackbar_TextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_TextView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TabLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TextView = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TextView;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TimePicker = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TimePicker;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TimePicker_Button = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Button;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TimePicker_Clock = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Clock;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TimePicker_Display = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Display;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TimePicker_Display_TextInputEditText = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Display_TextInputEditText;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton_ShapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton_ShapeAppearance;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Toolbar = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
-			global::Acr.UserDialogs.Resource.Style.Widget_MaterialComponents_Tooltip = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_MaterialComponents_Tooltip;
-			global::Acr.UserDialogs.Resource.Style.Widget_Support_CoordinatorLayout = global::AutoAppo_StevenVR.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBarLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBarLayout;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_background = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_background;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_backgroundSplit = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_backgroundStacked = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_contentInsetEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_contentInsetLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_contentInsetRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_contentInsetStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_customNavigationLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_displayOptions = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_divider = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_divider;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_height = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_height;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_hideOnContentScroll = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_homeAsUpIndicator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_homeLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_icon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_icon;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_itemPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_logo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_logo;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_navigationMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_popupTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_progressBarPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_progressBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_subtitle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_subtitleTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_title = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_title;
-			global::Acr.UserDialogs.Resource.Styleable.ActionBar_titleTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMenuItemView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMenuItemView;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMenuItemView_android_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMenuView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMenuView;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMode;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMode_background = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMode_background;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMode_backgroundSplit = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMode_closeItemLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMode_height = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMode_height;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMode_subtitleTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ActionMode_titleTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ActivityChooserView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActivityChooserView;
-			global::Acr.UserDialogs.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.ActivityChooserView_initialActivityCount = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog_android_layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog_buttonIconDimen = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog_listItemLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog_listLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog_showTitle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog_showTitle;
-			global::Acr.UserDialogs.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
-			global::Acr.UserDialogs.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayoutStates = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayoutStates_state_liftable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayoutStates_state_lifted = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_android_background = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_expanded = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_liftOnScroll = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
-			global::Acr.UserDialogs.Resource.Styleable.AppBarLayout_statusBarForeground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatImageView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatImageView;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatImageView_android_src = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatImageView_srcCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatImageView_tint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatImageView_tint;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatImageView_tintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatImageView_tintMode;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatSeekBar = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatSeekBar;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatSeekBar_android_thumb = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatSeekBar_tickMark = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextHelper = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextHelper;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_android_textAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_drawableTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_drawableTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_fontFamily = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_lineHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_textAllCaps = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTextView_textLocale = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTextView_textLocale;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarDivider = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeCloseContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseContentDescription;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeTheme;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_buttonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_checkboxStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorAccent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorControlActivated = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorControlNormal = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorError = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorError;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorPrimary = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_controlBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_dialogTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_dividerVertical = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_editTextBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_editTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_editTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_panelBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_searchViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_seekBarStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_spinnerStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_switchStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_toolbarStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowActionBar = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::Acr.UserDialogs.Resource.Styleable.AppCompatTheme_windowNoTitle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::Acr.UserDialogs.Resource.Styleable.Badge = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Badge;
-			global::Acr.UserDialogs.Resource.Styleable.Badge_backgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Badge_backgroundColor;
-			global::Acr.UserDialogs.Resource.Styleable.Badge_badgeGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Badge_badgeGravity;
-			global::Acr.UserDialogs.Resource.Styleable.Badge_badgeTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Badge_badgeTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.Badge_horizontalOffset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Badge_horizontalOffset;
-			global::Acr.UserDialogs.Resource.Styleable.Badge_maxCharacterCount = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Badge_maxCharacterCount;
-			global::Acr.UserDialogs.Resource.Styleable.Badge_number = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Badge_number;
-			global::Acr.UserDialogs.Resource.Styleable.Badge_verticalOffset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Badge_verticalOffset;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_android_indeterminate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_android_indeterminate;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_hideAnimationBehavior = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_hideAnimationBehavior;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_indicatorColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_indicatorColor;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_minHideDelay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_minHideDelay;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_showAnimationBehavior = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_showAnimationBehavior;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_showDelay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_showDelay;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_trackColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_trackColor;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_trackCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_trackCornerRadius;
-			global::Acr.UserDialogs.Resource.Styleable.BaseProgressIndicator_trackThickness = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BaseProgressIndicator_trackThickness;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_fabAnimationMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_fabCradleMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_hideOnScroll = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.BottomNavigationView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomNavigationView;
-			global::Acr.UserDialogs.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_paddingBottomSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingBottomSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_paddingLeftSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingLeftSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_paddingRightSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingRightSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_paddingTopSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingTopSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.ButtonBarLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ButtonBarLayout;
-			global::Acr.UserDialogs.Resource.Styleable.ButtonBarLayout_allowStacking = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::Acr.UserDialogs.Resource.Styleable.Capability = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Capability;
-			global::Acr.UserDialogs.Resource.Styleable.Capability_queryPatterns = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Capability_queryPatterns;
-			global::Acr.UserDialogs.Resource.Styleable.Capability_shortcutMatchRequired = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Capability_shortcutMatchRequired;
-			global::Acr.UserDialogs.Resource.Styleable.CardView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_android_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_android_minHeight;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_android_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_android_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_cardBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_cardCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_cardElevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_cardElevation;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_cardMaxElevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_cardPreventCornerOverlap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_cardUseCompatPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_contentPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_contentPadding;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_contentPaddingBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_contentPaddingLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_contentPaddingRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::Acr.UserDialogs.Resource.Styleable.CardView_contentPaddingTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_backwardTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_backwardTransition;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_emptyViewsBehavior = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_emptyViewsBehavior;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_firstView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_firstView;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_forwardTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_forwardTransition;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_infinite = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_infinite;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_nextState = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_nextState;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_previousState = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_previousState;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_touchUpMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_touchUpMode;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_touchUp_dampeningFactor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_touchUp_dampeningFactor;
-			global::Acr.UserDialogs.Resource.Styleable.Carousel_carousel_touchUp_velocityThreshold = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Carousel_carousel_touchUp_velocityThreshold;
-			global::Acr.UserDialogs.Resource.Styleable.Chip = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip;
-			global::Acr.UserDialogs.Resource.Styleable.ChipGroup = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ChipGroup;
-			global::Acr.UserDialogs.Resource.Styleable.ChipGroup_checkedChip = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ChipGroup_checkedChip;
-			global::Acr.UserDialogs.Resource.Styleable.ChipGroup_chipSpacing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ChipGroup_chipSpacing;
-			global::Acr.UserDialogs.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
-			global::Acr.UserDialogs.Resource.Styleable.ChipGroup_chipSpacingVertical = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
-			global::Acr.UserDialogs.Resource.Styleable.ChipGroup_selectionRequired = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ChipGroup_selectionRequired;
-			global::Acr.UserDialogs.Resource.Styleable.ChipGroup_singleLine = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ChipGroup_singleLine;
-			global::Acr.UserDialogs.Resource.Styleable.ChipGroup_singleSelection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ChipGroup_singleSelection;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_android_checkable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_android_checkable;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_android_ellipsize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_android_ellipsize;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_android_text = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_android_text;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_android_textAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_android_textAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_android_textColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_android_textColor;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_android_textSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_android_textSize;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_checkedIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_checkedIcon;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_checkedIconEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_checkedIconEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_checkedIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_checkedIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_checkedIconVisible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_checkedIconVisible;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipBackgroundColor;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipCornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipCornerRadius;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipEndPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipEndPadding;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipIcon;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipIconEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipIconEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipIconSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipIconSize;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipIconVisible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipIconVisible;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipMinHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipMinHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipMinTouchTargetSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipStartPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipStartPadding;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipStrokeColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipStrokeColor;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipStrokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipStrokeWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_chipSurfaceColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_chipSurfaceColor;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_closeIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_closeIcon;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_closeIconEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_closeIconEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_closeIconEndPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_closeIconEndPadding;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_closeIconSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_closeIconSize;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_closeIconStartPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_closeIconStartPadding;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_closeIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_closeIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_closeIconVisible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_closeIconVisible;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_hideMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_hideMotionSpec;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_iconEndPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_iconEndPadding;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_iconStartPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_iconStartPadding;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_rippleColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_rippleColor;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_showMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_showMotionSpec;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_textEndPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_textEndPadding;
-			global::Acr.UserDialogs.Resource.Styleable.Chip_textStartPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Chip_textStartPadding;
-			global::Acr.UserDialogs.Resource.Styleable.CircularProgressIndicator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CircularProgressIndicator;
-			global::Acr.UserDialogs.Resource.Styleable.CircularProgressIndicator_indicatorDirectionCircular = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CircularProgressIndicator_indicatorDirectionCircular;
-			global::Acr.UserDialogs.Resource.Styleable.CircularProgressIndicator_indicatorInset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CircularProgressIndicator_indicatorInset;
-			global::Acr.UserDialogs.Resource.Styleable.CircularProgressIndicator_indicatorSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CircularProgressIndicator_indicatorSize;
-			global::Acr.UserDialogs.Resource.Styleable.ClockFaceView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ClockFaceView;
-			global::Acr.UserDialogs.Resource.Styleable.ClockFaceView_clockFaceBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ClockFaceView_clockFaceBackgroundColor;
-			global::Acr.UserDialogs.Resource.Styleable.ClockFaceView_clockNumberTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ClockFaceView_clockNumberTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.ClockHandView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ClockHandView;
-			global::Acr.UserDialogs.Resource.Styleable.ClockHandView_clockHandColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ClockHandView_clockHandColor;
-			global::Acr.UserDialogs.Resource.Styleable.ClockHandView_materialCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ClockHandView_materialCircleRadius;
-			global::Acr.UserDialogs.Resource.Styleable.ClockHandView_selectorSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ClockHandView_selectorSize;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_extraMultilineHeightEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_extraMultilineHeightEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_forceApplySystemWindowInsetTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_forceApplySystemWindowInsetTop;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_maxLines = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_maxLines;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_title = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_titleCollapseMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_titleCollapseMode;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::Acr.UserDialogs.Resource.Styleable.ColorStateListItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ColorStateListItem;
-			global::Acr.UserDialogs.Resource.Styleable.ColorStateListItem_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ColorStateListItem_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.ColorStateListItem_android_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.ColorStateListItem_android_color = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::Acr.UserDialogs.Resource.Styleable.CompoundButton = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CompoundButton;
-			global::Acr.UserDialogs.Resource.Styleable.CompoundButton_android_button = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::Acr.UserDialogs.Resource.Styleable.CompoundButton_buttonCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CompoundButton_buttonCompat;
-			global::Acr.UserDialogs.Resource.Styleable.CompoundButton_buttonTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::Acr.UserDialogs.Resource.Styleable.CompoundButton_buttonTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_height = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_height;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_margin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_margin;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginHorizontal = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginHorizontal;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginRight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginStart;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginTop;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginVertical = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_marginVertical;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_layout_width = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_layout_width;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_maxHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_maxHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_minHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_orientation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_orientation;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_padding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_padding;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_paddingBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingBottom;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_paddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_paddingLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_paddingRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingRight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_paddingStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingStart;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_paddingTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingTop;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_android_visibility = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_android_visibility;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_barrierAllowsGoneWidgets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierAllowsGoneWidgets;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_barrierDirection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierDirection;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_barrierMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierMargin;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_chainUseRtl = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_chainUseRtl;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_circularflow_angles = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_angles;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_circularflow_defaultAngle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_defaultAngle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_circularflow_defaultRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_defaultRadius;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_circularflow_radiusInDP = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_radiusInDP;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_circularflow_viewCenter = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_circularflow_viewCenter;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_constraintSet = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_constraintSet;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_ids = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_ids;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_tags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_tags;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalAlign = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalAlign;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalGap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalGap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_maxElementsWrap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_maxElementsWrap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_verticalAlign = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalAlign;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_verticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_verticalGap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalGap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_verticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_flow_wrapMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_wrapMode;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layoutDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layoutDescription;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleAngle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleAngle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleRadius;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintDimensionRatio = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintDimensionRatio;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toEndOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toStartOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_begin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_begin;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_end = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_end;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_default;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_max;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_min;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_bias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_weight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toLeftOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toRightOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toLeftOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toRightOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toEndOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toStartOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTag;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_bias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_weight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_default;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_max;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_min;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginRight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginStart;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginTop;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_marginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_marginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_optimizationLevel = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_optimizationLevel;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_Layout_layout_wrapBehaviorInParent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_wrapBehaviorInParent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_placeholder = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_placeholder;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_placeholder_content = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_placeholder_content;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_placeholder_placeholder_emptyVisibility = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_placeholder_placeholder_emptyVisibility;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_ReactiveGuide = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_animateChange = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_animateChange;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_applyToAllConstraintSets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_applyToAllConstraintSets;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_applyToConstraintSet = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_applyToConstraintSet;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_valueId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintLayout_ReactiveGuide_reactiveGuide_valueId;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_layout_height = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_layout_height;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_layout_marginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_layout_marginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_layout_marginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_layout_marginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginRight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_layout_marginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginStart;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_layout_marginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_layout_marginTop;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_layout_width = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_layout_width;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_maxHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_maxHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_minHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_orientation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_orientation;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_rotation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_rotation;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_rotationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_rotationX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_rotationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_rotationY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_scaleX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_scaleX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_scaleY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_scaleY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_transformPivotX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_transformPivotX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_transformPivotY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_transformPivotY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_translationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_translationX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_translationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_translationY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_translationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_translationZ;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_android_visibility = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_android_visibility;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_animateCircleAngleTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_animateCircleAngleTo;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_animateRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_animateRelativeTo;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_barrierAllowsGoneWidgets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_barrierAllowsGoneWidgets;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_barrierDirection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_barrierDirection;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_barrierMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_barrierMargin;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_chainUseRtl = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_chainUseRtl;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_constraint_referenced_ids = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_constraint_referenced_ids;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_drawPath = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_drawPath;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_firstHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_firstHorizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_firstHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_firstHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_firstVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_firstVerticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_firstVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_firstVerticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_horizontalAlign = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_horizontalAlign;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_horizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_horizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_horizontalGap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_horizontalGap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_horizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_horizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_lastHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_lastHorizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_lastHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_lastHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_lastVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_lastVerticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_lastVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_lastVerticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_maxElementsWrap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_maxElementsWrap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_verticalAlign = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_verticalAlign;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_verticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_verticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_verticalGap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_verticalGap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_verticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_verticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_flow_wrapMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_flow_wrapMode;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constrainedHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constrainedHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constrainedWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constrainedWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintBaseline_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintBaseline_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintBottom_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintBottom_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintCircleAngle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintCircleAngle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintCircleRadius;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintDimensionRatio = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintDimensionRatio;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintGuide_begin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintGuide_begin;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintGuide_end = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintGuide_end;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintGuide_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintGuide_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintHeight_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight_default;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintHeight_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight_max;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintHeight_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight_min;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintHeight_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHeight_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_bias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintHorizontal_weight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintLeft_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintLeft_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintRight_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintRight_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintTag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintTag;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintTop_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintTop_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintVertical_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintVertical_bias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintVertical_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintVertical_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintVertical_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintVertical_weight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintWidth_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth_default;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintWidth_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth_max;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintWidth_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth_min;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_constraintWidth_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_constraintWidth_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_editor_absoluteX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_editor_absoluteX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_editor_absoluteY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_editor_absoluteY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_goneMarginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_goneMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_goneMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_goneMarginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_goneMarginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginRight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_goneMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginStart;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_goneMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_goneMarginTop;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_marginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_marginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_layout_wrapBehaviorInParent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_layout_wrapBehaviorInParent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_motionProgress;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_motionStagger = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_motionStagger;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_motionTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_motionTarget;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_pathMotionArc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_pathMotionArc;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_pivotAnchor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_pivotAnchor;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_polarRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_polarRelativeTo;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_quantizeMotionInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_quantizeMotionInterpolator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_quantizeMotionPhase = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_quantizeMotionPhase;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_quantizeMotionSteps = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_quantizeMotionSteps;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_transformPivotTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_transformPivotTarget;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_transitionEasing;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_transitionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_transitionPathRotate;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintOverride_visibilityMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintOverride_visibilityMode;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_layout_height = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_layout_height;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_layout_marginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_layout_marginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_layout_marginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_layout_marginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_layout_marginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_layout_marginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_layout_marginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_layout_marginRight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_layout_marginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_layout_marginStart;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_layout_marginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_layout_marginTop;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_layout_width = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_layout_width;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_maxHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_maxHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_minHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_orientation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_orientation;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_pivotX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_pivotX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_pivotY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_pivotY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_rotation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_rotation;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_rotationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_rotationX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_rotationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_rotationY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_scaleX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_scaleX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_scaleY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_scaleY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_transformPivotX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_transformPivotX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_transformPivotY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_transformPivotY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_translationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_translationX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_translationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_translationY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_translationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_translationZ;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_android_visibility = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_android_visibility;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_animateCircleAngleTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_animateCircleAngleTo;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_animateRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_animateRelativeTo;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_barrierAllowsGoneWidgets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_barrierAllowsGoneWidgets;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_barrierDirection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_barrierDirection;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_barrierMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_barrierMargin;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_chainUseRtl = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_chainUseRtl;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_constraintRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_constraintRotate;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_constraint_referenced_ids = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_ids;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_constraint_referenced_tags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_tags;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_deriveConstraintsFrom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_deriveConstraintsFrom;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_drawPath = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_drawPath;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_firstHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_firstHorizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_firstHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_firstHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_firstVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_firstVerticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_firstVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_firstVerticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_horizontalAlign = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_horizontalAlign;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_horizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_horizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_horizontalGap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_horizontalGap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_horizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_horizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_lastHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_lastHorizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_lastHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_lastHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_lastVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_lastVerticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_lastVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_lastVerticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_maxElementsWrap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_maxElementsWrap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_verticalAlign = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_verticalAlign;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_verticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_verticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_verticalGap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_verticalGap;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_verticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_verticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_flow_wrapMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_flow_wrapMode;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constrainedHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constrainedHeight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constrainedWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constrainedWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintBaseline_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBaselineOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBaselineOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintBottom_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintBottom_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintBottom_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintCircle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintCircleAngle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircleAngle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircleRadius;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintDimensionRatio = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintDimensionRatio;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintEnd_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintEnd_toEndOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintEnd_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintEnd_toStartOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintGuide_begin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_begin;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintGuide_end = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_end;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintGuide_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintHeight_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_default;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintHeight_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_max;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintHeight_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_min;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintHeight_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_bias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_weight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintLeft_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintLeft_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_toLeftOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintLeft_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_toRightOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintRight_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintRight_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_toLeftOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintRight_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_toRightOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintStart_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintStart_toEndOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintStart_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintStart_toStartOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintTag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintTag;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintTop_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_creator;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintTop_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintTop_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintVertical_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_bias;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintVertical_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintVertical_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_weight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintWidth_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_default;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintWidth_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_max;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintWidth_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_min;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_constraintWidth_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_percent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_editor_absoluteX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_editor_absoluteX;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_editor_absoluteY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_editor_absoluteY;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_goneMarginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_goneMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_goneMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_goneMarginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_goneMarginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginRight;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_goneMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginStart;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_goneMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginTop;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_marginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_marginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_layout_wrapBehaviorInParent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_layout_wrapBehaviorInParent;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_motionProgress;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_motionStagger = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_motionStagger;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_pathMotionArc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_pathMotionArc;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_pivotAnchor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_pivotAnchor;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_polarRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_polarRelativeTo;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_quantizeMotionSteps = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_quantizeMotionSteps;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_transitionEasing;
-			global::Acr.UserDialogs.Resource.Styleable.ConstraintSet_transitionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_transitionPathRotate;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_layout_height = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_layout_height;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_layout_marginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_layout_marginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_layout_marginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_layout_marginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_layout_marginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_layout_marginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_layout_marginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_layout_marginRight;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_layout_marginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_layout_marginStart;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_layout_marginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_layout_marginTop;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_layout_width = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_layout_width;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_maxHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_maxHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_minHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_orientation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_orientation;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_rotation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_rotation;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_rotationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_rotationX;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_rotationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_rotationY;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_scaleX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_scaleX;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_scaleY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_scaleY;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_transformPivotX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_transformPivotX;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_transformPivotY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_transformPivotY;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_translationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_translationX;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_translationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_translationY;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_translationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_translationZ;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_android_visibility = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_android_visibility;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_animateCircleAngleTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_animateCircleAngleTo;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_animateRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_animateRelativeTo;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_barrierAllowsGoneWidgets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_barrierAllowsGoneWidgets;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_barrierDirection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_barrierDirection;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_barrierMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_barrierMargin;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_chainUseRtl = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_chainUseRtl;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_constraint_referenced_ids = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_constraint_referenced_ids;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_constraint_referenced_tags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_constraint_referenced_tags;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_drawPath = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_drawPath;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_firstHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_firstHorizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_firstHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_firstHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_firstVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_firstVerticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_firstVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_firstVerticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_horizontalAlign = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_horizontalAlign;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_horizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_horizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_horizontalGap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_horizontalGap;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_horizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_horizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_lastHorizontalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_lastHorizontalBias;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_lastHorizontalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_lastHorizontalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_lastVerticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_lastVerticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_lastVerticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_lastVerticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_maxElementsWrap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_maxElementsWrap;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_verticalAlign = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_verticalAlign;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_verticalBias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_verticalBias;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_verticalGap = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_verticalGap;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_verticalStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_verticalStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_flow_wrapMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_flow_wrapMode;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constrainedHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constrainedHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constrainedWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constrainedWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintBaseline_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintBaseline_toBaselineOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_toBaselineOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintBaseline_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintBaseline_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintBottom_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintBottom_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintBottom_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintBottom_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintBottom_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintBottom_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintCircle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintCircle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintCircleAngle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintCircleAngle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintCircleRadius;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintDimensionRatio = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintDimensionRatio;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintEnd_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintEnd_toEndOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintEnd_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintEnd_toStartOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintGuide_begin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintGuide_begin;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintGuide_end = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintGuide_end;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintGuide_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintGuide_percent;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintHeight_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintHeight_default;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintHeight_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintHeight_max;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintHeight_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintHeight_min;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintHeight_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintHeight_percent;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintHorizontal_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_bias;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintHorizontal_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintHorizontal_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_weight;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintLeft_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintLeft_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintLeft_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintLeft_toLeftOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintLeft_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintLeft_toRightOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintRight_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintRight_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintRight_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintRight_toLeftOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintRight_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintRight_toRightOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintStart_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintStart_toEndOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintStart_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintStart_toStartOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintTag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintTag;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintTop_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintTop_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintTop_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintTop_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintTop_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintTop_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintVertical_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintVertical_bias;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintVertical_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintVertical_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintVertical_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintVertical_weight;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintWidth_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintWidth_default;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintWidth_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintWidth_max;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintWidth_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintWidth_min;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_constraintWidth_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_constraintWidth_percent;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_editor_absoluteX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_editor_absoluteX;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_editor_absoluteY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_editor_absoluteY;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_goneMarginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_goneMarginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_goneMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_goneMarginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_goneMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_goneMarginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_goneMarginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_goneMarginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_goneMarginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_goneMarginRight;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_goneMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_goneMarginStart;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_goneMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_goneMarginTop;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_marginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_marginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_layout_wrapBehaviorInParent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_layout_wrapBehaviorInParent;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_motionProgress;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_motionStagger = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_motionStagger;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_pathMotionArc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_pathMotionArc;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_pivotAnchor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_pivotAnchor;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_polarRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_polarRelativeTo;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_quantizeMotionInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_quantizeMotionInterpolator;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_quantizeMotionPhase = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_quantizeMotionPhase;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_quantizeMotionSteps = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_quantizeMotionSteps;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_transformPivotTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_transformPivotTarget;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_transitionEasing;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_transitionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_transitionPathRotate;
-			global::Acr.UserDialogs.Resource.Styleable.Constraint_visibilityMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Constraint_visibilityMode;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_keylines = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::Acr.UserDialogs.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_attributeName = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_attributeName;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customBoolean = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customBoolean;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customColorDrawableValue = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customColorDrawableValue;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customColorValue = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customColorValue;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customDimension = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customDimension;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customFloatValue = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customFloatValue;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customIntegerValue = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customIntegerValue;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customPixelDimension = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customPixelDimension;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customReference = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customReference;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_customStringValue = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_customStringValue;
-			global::Acr.UserDialogs.Resource.Styleable.CustomAttribute_methodName = global::AutoAppo_StevenVR.Droid.Resource.Styleable.CustomAttribute_methodName;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle_barLength = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle_color = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle_drawableSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle_spinBars = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerArrowToggle_thickness = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerLayout;
-			global::Acr.UserDialogs.Resource.Styleable.DrawerLayout_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.DrawerLayout_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_collapsedSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_collapsedSize;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
-			global::Acr.UserDialogs.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_android_enabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_android_enabled;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_borderWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_fabCustomSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_fabSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_maxImageSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_rippleColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_showMotionSpec = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
-			global::Acr.UserDialogs.Resource.Styleable.FloatingActionButton_useCompatPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::Acr.UserDialogs.Resource.Styleable.FlowLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FlowLayout;
-			global::Acr.UserDialogs.Resource.Styleable.FlowLayout_itemSpacing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FlowLayout_itemSpacing;
-			global::Acr.UserDialogs.Resource.Styleable.FlowLayout_lineSpacing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FlowLayout_lineSpacing;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamily = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamily;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_android_font = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_android_font;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_android_fontStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_android_fontWeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_font = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_font;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_fontStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_fontWeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamilyFont_ttcIndex = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamily_fontProviderAuthority = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamily_fontProviderCerts = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamily_fontProviderPackage = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamily_fontProviderQuery = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::Acr.UserDialogs.Resource.Styleable.FontFamily_fontProviderSystemFontFamily = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FontFamily_fontProviderSystemFontFamily;
-			global::Acr.UserDialogs.Resource.Styleable.ForegroundLinearLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::Acr.UserDialogs.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::Acr.UserDialogs.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::Acr.UserDialogs.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::Acr.UserDialogs.Resource.Styleable.Fragment = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Fragment;
-			global::Acr.UserDialogs.Resource.Styleable.FragmentContainerView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FragmentContainerView;
-			global::Acr.UserDialogs.Resource.Styleable.FragmentContainerView_android_name = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FragmentContainerView_android_name;
-			global::Acr.UserDialogs.Resource.Styleable.FragmentContainerView_android_tag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.FragmentContainerView_android_tag;
-			global::Acr.UserDialogs.Resource.Styleable.Fragment_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Fragment_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.Fragment_android_name = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Fragment_android_name;
-			global::Acr.UserDialogs.Resource.Styleable.Fragment_android_tag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Fragment_android_tag;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColorItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColorItem;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColorItem_android_color = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColorItem_android_color;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColorItem_android_offset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColorItem_android_offset;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_centerColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_centerColor;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_centerX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_centerX;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_centerY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_centerY;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_endColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_endColor;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_endX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_endX;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_endY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_endY;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_gradientRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_startColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_startColor;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_startX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_startX;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_startY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_startY;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_tileMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_tileMode;
-			global::Acr.UserDialogs.Resource.Styleable.GradientColor_android_type = global::AutoAppo_StevenVR.Droid.Resource.Styleable.GradientColor_android_type;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_altSrc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_altSrc;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_blendSrc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_blendSrc;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_brightness = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_brightness;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_contrast = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_contrast;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_crossfade = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_crossfade;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_imagePanX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_imagePanX;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_imagePanY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_imagePanY;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_imageRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_imageRotate;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_imageZoom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_imageZoom;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_overlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_overlay;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_round = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_round;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_roundPercent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_roundPercent;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_saturation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_saturation;
-			global::Acr.UserDialogs.Resource.Styleable.ImageFilterView_warmth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ImageFilterView_warmth;
-			global::Acr.UserDialogs.Resource.Styleable.include = global::AutoAppo_StevenVR.Droid.Resource.Styleable.include;
-			global::Acr.UserDialogs.Resource.Styleable.include_constraintSet = global::AutoAppo_StevenVR.Droid.Resource.Styleable.include_constraintSet;
-			global::Acr.UserDialogs.Resource.Styleable.Insets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Insets;
-			global::Acr.UserDialogs.Resource.Styleable.Insets_paddingBottomSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Insets_paddingBottomSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.Insets_paddingLeftSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Insets_paddingLeftSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.Insets_paddingRightSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Insets_paddingRightSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.Insets_paddingTopSystemWindowInsets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Insets_paddingTopSystemWindowInsets;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_rotation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_rotation;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_rotationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_rotationX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_rotationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_rotationY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_scaleX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_scaleX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_scaleY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_scaleY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_transformPivotX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_transformPivotX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_transformPivotY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_transformPivotY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_translationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_translationX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_translationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_translationY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_android_translationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_android_translationZ;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_curveFit = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_curveFit;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_framePosition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_framePosition;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_motionProgress;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_motionTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_motionTarget;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_transformPivotTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_transformPivotTarget;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_transitionEasing;
-			global::Acr.UserDialogs.Resource.Styleable.KeyAttribute_transitionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyAttribute_transitionPathRotate;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_rotation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_rotation;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_rotationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_rotationX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_rotationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_rotationY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_scaleX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_scaleX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_scaleY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_scaleY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_translationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_translationX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_translationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_translationY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_android_translationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_android_translationZ;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_curveFit = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_curveFit;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_framePosition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_framePosition;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_motionProgress;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_motionTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_motionTarget;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_transitionEasing;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_transitionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_transitionPathRotate;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_waveOffset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_waveOffset;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_wavePeriod = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_wavePeriod;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_wavePhase = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_wavePhase;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_waveShape = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_waveShape;
-			global::Acr.UserDialogs.Resource.Styleable.KeyCycle_waveVariesBy = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyCycle_waveVariesBy;
-			global::Acr.UserDialogs.Resource.Styleable.KeyFrame = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyFrame;
-			global::Acr.UserDialogs.Resource.Styleable.KeyFramesAcceleration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyFramesAcceleration;
-			global::Acr.UserDialogs.Resource.Styleable.KeyFramesVelocity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyFramesVelocity;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_curveFit = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_curveFit;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_drawPath = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_drawPath;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_framePosition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_framePosition;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_keyPositionType = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_keyPositionType;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_motionTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_motionTarget;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_pathMotionArc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_pathMotionArc;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_percentHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_percentHeight;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_percentWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_percentWidth;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_percentX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_percentX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_percentY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_percentY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_sizePercent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_sizePercent;
-			global::Acr.UserDialogs.Resource.Styleable.KeyPosition_transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyPosition_transitionEasing;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_rotation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_rotation;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_rotationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_rotationX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_rotationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_rotationY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_scaleX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_scaleX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_scaleY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_scaleY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_translationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_translationX;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_translationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_translationY;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_android_translationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_android_translationZ;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_curveFit = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_curveFit;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_framePosition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_framePosition;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_motionProgress;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_motionTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_motionTarget;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_transitionEasing;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_transitionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_transitionPathRotate;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_waveDecay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_waveDecay;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_waveOffset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_waveOffset;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_wavePeriod = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_wavePeriod;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_wavePhase = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_wavePhase;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTimeCycle_waveShape = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTimeCycle_waveShape;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_framePosition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_framePosition;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_motionTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_motionTarget;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_motion_postLayoutCollision = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_motion_postLayoutCollision;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_motion_triggerOnCollision = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_motion_triggerOnCollision;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_onCross = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_onCross;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_onNegativeCross = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_onNegativeCross;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_onPositiveCross = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_onPositiveCross;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_triggerId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_triggerId;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_triggerReceiver = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_triggerReceiver;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_triggerSlack = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_triggerSlack;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_viewTransitionOnCross = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_viewTransitionOnCross;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_viewTransitionOnNegativeCross = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_viewTransitionOnNegativeCross;
-			global::Acr.UserDialogs.Resource.Styleable.KeyTrigger_viewTransitionOnPositiveCross = global::AutoAppo_StevenVR.Droid.Resource.Styleable.KeyTrigger_viewTransitionOnPositiveCross;
-			global::Acr.UserDialogs.Resource.Styleable.Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_layout_height = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_layout_height;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_layout_marginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_layout_marginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_layout_marginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_layout_marginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_layout_marginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_layout_marginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_layout_marginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_layout_marginRight;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_layout_marginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_layout_marginStart;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_layout_marginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_layout_marginTop;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_layout_width = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_layout_width;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_android_orientation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_android_orientation;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_barrierAllowsGoneWidgets = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_barrierAllowsGoneWidgets;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_barrierDirection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_barrierDirection;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_barrierMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_barrierMargin;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_chainUseRtl = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_chainUseRtl;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_constraint_referenced_ids = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_constraint_referenced_ids;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_constraint_referenced_tags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_constraint_referenced_tags;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constrainedHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constrainedHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constrainedWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constrainedWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintBaseline_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintBaseline_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintBaseline_toBaselineOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintBaseline_toBaselineOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintBaseline_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintBaseline_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintBaseline_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintBaseline_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintBottom_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintBottom_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintBottom_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintBottom_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintBottom_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintBottom_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintCircle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintCircle;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintCircleAngle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintCircleAngle;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintCircleRadius;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintDimensionRatio = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintDimensionRatio;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintEnd_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintEnd_toEndOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintEnd_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintEnd_toStartOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintGuide_begin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintGuide_begin;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintGuide_end = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintGuide_end;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintGuide_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintGuide_percent;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintHeight_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintHeight_default;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintHeight_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintHeight_max;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintHeight_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintHeight_min;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintHeight_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintHeight_percent;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintHorizontal_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_bias;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintHorizontal_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintHorizontal_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_weight;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintLeft_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintLeft_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintLeft_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintLeft_toLeftOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintLeft_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintLeft_toRightOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintRight_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintRight_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintRight_toLeftOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintRight_toLeftOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintRight_toRightOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintRight_toRightOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintStart_toEndOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintStart_toEndOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintStart_toStartOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintStart_toStartOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintTop_creator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintTop_creator;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintTop_toBottomOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintTop_toBottomOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintTop_toTopOf = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintTop_toTopOf;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintVertical_bias = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintVertical_bias;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintVertical_chainStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintVertical_chainStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintVertical_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintVertical_weight;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintWidth_default = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintWidth_default;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintWidth_max = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintWidth_max;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintWidth_min = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintWidth_min;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_constraintWidth_percent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_constraintWidth_percent;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_editor_absoluteX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_editor_absoluteX;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_editor_absoluteY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_editor_absoluteY;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_goneMarginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_goneMarginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_goneMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_goneMarginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_goneMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_goneMarginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_goneMarginLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_goneMarginLeft;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_goneMarginRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_goneMarginRight;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_goneMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_goneMarginStart;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_goneMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_goneMarginTop;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_marginBaseline = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_marginBaseline;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_layout_wrapBehaviorInParent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_layout_wrapBehaviorInParent;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_maxHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_maxHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_minHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Layout_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Layout_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_android_gravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_android_orientation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_divider = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Acr.UserDialogs.Resource.Styleable.LinearLayoutCompat_showDividers = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::Acr.UserDialogs.Resource.Styleable.LinearProgressIndicator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearProgressIndicator;
-			global::Acr.UserDialogs.Resource.Styleable.LinearProgressIndicator_indeterminateAnimationType = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearProgressIndicator_indeterminateAnimationType;
-			global::Acr.UserDialogs.Resource.Styleable.LinearProgressIndicator_indicatorDirectionLinear = global::AutoAppo_StevenVR.Droid.Resource.Styleable.LinearProgressIndicator_indicatorDirectionLinear;
-			global::Acr.UserDialogs.Resource.Styleable.ListPopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ListPopupWindow;
-			global::Acr.UserDialogs.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::Acr.UserDialogs.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialog = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialog;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialogTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialogTheme;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAutoCompleteTextView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAutoCompleteTextView;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButtonToggleGroup = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButtonToggleGroup;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_android_background = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_android_background;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_android_checkable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_android_checkable;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_android_insetBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_android_insetLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_android_insetRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_android_insetRight;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_android_insetTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_android_insetTop;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_backgroundTint;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_backgroundTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_cornerRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_cornerRadius;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_icon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_icon;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_iconGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_iconGravity;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_iconPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_iconPadding;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_iconSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_iconSize;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_iconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_iconTint;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_iconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_iconTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_rippleColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_rippleColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_strokeColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_strokeColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialButton_strokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialButton_strokeWidth;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_dayStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_nestedScrollable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_nestedScrollable;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_rangeFillColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_yearStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_android_checkable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_android_checkable;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_cardForegroundColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_checkedIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_checkedIconMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_checkedIconMargin;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_checkedIconSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_checkedIconSize;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_checkedIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_rippleColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_rippleColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_state_dragged = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_state_dragged;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_strokeColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_strokeColor;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCardView_strokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCheckBox = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCheckBox;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCheckBox_buttonTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialRadioButton = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialRadioButton;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialRadioButton_buttonTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialRadioButton_buttonTint;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialShape = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialShape;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialShape_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTextAppearance_android_letterSpacing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTextAppearance_android_letterSpacing;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTextAppearance_lineHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTextView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTextView;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTextView_android_lineHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTextView_android_textAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTextView_lineHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTextView_lineHeight;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTimePicker = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTimePicker;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTimePicker_clockIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTimePicker_clockIcon;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialTimePicker_keyboardIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialTimePicker_keyboardIcon;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialToolbar = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialToolbar;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialToolbar_navigationIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialToolbar_navigationIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialToolbar_subtitleCentered = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialToolbar_subtitleCentered;
-			global::Acr.UserDialogs.Resource.Styleable.MaterialToolbar_titleCentered = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MaterialToolbar_titleCentered;
-			global::Acr.UserDialogs.Resource.Styleable.MenuGroup = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuGroup;
-			global::Acr.UserDialogs.Resource.Styleable.MenuGroup_android_checkableBehavior = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::Acr.UserDialogs.Resource.Styleable.MenuGroup_android_enabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::Acr.UserDialogs.Resource.Styleable.MenuGroup_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.MenuGroup_android_menuCategory = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::Acr.UserDialogs.Resource.Styleable.MenuGroup_android_orderInCategory = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::Acr.UserDialogs.Resource.Styleable.MenuGroup_android_visible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_actionLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_actionProviderClass = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_actionViewClass = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_alphabeticModifiers = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_checkable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_checked = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_enabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_icon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_menuCategory = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_numericShortcut = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_onClick = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_orderInCategory = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_title = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_title;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_titleCondensed = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_android_visible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_contentDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_contentDescription;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_iconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_iconTint;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_iconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_iconTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_numericModifiers = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_numericModifiers;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_showAsAction = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::Acr.UserDialogs.Resource.Styleable.MenuItem_tooltipText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuItem_tooltipText;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_android_headerBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_android_horizontalDivider = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_android_itemBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_android_itemTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_android_verticalDivider = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_android_windowAnimationStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_preserveIconSpacing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::Acr.UserDialogs.Resource.Styleable.MenuView_subMenuArrow = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MenuView_subMenuArrow;
-			global::Acr.UserDialogs.Resource.Styleable.MockView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MockView;
-			global::Acr.UserDialogs.Resource.Styleable.MockView_mock_diagonalsColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MockView_mock_diagonalsColor;
-			global::Acr.UserDialogs.Resource.Styleable.MockView_mock_label = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MockView_mock_label;
-			global::Acr.UserDialogs.Resource.Styleable.MockView_mock_labelBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MockView_mock_labelBackgroundColor;
-			global::Acr.UserDialogs.Resource.Styleable.MockView_mock_labelColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MockView_mock_labelColor;
-			global::Acr.UserDialogs.Resource.Styleable.MockView_mock_showDiagonals = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MockView_mock_showDiagonals;
-			global::Acr.UserDialogs.Resource.Styleable.MockView_mock_showLabel = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MockView_mock_showLabel;
-			global::Acr.UserDialogs.Resource.Styleable.Motion = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect_motionEffect_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect_motionEffect_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect_motionEffect_end = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect_motionEffect_end;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect_motionEffect_move = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect_motionEffect_move;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect_motionEffect_start = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect_motionEffect_start;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect_motionEffect_strict = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect_motionEffect_strict;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect_motionEffect_translationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect_motionEffect_translationX;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect_motionEffect_translationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect_motionEffect_translationY;
-			global::Acr.UserDialogs.Resource.Styleable.MotionEffect_motionEffect_viewTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionEffect_motionEffect_viewTransition;
-			global::Acr.UserDialogs.Resource.Styleable.MotionHelper = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionHelper;
-			global::Acr.UserDialogs.Resource.Styleable.MotionHelper_onHide = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionHelper_onHide;
-			global::Acr.UserDialogs.Resource.Styleable.MotionHelper_onShow = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionHelper_onShow;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_autoSizeTextType = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_autoSizeTextType;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_fontFamily = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_fontFamily;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_gravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_gravity;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_shadowRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_shadowRadius;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_text = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_text;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_textColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_textColor;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_textSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_textSize;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_textStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_textStyle;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_android_typeface = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_android_typeface;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_borderRound = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_borderRound;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_borderRoundPercent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_borderRoundPercent;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_scaleFromTextSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_scaleFromTextSize;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textBackground;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textBackgroundPanX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textBackgroundPanX;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textBackgroundPanY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textBackgroundPanY;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textBackgroundRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textBackgroundRotate;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textBackgroundZoom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textBackgroundZoom;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textOutlineColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textOutlineColor;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textOutlineThickness = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textOutlineThickness;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textPanX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textPanX;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textPanY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textPanY;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textureBlurFactor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textureBlurFactor;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textureEffect = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textureEffect;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textureHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textureHeight;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLabel_textureWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLabel_textureWidth;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLayout;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLayout_applyMotionScene = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLayout_applyMotionScene;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLayout_currentState = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLayout_currentState;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLayout_layoutDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLayout_layoutDescription;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLayout_motionDebug = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLayout_motionDebug;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLayout_motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLayout_motionProgress;
-			global::Acr.UserDialogs.Resource.Styleable.MotionLayout_showPaths = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionLayout_showPaths;
-			global::Acr.UserDialogs.Resource.Styleable.MotionScene = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionScene;
-			global::Acr.UserDialogs.Resource.Styleable.MotionScene_defaultDuration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionScene_defaultDuration;
-			global::Acr.UserDialogs.Resource.Styleable.MotionScene_layoutDuringTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionScene_layoutDuringTransition;
-			global::Acr.UserDialogs.Resource.Styleable.MotionTelltales = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionTelltales;
-			global::Acr.UserDialogs.Resource.Styleable.MotionTelltales_telltales_tailColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionTelltales_telltales_tailColor;
-			global::Acr.UserDialogs.Resource.Styleable.MotionTelltales_telltales_tailScale = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionTelltales_telltales_tailScale;
-			global::Acr.UserDialogs.Resource.Styleable.MotionTelltales_telltales_velocityMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.MotionTelltales_telltales_velocityMode;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_animateCircleAngleTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_animateCircleAngleTo;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_animateRelativeTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_animateRelativeTo;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_drawPath = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_drawPath;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_motionPathRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_motionPathRotate;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_motionStagger = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_motionStagger;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_pathMotionArc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_pathMotionArc;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_quantizeMotionInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_quantizeMotionInterpolator;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_quantizeMotionPhase = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_quantizeMotionPhase;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_quantizeMotionSteps = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_quantizeMotionSteps;
-			global::Acr.UserDialogs.Resource.Styleable.Motion_transitionEasing = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Motion_transitionEasing;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_backgroundTint;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_itemBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_itemBackground;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_itemIconSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_itemIconSize;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_itemIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_itemIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_itemRippleColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_itemRippleColor;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_itemTextAppearanceActive = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_itemTextAppearanceActive;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_itemTextAppearanceInactive = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_itemTextAppearanceInactive;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_itemTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_itemTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_labelVisibilityMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_labelVisibilityMode;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationBarView_menu = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationBarView_menu;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationRailView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationRailView;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationRailView_headerLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationRailView_headerLayout;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationRailView_menuGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationRailView_menuGravity;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_android_background = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_android_background;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_headerLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemHorizontalPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemIconPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemIconPadding;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemIconSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemIconSize;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemMaxLines = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemMaxLines;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemShapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemShapeFillColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemShapeInsetStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemShapeInsetTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_itemTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_menu = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_menu;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.NavigationView_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.NavigationView_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.OnClick = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnClick;
-			global::Acr.UserDialogs.Resource.Styleable.OnClick_clickAction = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnClick_clickAction;
-			global::Acr.UserDialogs.Resource.Styleable.OnClick_targetId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnClick_targetId;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_autoCompleteMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_autoCompleteMode;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_dragDirection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_dragDirection;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_dragScale = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_dragScale;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_dragThreshold = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_dragThreshold;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_limitBoundsTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_limitBoundsTo;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_maxAcceleration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_maxAcceleration;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_maxVelocity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_maxVelocity;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_moveWhenScrollAtTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_moveWhenScrollAtTop;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_nestedScrollFlags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_nestedScrollFlags;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_onTouchUp = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_onTouchUp;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_rotationCenterId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_rotationCenterId;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_springBoundary = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_springBoundary;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_springDamping = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_springDamping;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_springMass = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_springMass;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_springStiffness = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_springStiffness;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_springStopThreshold = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_springStopThreshold;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_touchAnchorId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_touchAnchorId;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_touchAnchorSide = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_touchAnchorSide;
-			global::Acr.UserDialogs.Resource.Styleable.OnSwipe_touchRegionId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.OnSwipe_touchRegionId;
-			global::Acr.UserDialogs.Resource.Styleable.PopupWindow = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PopupWindow;
-			global::Acr.UserDialogs.Resource.Styleable.PopupWindowBackgroundState = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Acr.UserDialogs.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::Acr.UserDialogs.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::Acr.UserDialogs.Resource.Styleable.PopupWindow_android_popupBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::Acr.UserDialogs.Resource.Styleable.PopupWindow_overlapAnchor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahBarColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahBarColor;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahBarLength = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahBarLength;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahBarWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahBarWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahCircleColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahCircleColor;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahDelayMillis = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahDelayMillis;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahRadius;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahRimColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahRimColor;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahRimWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahRimWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahSpinSpeed = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahSpinSpeed;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahText;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.ProgressWheel_ahTextSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahTextSize;
-			global::Acr.UserDialogs.Resource.Styleable.PropertySet = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PropertySet;
-			global::Acr.UserDialogs.Resource.Styleable.PropertySet_android_alpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PropertySet_android_alpha;
-			global::Acr.UserDialogs.Resource.Styleable.PropertySet_android_visibility = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PropertySet_android_visibility;
-			global::Acr.UserDialogs.Resource.Styleable.PropertySet_layout_constraintTag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PropertySet_layout_constraintTag;
-			global::Acr.UserDialogs.Resource.Styleable.PropertySet_motionProgress = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PropertySet_motionProgress;
-			global::Acr.UserDialogs.Resource.Styleable.PropertySet_visibilityMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.PropertySet_visibilityMode;
-			global::Acr.UserDialogs.Resource.Styleable.RadialViewGroup = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RadialViewGroup;
-			global::Acr.UserDialogs.Resource.Styleable.RadialViewGroup_materialCircleRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RadialViewGroup_materialCircleRadius;
-			global::Acr.UserDialogs.Resource.Styleable.RangeSlider = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RangeSlider;
-			global::Acr.UserDialogs.Resource.Styleable.RangeSlider_minSeparation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RangeSlider_minSeparation;
-			global::Acr.UserDialogs.Resource.Styleable.RangeSlider_values = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RangeSlider_values;
-			global::Acr.UserDialogs.Resource.Styleable.RecycleListView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecycleListView;
-			global::Acr.UserDialogs.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::Acr.UserDialogs.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_android_clipToPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_android_descendantFocusability = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_android_orientation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_fastScrollEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_layoutManager = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_reverseLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_spanCount = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::Acr.UserDialogs.Resource.Styleable.RecyclerView_stackFromEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ScrimInsetsFrameLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::Acr.UserDialogs.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::Acr.UserDialogs.Resource.Styleable.ScrollingViewBehavior_Layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::Acr.UserDialogs.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_android_focusable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_android_imeOptions = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_android_inputType = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_closeIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_commitIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_defaultQueryHint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_goIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_goIcon;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_iconifiedByDefault = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_layout;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_queryBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_queryHint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_queryHint;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_searchHintIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_searchIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_submitBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_suggestionRowLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::Acr.UserDialogs.Resource.Styleable.SearchView_voiceIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_contentPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_contentPadding;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_contentPaddingBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_contentPaddingBottom;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_contentPaddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_contentPaddingEnd;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_contentPaddingLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_contentPaddingLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_contentPaddingRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_contentPaddingRight;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_contentPaddingStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_contentPaddingStart;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_contentPaddingTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_contentPaddingTop;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_strokeColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_strokeColor;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeableImageView_strokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeableImageView_strokeWidth;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerFamily = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
-			global::Acr.UserDialogs.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
-			global::Acr.UserDialogs.Resource.Styleable.Slider = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_android_enabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_android_enabled;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_android_stepSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_android_stepSize;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_android_value = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_android_value;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_android_valueFrom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_android_valueFrom;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_android_valueTo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_android_valueTo;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_haloColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_haloColor;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_haloRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_haloRadius;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_labelBehavior = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_labelBehavior;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_labelStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_labelStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_thumbColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_thumbColor;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_thumbElevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_thumbElevation;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_thumbRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_thumbRadius;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_thumbStrokeColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_thumbStrokeColor;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_thumbStrokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_thumbStrokeWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_tickColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_tickColor;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_tickColorActive = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_tickColorActive;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_tickColorInactive = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_tickColorInactive;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_tickVisible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_tickVisible;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_trackColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_trackColor;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_trackColorActive = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_trackColorActive;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_trackColorInactive = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_trackColorInactive;
-			global::Acr.UserDialogs.Resource.Styleable.Slider_trackHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Slider_trackHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Snackbar = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Snackbar;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout_animationMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout_animationMode;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout_backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout_backgroundTint;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout_backgroundTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout_backgroundTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Snackbar_snackbarButtonStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Snackbar_snackbarStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Snackbar_snackbarStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Snackbar_snackbarTextViewStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Snackbar_snackbarTextViewStyle;
-			global::Acr.UserDialogs.Resource.Styleable.Spinner = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Spinner;
-			global::Acr.UserDialogs.Resource.Styleable.Spinner_android_dropDownWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Spinner_android_entries = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Spinner_android_entries;
-			global::Acr.UserDialogs.Resource.Styleable.Spinner_android_popupBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::Acr.UserDialogs.Resource.Styleable.Spinner_android_prompt = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::Acr.UserDialogs.Resource.Styleable.Spinner_popupTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::Acr.UserDialogs.Resource.Styleable.State = global::AutoAppo_StevenVR.Droid.Resource.Styleable.State;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawableItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawableItem;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawableItem_android_drawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawable_android_constantSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawable_android_dither = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawable_android_dither;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawable_android_variablePadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
-			global::Acr.UserDialogs.Resource.Styleable.StateListDrawable_android_visible = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateListDrawable_android_visible;
-			global::Acr.UserDialogs.Resource.Styleable.StateSet = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateSet;
-			global::Acr.UserDialogs.Resource.Styleable.StateSet_defaultState = global::AutoAppo_StevenVR.Droid.Resource.Styleable.StateSet_defaultState;
-			global::Acr.UserDialogs.Resource.Styleable.State_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.State_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.State_constraints = global::AutoAppo_StevenVR.Droid.Resource.Styleable.State_constraints;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_android_textOff = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_android_textOn = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_android_thumb = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_showText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_splitTrack = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_switchMinWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_switchPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_switchTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_thumbTextPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_thumbTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_thumbTint;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_thumbTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_track = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_track;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_trackTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_trackTint;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchCompat_trackTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchMaterial = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchMaterial;
-			global::Acr.UserDialogs.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::AutoAppo_StevenVR.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
-			global::Acr.UserDialogs.Resource.Styleable.TabItem = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabItem;
-			global::Acr.UserDialogs.Resource.Styleable.TabItem_android_icon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabItem_android_icon;
-			global::Acr.UserDialogs.Resource.Styleable.TabItem_android_layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabItem_android_layout;
-			global::Acr.UserDialogs.Resource.Styleable.TabItem_android_text = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabItem_android_text;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabBackground = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabContentStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIndicator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIndicator;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIndicatorAnimationMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationMode;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIndicatorColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIndicatorGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabIndicatorHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabInlineLabel = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabMaxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabMinWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabPadding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabPaddingBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabPaddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabPaddingStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabPaddingTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabRippleColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabRippleColor;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabSelectedTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TabLayout_tabUnboundedRipple = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_fontFamily = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_shadowColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_shadowDx = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_shadowDy = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_shadowRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_textColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_textColorHint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_textColorLink = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_textFontWeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_textSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_textStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_android_typeface = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_fontFamily = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_fontFamily;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_fontVariationSettings = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_textAllCaps = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::Acr.UserDialogs.Resource.Styleable.TextAppearance_textLocale = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextAppearance_textLocale;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_fontFamily = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_fontFamily;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_shadowColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_shadowColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_shadowDx = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_shadowDx;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_shadowDy = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_shadowDy;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_shadowRadius = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_shadowRadius;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_text = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_text;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_textSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_textSize;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_textStyle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_textStyle;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_android_typeface = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_android_typeface;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_borderRound = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_borderRound;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_borderRoundPercent = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_borderRoundPercent;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_textFillColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_textFillColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_textOutlineColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_textOutlineColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextEffects_textOutlineThickness = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextEffects_textOutlineThickness;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputEditText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputEditText;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_android_enabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_android_enabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_android_hint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_android_maxWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_android_maxWidth;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_android_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_android_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_android_textColorHint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxStrokeColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxStrokeErrorColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxStrokeErrorColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_counterEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_counterMaxLength = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_counterTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_counterTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_endIconCheckable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_endIconContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_endIconDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_endIconMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_endIconMode;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_endIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_endIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_endIconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_errorContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_errorContentDescription;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_errorEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_errorIconDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_errorIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_errorIconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_errorTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_errorTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_expandedHintEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_expandedHintEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_helperText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_helperText;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_helperTextEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_helperTextTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_hintEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_hintTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_hintTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_passwordToggleTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_placeholderText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_placeholderText;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_placeholderTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_placeholderTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_placeholderTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_placeholderTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_prefixText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_prefixText;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_prefixTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_prefixTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_prefixTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_prefixTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_shapeAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_startIconCheckable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_startIconContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_startIconDrawable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_startIconTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_startIconTint;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_startIconTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_suffixText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_suffixText;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_suffixTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_suffixTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.TextInputLayout_suffixTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.TextInputLayout_suffixTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.ThemeEnforcement = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ThemeEnforcement;
-			global::Acr.UserDialogs.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
-			global::Acr.UserDialogs.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_android_gravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_android_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_buttonGravity = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_buttonGravity;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_collapseContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_collapseIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_contentInsetEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_contentInsetLeft = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_contentInsetRight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_contentInsetStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_logo = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_logo;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_logoDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_maxButtonHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_menu = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_menu;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_navigationContentDescription = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_navigationIcon = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_popupTheme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_subtitle = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_subtitleTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_subtitleTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_title = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_title;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_titleMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_titleMargin;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_titleMarginBottom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_titleMarginEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_titleMargins = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_titleMarginStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_titleMarginTop = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_titleTextAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.Toolbar_titleTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::Acr.UserDialogs.Resource.Styleable.Tooltip = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Tooltip;
-			global::Acr.UserDialogs.Resource.Styleable.Tooltip_android_layout_margin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Tooltip_android_layout_margin;
-			global::Acr.UserDialogs.Resource.Styleable.Tooltip_android_minHeight = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Tooltip_android_minHeight;
-			global::Acr.UserDialogs.Resource.Styleable.Tooltip_android_minWidth = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Tooltip_android_minWidth;
-			global::Acr.UserDialogs.Resource.Styleable.Tooltip_android_padding = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Tooltip_android_padding;
-			global::Acr.UserDialogs.Resource.Styleable.Tooltip_android_text = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Tooltip_android_text;
-			global::Acr.UserDialogs.Resource.Styleable.Tooltip_android_textAppearance = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Tooltip_android_textAppearance;
-			global::Acr.UserDialogs.Resource.Styleable.Tooltip_backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Tooltip_backgroundTint;
-			global::Acr.UserDialogs.Resource.Styleable.Transform = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_elevation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_elevation;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_rotation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_rotation;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_rotationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_rotationX;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_rotationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_rotationY;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_scaleX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_scaleX;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_scaleY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_scaleY;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_transformPivotX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_transformPivotX;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_transformPivotY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_transformPivotY;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_translationX = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_translationX;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_translationY = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_translationY;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_android_translationZ = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_android_translationZ;
-			global::Acr.UserDialogs.Resource.Styleable.Transform_transformPivotTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transform_transformPivotTarget;
-			global::Acr.UserDialogs.Resource.Styleable.Transition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_autoTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_autoTransition;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_constraintSetEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_constraintSetEnd;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_constraintSetStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_constraintSetStart;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_duration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_duration;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_layoutDuringTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_layoutDuringTransition;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_motionInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_motionInterpolator;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_pathMotionArc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_pathMotionArc;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_staggered = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_staggered;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_transitionDisable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_transitionDisable;
-			global::Acr.UserDialogs.Resource.Styleable.Transition_transitionFlags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Transition_transitionFlags;
-			global::Acr.UserDialogs.Resource.Styleable.Variant = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Variant;
-			global::Acr.UserDialogs.Resource.Styleable.Variant_constraints = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Variant_constraints;
-			global::Acr.UserDialogs.Resource.Styleable.Variant_region_heightLessThan = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Variant_region_heightLessThan;
-			global::Acr.UserDialogs.Resource.Styleable.Variant_region_heightMoreThan = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Variant_region_heightMoreThan;
-			global::Acr.UserDialogs.Resource.Styleable.Variant_region_widthLessThan = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Variant_region_widthLessThan;
-			global::Acr.UserDialogs.Resource.Styleable.Variant_region_widthMoreThan = global::AutoAppo_StevenVR.Droid.Resource.Styleable.Variant_region_widthMoreThan;
-			global::Acr.UserDialogs.Resource.Styleable.View = global::AutoAppo_StevenVR.Droid.Resource.Styleable.View;
-			global::Acr.UserDialogs.Resource.Styleable.ViewBackgroundHelper = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::Acr.UserDialogs.Resource.Styleable.ViewBackgroundHelper_android_background = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::Acr.UserDialogs.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::Acr.UserDialogs.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::Acr.UserDialogs.Resource.Styleable.ViewPager2 = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewPager2;
-			global::Acr.UserDialogs.Resource.Styleable.ViewPager2_android_orientation = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewPager2_android_orientation;
-			global::Acr.UserDialogs.Resource.Styleable.ViewStubCompat = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewStubCompat;
-			global::Acr.UserDialogs.Resource.Styleable.ViewStubCompat_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.ViewStubCompat_android_inflatedId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::Acr.UserDialogs.Resource.Styleable.ViewStubCompat_android_layout = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewStubCompat_android_layout;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_android_id = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_android_id;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_clearsTag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_clearsTag;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_duration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_duration;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_ifTagNotSet = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_ifTagNotSet;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_ifTagSet = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_ifTagSet;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_motionInterpolator = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_motionInterpolator;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_motionTarget = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_motionTarget;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_onStateTransition = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_onStateTransition;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_pathMotionArc = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_pathMotionArc;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_setsTag = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_setsTag;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_SharedValue = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_SharedValue;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_SharedValueId = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_SharedValueId;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_transitionDisable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_transitionDisable;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_upDuration = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_upDuration;
-			global::Acr.UserDialogs.Resource.Styleable.ViewTransition_viewTransitionMode = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ViewTransition_viewTransitionMode;
-			global::Acr.UserDialogs.Resource.Styleable.View_android_focusable = global::AutoAppo_StevenVR.Droid.Resource.Styleable.View_android_focusable;
-			global::Acr.UserDialogs.Resource.Styleable.View_android_theme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.View_android_theme;
-			global::Acr.UserDialogs.Resource.Styleable.View_paddingEnd = global::AutoAppo_StevenVR.Droid.Resource.Styleable.View_paddingEnd;
-			global::Acr.UserDialogs.Resource.Styleable.View_paddingStart = global::AutoAppo_StevenVR.Droid.Resource.Styleable.View_paddingStart;
-			global::Acr.UserDialogs.Resource.Styleable.View_theme = global::AutoAppo_StevenVR.Droid.Resource.Styleable.View_theme;
-			global::Acr.UserDialogs.Resource.Xml.standalone_badge = global::AutoAppo_StevenVR.Droid.Resource.Xml.standalone_badge;
-			global::Acr.UserDialogs.Resource.Xml.standalone_badge_gravity_bottom_end = global::AutoAppo_StevenVR.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
-			global::Acr.UserDialogs.Resource.Xml.standalone_badge_gravity_bottom_start = global::AutoAppo_StevenVR.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
-			global::Acr.UserDialogs.Resource.Xml.standalone_badge_gravity_top_start = global::AutoAppo_StevenVR.Droid.Resource.Xml.standalone_badge_gravity_top_start;
-			global::Acr.UserDialogs.Resource.Xml.standalone_badge_offset = global::AutoAppo_StevenVR.Droid.Resource.Xml.standalone_badge_offset;
 			global::AndroidHUD.Resource.Attribute.ahBarColor = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahBarColor;
 			global::AndroidHUD.Resource.Attribute.ahBarLength = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahBarLength;
 			global::AndroidHUD.Resource.Attribute.ahBarWidth = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ahBarWidth;
@@ -5260,6 +62,7 @@ namespace AutoAppo_StevenVR.Droid
 			global::AndroidHUD.Resource.Styleable.ProgressWheel_ahText = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahText;
 			global::AndroidHUD.Resource.Styleable.ProgressWheel_ahTextColor = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahTextColor;
 			global::AndroidHUD.Resource.Styleable.ProgressWheel_ahTextSize = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ProgressWheel_ahTextSize;
+			global::Splat.Resource.String.library_name = global::AutoAppo_StevenVR.Droid.Resource.String.library_name;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::AutoAppo_StevenVR.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::AutoAppo_StevenVR.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::AutoAppo_StevenVR.Droid.Resource.Attribute.fontProviderAuthority;
@@ -5748,6 +551,7 @@ namespace AutoAppo_StevenVR.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSurface = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorSurface;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorSwitchThumbNormal;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ConstraintRotate = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ConstraintRotate;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.constraints = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraints;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.constraintSet = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraintSet;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.constraintSetEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraintSetEnd;
@@ -9503,6 +4307,7 @@ namespace AutoAppo_StevenVR.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_barrierDirection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_barrierDirection;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_barrierMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_barrierMargin;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_chainUseRtl = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_chainUseRtl;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_ConstraintRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_ConstraintRotate;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_constraint_referenced_ids = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_ids;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_constraint_referenced_tags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_tags;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ConstraintSet_deriveConstraintsFrom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_deriveConstraintsFrom;
@@ -11033,6 +5838,7 @@ namespace AutoAppo_StevenVR.Droid
 			global::Xamarin.Forms.Platform.Resource.Attribute.colorSurface = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorSurface;
 			global::Xamarin.Forms.Platform.Resource.Attribute.colorSwitchThumbNormal = global::AutoAppo_StevenVR.Droid.Resource.Attribute.colorSwitchThumbNormal;
 			global::Xamarin.Forms.Platform.Resource.Attribute.commitIcon = global::AutoAppo_StevenVR.Droid.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ConstraintRotate = global::AutoAppo_StevenVR.Droid.Resource.Attribute.ConstraintRotate;
 			global::Xamarin.Forms.Platform.Resource.Attribute.constraints = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraints;
 			global::Xamarin.Forms.Platform.Resource.Attribute.constraintSet = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraintSet;
 			global::Xamarin.Forms.Platform.Resource.Attribute.constraintSetEnd = global::AutoAppo_StevenVR.Droid.Resource.Attribute.constraintSetEnd;
@@ -14788,6 +9594,7 @@ namespace AutoAppo_StevenVR.Droid
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_barrierDirection = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_barrierDirection;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_barrierMargin = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_barrierMargin;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_chainUseRtl = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_chainUseRtl;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_ConstraintRotate = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_ConstraintRotate;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_constraint_referenced_ids = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_ids;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_constraint_referenced_tags = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_tags;
 			global::Xamarin.Forms.Platform.Resource.Styleable.ConstraintSet_deriveConstraintsFrom = global::AutoAppo_StevenVR.Droid.Resource.Styleable.ConstraintSet_deriveConstraintsFrom;
@@ -16262,740 +11069,740 @@ namespace AutoAppo_StevenVR.Droid
 		public partial class Attribute
 		{
 			
-			// aapt resource value: 0x7F030002
-			public const int action = 2130903042;
-			
 			// aapt resource value: 0x7F030003
-			public const int actionBarDivider = 2130903043;
+			public const int action = 2130903043;
 			
 			// aapt resource value: 0x7F030004
-			public const int actionBarItemBackground = 2130903044;
+			public const int actionBarDivider = 2130903044;
 			
 			// aapt resource value: 0x7F030005
-			public const int actionBarPopupTheme = 2130903045;
+			public const int actionBarItemBackground = 2130903045;
 			
 			// aapt resource value: 0x7F030006
-			public const int actionBarSize = 2130903046;
+			public const int actionBarPopupTheme = 2130903046;
 			
 			// aapt resource value: 0x7F030007
-			public const int actionBarSplitStyle = 2130903047;
+			public const int actionBarSize = 2130903047;
 			
 			// aapt resource value: 0x7F030008
-			public const int actionBarStyle = 2130903048;
+			public const int actionBarSplitStyle = 2130903048;
 			
 			// aapt resource value: 0x7F030009
-			public const int actionBarTabBarStyle = 2130903049;
+			public const int actionBarStyle = 2130903049;
 			
 			// aapt resource value: 0x7F03000A
-			public const int actionBarTabStyle = 2130903050;
+			public const int actionBarTabBarStyle = 2130903050;
 			
 			// aapt resource value: 0x7F03000B
-			public const int actionBarTabTextStyle = 2130903051;
+			public const int actionBarTabStyle = 2130903051;
 			
 			// aapt resource value: 0x7F03000C
-			public const int actionBarTheme = 2130903052;
+			public const int actionBarTabTextStyle = 2130903052;
 			
 			// aapt resource value: 0x7F03000D
-			public const int actionBarWidgetTheme = 2130903053;
+			public const int actionBarTheme = 2130903053;
 			
 			// aapt resource value: 0x7F03000E
-			public const int actionButtonStyle = 2130903054;
+			public const int actionBarWidgetTheme = 2130903054;
 			
 			// aapt resource value: 0x7F03000F
-			public const int actionDropDownStyle = 2130903055;
+			public const int actionButtonStyle = 2130903055;
 			
 			// aapt resource value: 0x7F030010
-			public const int actionLayout = 2130903056;
+			public const int actionDropDownStyle = 2130903056;
 			
 			// aapt resource value: 0x7F030011
-			public const int actionMenuTextAppearance = 2130903057;
+			public const int actionLayout = 2130903057;
 			
 			// aapt resource value: 0x7F030012
-			public const int actionMenuTextColor = 2130903058;
+			public const int actionMenuTextAppearance = 2130903058;
 			
 			// aapt resource value: 0x7F030013
-			public const int actionModeBackground = 2130903059;
+			public const int actionMenuTextColor = 2130903059;
 			
 			// aapt resource value: 0x7F030014
-			public const int actionModeCloseButtonStyle = 2130903060;
+			public const int actionModeBackground = 2130903060;
 			
 			// aapt resource value: 0x7F030015
-			public const int actionModeCloseContentDescription = 2130903061;
+			public const int actionModeCloseButtonStyle = 2130903061;
 			
 			// aapt resource value: 0x7F030016
-			public const int actionModeCloseDrawable = 2130903062;
+			public const int actionModeCloseContentDescription = 2130903062;
 			
 			// aapt resource value: 0x7F030017
-			public const int actionModeCopyDrawable = 2130903063;
+			public const int actionModeCloseDrawable = 2130903063;
 			
 			// aapt resource value: 0x7F030018
-			public const int actionModeCutDrawable = 2130903064;
+			public const int actionModeCopyDrawable = 2130903064;
 			
 			// aapt resource value: 0x7F030019
-			public const int actionModeFindDrawable = 2130903065;
+			public const int actionModeCutDrawable = 2130903065;
 			
 			// aapt resource value: 0x7F03001A
-			public const int actionModePasteDrawable = 2130903066;
+			public const int actionModeFindDrawable = 2130903066;
 			
 			// aapt resource value: 0x7F03001B
-			public const int actionModePopupWindowStyle = 2130903067;
+			public const int actionModePasteDrawable = 2130903067;
 			
 			// aapt resource value: 0x7F03001C
-			public const int actionModeSelectAllDrawable = 2130903068;
+			public const int actionModePopupWindowStyle = 2130903068;
 			
 			// aapt resource value: 0x7F03001D
-			public const int actionModeShareDrawable = 2130903069;
+			public const int actionModeSelectAllDrawable = 2130903069;
 			
 			// aapt resource value: 0x7F03001E
-			public const int actionModeSplitBackground = 2130903070;
+			public const int actionModeShareDrawable = 2130903070;
 			
 			// aapt resource value: 0x7F03001F
-			public const int actionModeStyle = 2130903071;
+			public const int actionModeSplitBackground = 2130903071;
 			
 			// aapt resource value: 0x7F030020
-			public const int actionModeTheme = 2130903072;
+			public const int actionModeStyle = 2130903072;
 			
 			// aapt resource value: 0x7F030021
-			public const int actionModeWebSearchDrawable = 2130903073;
+			public const int actionModeTheme = 2130903073;
 			
 			// aapt resource value: 0x7F030022
-			public const int actionOverflowButtonStyle = 2130903074;
+			public const int actionModeWebSearchDrawable = 2130903074;
 			
 			// aapt resource value: 0x7F030023
-			public const int actionOverflowMenuStyle = 2130903075;
+			public const int actionOverflowButtonStyle = 2130903075;
 			
 			// aapt resource value: 0x7F030024
-			public const int actionProviderClass = 2130903076;
+			public const int actionOverflowMenuStyle = 2130903076;
 			
 			// aapt resource value: 0x7F030025
-			public const int actionTextColorAlpha = 2130903077;
+			public const int actionProviderClass = 2130903077;
 			
 			// aapt resource value: 0x7F030026
-			public const int actionViewClass = 2130903078;
+			public const int actionTextColorAlpha = 2130903078;
 			
 			// aapt resource value: 0x7F030027
-			public const int activityChooserViewStyle = 2130903079;
+			public const int actionViewClass = 2130903079;
 			
 			// aapt resource value: 0x7F030028
-			public const int adjustable = 2130903080;
+			public const int activityChooserViewStyle = 2130903080;
 			
 			// aapt resource value: 0x7F030029
-			public const int ahBarColor = 2130903081;
+			public const int adjustable = 2130903081;
 			
 			// aapt resource value: 0x7F03002A
-			public const int ahBarLength = 2130903082;
+			public const int ahBarColor = 2130903082;
 			
 			// aapt resource value: 0x7F03002B
-			public const int ahBarWidth = 2130903083;
+			public const int ahBarLength = 2130903083;
 			
 			// aapt resource value: 0x7F03002C
-			public const int ahCircleColor = 2130903084;
+			public const int ahBarWidth = 2130903084;
 			
 			// aapt resource value: 0x7F03002D
-			public const int ahDelayMillis = 2130903085;
+			public const int ahCircleColor = 2130903085;
 			
 			// aapt resource value: 0x7F03002E
-			public const int ahRadius = 2130903086;
+			public const int ahDelayMillis = 2130903086;
 			
 			// aapt resource value: 0x7F03002F
-			public const int ahRimColor = 2130903087;
+			public const int ahRadius = 2130903087;
 			
 			// aapt resource value: 0x7F030030
-			public const int ahRimWidth = 2130903088;
+			public const int ahRimColor = 2130903088;
 			
 			// aapt resource value: 0x7F030031
-			public const int ahSpinSpeed = 2130903089;
+			public const int ahRimWidth = 2130903089;
 			
 			// aapt resource value: 0x7F030032
-			public const int ahText = 2130903090;
+			public const int ahSpinSpeed = 2130903090;
 			
 			// aapt resource value: 0x7F030033
-			public const int ahTextColor = 2130903091;
+			public const int ahText = 2130903091;
 			
 			// aapt resource value: 0x7F030034
-			public const int ahTextSize = 2130903092;
+			public const int ahTextColor = 2130903092;
 			
 			// aapt resource value: 0x7F030035
-			public const int alertDialogButtonGroupStyle = 2130903093;
+			public const int ahTextSize = 2130903093;
 			
 			// aapt resource value: 0x7F030036
-			public const int alertDialogCenterButtons = 2130903094;
+			public const int alertDialogButtonGroupStyle = 2130903094;
 			
 			// aapt resource value: 0x7F030037
-			public const int alertDialogStyle = 2130903095;
+			public const int alertDialogCenterButtons = 2130903095;
 			
 			// aapt resource value: 0x7F030038
-			public const int alertDialogTheme = 2130903096;
+			public const int alertDialogStyle = 2130903096;
 			
 			// aapt resource value: 0x7F030039
-			public const int allowDividerAbove = 2130903097;
+			public const int alertDialogTheme = 2130903097;
 			
 			// aapt resource value: 0x7F03003A
-			public const int allowDividerAfterLastItem = 2130903098;
+			public const int allowDividerAbove = 2130903098;
 			
 			// aapt resource value: 0x7F03003B
-			public const int allowDividerBelow = 2130903099;
+			public const int allowDividerAfterLastItem = 2130903099;
 			
 			// aapt resource value: 0x7F03003C
-			public const int allowStacking = 2130903100;
+			public const int allowDividerBelow = 2130903100;
 			
 			// aapt resource value: 0x7F03003D
-			public const int alpha = 2130903101;
+			public const int allowStacking = 2130903101;
 			
 			// aapt resource value: 0x7F03003E
-			public const int alphabeticModifiers = 2130903102;
+			public const int alpha = 2130903102;
 			
 			// aapt resource value: 0x7F03003F
-			public const int altSrc = 2130903103;
+			public const int alphabeticModifiers = 2130903103;
 			
 			// aapt resource value: 0x7F030040
-			public const int animateCircleAngleTo = 2130903104;
+			public const int altSrc = 2130903104;
 			
 			// aapt resource value: 0x7F030041
-			public const int animateRelativeTo = 2130903105;
+			public const int animateCircleAngleTo = 2130903105;
 			
 			// aapt resource value: 0x7F030042
-			public const int animationMode = 2130903106;
+			public const int animateRelativeTo = 2130903106;
 			
 			// aapt resource value: 0x7F030043
-			public const int appBarLayoutStyle = 2130903107;
+			public const int animationMode = 2130903107;
 			
 			// aapt resource value: 0x7F030044
-			public const int applyMotionScene = 2130903108;
+			public const int appBarLayoutStyle = 2130903108;
 			
 			// aapt resource value: 0x7F030045
-			public const int arcMode = 2130903109;
+			public const int applyMotionScene = 2130903109;
 			
 			// aapt resource value: 0x7F030046
-			public const int argType = 2130903110;
+			public const int arcMode = 2130903110;
 			
 			// aapt resource value: 0x7F030047
-			public const int arrowHeadLength = 2130903111;
+			public const int argType = 2130903111;
 			
 			// aapt resource value: 0x7F030048
-			public const int arrowShaftLength = 2130903112;
+			public const int arrowHeadLength = 2130903112;
 			
 			// aapt resource value: 0x7F030049
-			public const int attributeName = 2130903113;
+			public const int arrowShaftLength = 2130903113;
 			
 			// aapt resource value: 0x7F03004A
-			public const int autoCompleteMode = 2130903114;
+			public const int attributeName = 2130903114;
 			
 			// aapt resource value: 0x7F03004B
-			public const int autoCompleteTextViewStyle = 2130903115;
+			public const int autoCompleteMode = 2130903115;
 			
 			// aapt resource value: 0x7F03004C
-			public const int autoSizeMaxTextSize = 2130903116;
+			public const int autoCompleteTextViewStyle = 2130903116;
 			
 			// aapt resource value: 0x7F03004D
-			public const int autoSizeMinTextSize = 2130903117;
+			public const int autoSizeMaxTextSize = 2130903117;
 			
 			// aapt resource value: 0x7F03004E
-			public const int autoSizePresetSizes = 2130903118;
+			public const int autoSizeMinTextSize = 2130903118;
 			
 			// aapt resource value: 0x7F03004F
-			public const int autoSizeStepGranularity = 2130903119;
+			public const int autoSizePresetSizes = 2130903119;
 			
 			// aapt resource value: 0x7F030050
-			public const int autoSizeTextType = 2130903120;
+			public const int autoSizeStepGranularity = 2130903120;
 			
 			// aapt resource value: 0x7F030051
-			public const int autoTransition = 2130903121;
+			public const int autoSizeTextType = 2130903121;
 			
 			// aapt resource value: 0x7F030052
-			public const int background = 2130903122;
+			public const int autoTransition = 2130903122;
 			
 			// aapt resource value: 0x7F030053
-			public const int backgroundColor = 2130903123;
+			public const int background = 2130903123;
 			
 			// aapt resource value: 0x7F030054
-			public const int backgroundInsetBottom = 2130903124;
+			public const int backgroundColor = 2130903124;
 			
 			// aapt resource value: 0x7F030055
-			public const int backgroundInsetEnd = 2130903125;
+			public const int backgroundInsetBottom = 2130903125;
 			
 			// aapt resource value: 0x7F030056
-			public const int backgroundInsetStart = 2130903126;
+			public const int backgroundInsetEnd = 2130903126;
 			
 			// aapt resource value: 0x7F030057
-			public const int backgroundInsetTop = 2130903127;
+			public const int backgroundInsetStart = 2130903127;
 			
 			// aapt resource value: 0x7F030058
-			public const int backgroundOverlayColorAlpha = 2130903128;
+			public const int backgroundInsetTop = 2130903128;
 			
 			// aapt resource value: 0x7F030059
-			public const int backgroundSplit = 2130903129;
+			public const int backgroundOverlayColorAlpha = 2130903129;
 			
 			// aapt resource value: 0x7F03005A
-			public const int backgroundStacked = 2130903130;
+			public const int backgroundSplit = 2130903130;
 			
 			// aapt resource value: 0x7F03005B
-			public const int backgroundTint = 2130903131;
+			public const int backgroundStacked = 2130903131;
 			
 			// aapt resource value: 0x7F03005C
-			public const int backgroundTintMode = 2130903132;
+			public const int backgroundTint = 2130903132;
 			
 			// aapt resource value: 0x7F03005D
-			public const int badgeGravity = 2130903133;
+			public const int backgroundTintMode = 2130903133;
 			
 			// aapt resource value: 0x7F03005E
-			public const int badgeStyle = 2130903134;
+			public const int badgeGravity = 2130903134;
 			
 			// aapt resource value: 0x7F03005F
-			public const int badgeTextColor = 2130903135;
+			public const int badgeStyle = 2130903135;
 			
 			// aapt resource value: 0x7F030060
-			public const int barLength = 2130903136;
+			public const int badgeTextColor = 2130903136;
 			
 			// aapt resource value: 0x7F030061
-			public const int barrierAllowsGoneWidgets = 2130903137;
+			public const int barLength = 2130903137;
 			
 			// aapt resource value: 0x7F030062
-			public const int barrierDirection = 2130903138;
+			public const int barrierAllowsGoneWidgets = 2130903138;
 			
 			// aapt resource value: 0x7F030063
-			public const int barrierMargin = 2130903139;
+			public const int barrierDirection = 2130903139;
 			
 			// aapt resource value: 0x7F030064
-			public const int behavior_autoHide = 2130903140;
+			public const int barrierMargin = 2130903140;
 			
 			// aapt resource value: 0x7F030065
-			public const int behavior_autoShrink = 2130903141;
+			public const int behavior_autoHide = 2130903141;
 			
 			// aapt resource value: 0x7F030066
-			public const int behavior_draggable = 2130903142;
+			public const int behavior_autoShrink = 2130903142;
 			
 			// aapt resource value: 0x7F030067
-			public const int behavior_expandedOffset = 2130903143;
+			public const int behavior_draggable = 2130903143;
 			
 			// aapt resource value: 0x7F030068
-			public const int behavior_fitToContents = 2130903144;
+			public const int behavior_expandedOffset = 2130903144;
 			
 			// aapt resource value: 0x7F030069
-			public const int behavior_halfExpandedRatio = 2130903145;
+			public const int behavior_fitToContents = 2130903145;
 			
 			// aapt resource value: 0x7F03006A
-			public const int behavior_hideable = 2130903146;
+			public const int behavior_halfExpandedRatio = 2130903146;
 			
 			// aapt resource value: 0x7F03006B
-			public const int behavior_overlapTop = 2130903147;
+			public const int behavior_hideable = 2130903147;
 			
 			// aapt resource value: 0x7F03006C
-			public const int behavior_peekHeight = 2130903148;
+			public const int behavior_overlapTop = 2130903148;
 			
 			// aapt resource value: 0x7F03006D
-			public const int behavior_saveFlags = 2130903149;
+			public const int behavior_peekHeight = 2130903149;
 			
 			// aapt resource value: 0x7F03006E
-			public const int behavior_skipCollapsed = 2130903150;
+			public const int behavior_saveFlags = 2130903150;
 			
 			// aapt resource value: 0x7F03006F
-			public const int blendSrc = 2130903151;
-			
-			// aapt resource value: 0x7F030073
-			public const int borderlessButtonStyle = 2130903155;
+			public const int behavior_skipCollapsed = 2130903151;
 			
 			// aapt resource value: 0x7F030070
-			public const int borderRound = 2130903152;
-			
-			// aapt resource value: 0x7F030071
-			public const int borderRoundPercent = 2130903153;
-			
-			// aapt resource value: 0x7F030072
-			public const int borderWidth = 2130903154;
+			public const int blendSrc = 2130903152;
 			
 			// aapt resource value: 0x7F030074
-			public const int bottomAppBarStyle = 2130903156;
+			public const int borderlessButtonStyle = 2130903156;
+			
+			// aapt resource value: 0x7F030071
+			public const int borderRound = 2130903153;
+			
+			// aapt resource value: 0x7F030072
+			public const int borderRoundPercent = 2130903154;
+			
+			// aapt resource value: 0x7F030073
+			public const int borderWidth = 2130903155;
 			
 			// aapt resource value: 0x7F030075
-			public const int bottomNavigationStyle = 2130903157;
+			public const int bottomAppBarStyle = 2130903157;
 			
 			// aapt resource value: 0x7F030076
-			public const int bottomSheetDialogTheme = 2130903158;
+			public const int bottomNavigationStyle = 2130903158;
 			
 			// aapt resource value: 0x7F030077
-			public const int bottomSheetStyle = 2130903159;
+			public const int bottomSheetDialogTheme = 2130903159;
 			
 			// aapt resource value: 0x7F030078
-			public const int boxBackgroundColor = 2130903160;
+			public const int bottomSheetStyle = 2130903160;
 			
 			// aapt resource value: 0x7F030079
-			public const int boxBackgroundMode = 2130903161;
+			public const int boxBackgroundColor = 2130903161;
 			
 			// aapt resource value: 0x7F03007A
-			public const int boxCollapsedPaddingTop = 2130903162;
+			public const int boxBackgroundMode = 2130903162;
 			
 			// aapt resource value: 0x7F03007B
-			public const int boxCornerRadiusBottomEnd = 2130903163;
+			public const int boxCollapsedPaddingTop = 2130903163;
 			
 			// aapt resource value: 0x7F03007C
-			public const int boxCornerRadiusBottomStart = 2130903164;
+			public const int boxCornerRadiusBottomEnd = 2130903164;
 			
 			// aapt resource value: 0x7F03007D
-			public const int boxCornerRadiusTopEnd = 2130903165;
+			public const int boxCornerRadiusBottomStart = 2130903165;
 			
 			// aapt resource value: 0x7F03007E
-			public const int boxCornerRadiusTopStart = 2130903166;
+			public const int boxCornerRadiusTopEnd = 2130903166;
 			
 			// aapt resource value: 0x7F03007F
-			public const int boxStrokeColor = 2130903167;
+			public const int boxCornerRadiusTopStart = 2130903167;
 			
 			// aapt resource value: 0x7F030080
-			public const int boxStrokeErrorColor = 2130903168;
+			public const int boxStrokeColor = 2130903168;
 			
 			// aapt resource value: 0x7F030081
-			public const int boxStrokeWidth = 2130903169;
+			public const int boxStrokeErrorColor = 2130903169;
 			
 			// aapt resource value: 0x7F030082
-			public const int boxStrokeWidthFocused = 2130903170;
+			public const int boxStrokeWidth = 2130903170;
 			
 			// aapt resource value: 0x7F030083
-			public const int brightness = 2130903171;
+			public const int boxStrokeWidthFocused = 2130903171;
 			
 			// aapt resource value: 0x7F030084
-			public const int buttonBarButtonStyle = 2130903172;
+			public const int brightness = 2130903172;
 			
 			// aapt resource value: 0x7F030085
-			public const int buttonBarNegativeButtonStyle = 2130903173;
+			public const int buttonBarButtonStyle = 2130903173;
 			
 			// aapt resource value: 0x7F030086
-			public const int buttonBarNeutralButtonStyle = 2130903174;
+			public const int buttonBarNegativeButtonStyle = 2130903174;
 			
 			// aapt resource value: 0x7F030087
-			public const int buttonBarPositiveButtonStyle = 2130903175;
+			public const int buttonBarNeutralButtonStyle = 2130903175;
 			
 			// aapt resource value: 0x7F030088
-			public const int buttonBarStyle = 2130903176;
+			public const int buttonBarPositiveButtonStyle = 2130903176;
 			
 			// aapt resource value: 0x7F030089
-			public const int buttonCompat = 2130903177;
+			public const int buttonBarStyle = 2130903177;
 			
 			// aapt resource value: 0x7F03008A
-			public const int buttonGravity = 2130903178;
+			public const int buttonCompat = 2130903178;
 			
 			// aapt resource value: 0x7F03008B
-			public const int buttonIconDimen = 2130903179;
+			public const int buttonGravity = 2130903179;
 			
 			// aapt resource value: 0x7F03008C
-			public const int buttonPanelSideLayout = 2130903180;
+			public const int buttonIconDimen = 2130903180;
 			
 			// aapt resource value: 0x7F03008D
-			public const int buttonStyle = 2130903181;
+			public const int buttonPanelSideLayout = 2130903181;
 			
 			// aapt resource value: 0x7F03008E
-			public const int buttonStyleSmall = 2130903182;
+			public const int buttonStyle = 2130903182;
 			
 			// aapt resource value: 0x7F03008F
-			public const int buttonTint = 2130903183;
+			public const int buttonStyleSmall = 2130903183;
 			
 			// aapt resource value: 0x7F030090
-			public const int buttonTintMode = 2130903184;
+			public const int buttonTint = 2130903184;
 			
 			// aapt resource value: 0x7F030091
-			public const int cardBackgroundColor = 2130903185;
+			public const int buttonTintMode = 2130903185;
 			
 			// aapt resource value: 0x7F030092
-			public const int cardCornerRadius = 2130903186;
+			public const int cardBackgroundColor = 2130903186;
 			
 			// aapt resource value: 0x7F030093
-			public const int cardElevation = 2130903187;
+			public const int cardCornerRadius = 2130903187;
 			
 			// aapt resource value: 0x7F030094
-			public const int cardForegroundColor = 2130903188;
+			public const int cardElevation = 2130903188;
 			
 			// aapt resource value: 0x7F030095
-			public const int cardMaxElevation = 2130903189;
+			public const int cardForegroundColor = 2130903189;
 			
 			// aapt resource value: 0x7F030096
-			public const int cardPreventCornerOverlap = 2130903190;
+			public const int cardMaxElevation = 2130903190;
 			
 			// aapt resource value: 0x7F030097
-			public const int cardUseCompatPadding = 2130903191;
+			public const int cardPreventCornerOverlap = 2130903191;
 			
 			// aapt resource value: 0x7F030098
-			public const int cardViewStyle = 2130903192;
+			public const int cardUseCompatPadding = 2130903192;
 			
 			// aapt resource value: 0x7F030099
-			public const int carousel_backwardTransition = 2130903193;
+			public const int cardViewStyle = 2130903193;
 			
 			// aapt resource value: 0x7F03009A
-			public const int carousel_emptyViewsBehavior = 2130903194;
+			public const int carousel_backwardTransition = 2130903194;
 			
 			// aapt resource value: 0x7F03009B
-			public const int carousel_firstView = 2130903195;
+			public const int carousel_emptyViewsBehavior = 2130903195;
 			
 			// aapt resource value: 0x7F03009C
-			public const int carousel_forwardTransition = 2130903196;
+			public const int carousel_firstView = 2130903196;
 			
 			// aapt resource value: 0x7F03009D
-			public const int carousel_infinite = 2130903197;
+			public const int carousel_forwardTransition = 2130903197;
 			
 			// aapt resource value: 0x7F03009E
-			public const int carousel_nextState = 2130903198;
+			public const int carousel_infinite = 2130903198;
 			
 			// aapt resource value: 0x7F03009F
-			public const int carousel_previousState = 2130903199;
+			public const int carousel_nextState = 2130903199;
 			
 			// aapt resource value: 0x7F0300A0
-			public const int carousel_touchUpMode = 2130903200;
+			public const int carousel_previousState = 2130903200;
 			
 			// aapt resource value: 0x7F0300A1
-			public const int carousel_touchUp_dampeningFactor = 2130903201;
+			public const int carousel_touchUpMode = 2130903201;
 			
 			// aapt resource value: 0x7F0300A2
-			public const int carousel_touchUp_velocityThreshold = 2130903202;
+			public const int carousel_touchUp_dampeningFactor = 2130903202;
 			
 			// aapt resource value: 0x7F0300A3
-			public const int chainUseRtl = 2130903203;
+			public const int carousel_touchUp_velocityThreshold = 2130903203;
 			
 			// aapt resource value: 0x7F0300A4
-			public const int checkBoxPreferenceStyle = 2130903204;
+			public const int chainUseRtl = 2130903204;
 			
 			// aapt resource value: 0x7F0300A5
-			public const int checkboxStyle = 2130903205;
+			public const int checkBoxPreferenceStyle = 2130903205;
 			
 			// aapt resource value: 0x7F0300A6
-			public const int checkedButton = 2130903206;
+			public const int checkboxStyle = 2130903206;
 			
 			// aapt resource value: 0x7F0300A7
-			public const int checkedChip = 2130903207;
+			public const int checkedButton = 2130903207;
 			
 			// aapt resource value: 0x7F0300A8
-			public const int checkedIcon = 2130903208;
+			public const int checkedChip = 2130903208;
 			
 			// aapt resource value: 0x7F0300A9
-			public const int checkedIconEnabled = 2130903209;
+			public const int checkedIcon = 2130903209;
 			
 			// aapt resource value: 0x7F0300AA
-			public const int checkedIconMargin = 2130903210;
+			public const int checkedIconEnabled = 2130903210;
 			
 			// aapt resource value: 0x7F0300AB
-			public const int checkedIconSize = 2130903211;
+			public const int checkedIconMargin = 2130903211;
 			
 			// aapt resource value: 0x7F0300AC
-			public const int checkedIconTint = 2130903212;
+			public const int checkedIconSize = 2130903212;
 			
 			// aapt resource value: 0x7F0300AD
-			public const int checkedIconVisible = 2130903213;
+			public const int checkedIconTint = 2130903213;
 			
 			// aapt resource value: 0x7F0300AE
-			public const int checkedTextViewStyle = 2130903214;
+			public const int checkedIconVisible = 2130903214;
 			
 			// aapt resource value: 0x7F0300AF
-			public const int chipBackgroundColor = 2130903215;
+			public const int checkedTextViewStyle = 2130903215;
 			
 			// aapt resource value: 0x7F0300B0
-			public const int chipCornerRadius = 2130903216;
+			public const int chipBackgroundColor = 2130903216;
 			
 			// aapt resource value: 0x7F0300B1
-			public const int chipEndPadding = 2130903217;
+			public const int chipCornerRadius = 2130903217;
 			
 			// aapt resource value: 0x7F0300B2
-			public const int chipGroupStyle = 2130903218;
+			public const int chipEndPadding = 2130903218;
 			
 			// aapt resource value: 0x7F0300B3
-			public const int chipIcon = 2130903219;
+			public const int chipGroupStyle = 2130903219;
 			
 			// aapt resource value: 0x7F0300B4
-			public const int chipIconEnabled = 2130903220;
+			public const int chipIcon = 2130903220;
 			
 			// aapt resource value: 0x7F0300B5
-			public const int chipIconSize = 2130903221;
+			public const int chipIconEnabled = 2130903221;
 			
 			// aapt resource value: 0x7F0300B6
-			public const int chipIconTint = 2130903222;
+			public const int chipIconSize = 2130903222;
 			
 			// aapt resource value: 0x7F0300B7
-			public const int chipIconVisible = 2130903223;
+			public const int chipIconTint = 2130903223;
 			
 			// aapt resource value: 0x7F0300B8
-			public const int chipMinHeight = 2130903224;
+			public const int chipIconVisible = 2130903224;
 			
 			// aapt resource value: 0x7F0300B9
-			public const int chipMinTouchTargetSize = 2130903225;
+			public const int chipMinHeight = 2130903225;
 			
 			// aapt resource value: 0x7F0300BA
-			public const int chipSpacing = 2130903226;
+			public const int chipMinTouchTargetSize = 2130903226;
 			
 			// aapt resource value: 0x7F0300BB
-			public const int chipSpacingHorizontal = 2130903227;
+			public const int chipSpacing = 2130903227;
 			
 			// aapt resource value: 0x7F0300BC
-			public const int chipSpacingVertical = 2130903228;
+			public const int chipSpacingHorizontal = 2130903228;
 			
 			// aapt resource value: 0x7F0300BD
-			public const int chipStandaloneStyle = 2130903229;
+			public const int chipSpacingVertical = 2130903229;
 			
 			// aapt resource value: 0x7F0300BE
-			public const int chipStartPadding = 2130903230;
+			public const int chipStandaloneStyle = 2130903230;
 			
 			// aapt resource value: 0x7F0300BF
-			public const int chipStrokeColor = 2130903231;
+			public const int chipStartPadding = 2130903231;
 			
 			// aapt resource value: 0x7F0300C0
-			public const int chipStrokeWidth = 2130903232;
+			public const int chipStrokeColor = 2130903232;
 			
 			// aapt resource value: 0x7F0300C1
-			public const int chipStyle = 2130903233;
+			public const int chipStrokeWidth = 2130903233;
 			
 			// aapt resource value: 0x7F0300C2
-			public const int chipSurfaceColor = 2130903234;
+			public const int chipStyle = 2130903234;
 			
 			// aapt resource value: 0x7F0300C3
-			public const int circleRadius = 2130903235;
-			
-			// aapt resource value: 0x7F0300C5
-			public const int circularflow_angles = 2130903237;
-			
-			// aapt resource value: 0x7F0300C6
-			public const int circularflow_defaultAngle = 2130903238;
-			
-			// aapt resource value: 0x7F0300C7
-			public const int circularflow_defaultRadius = 2130903239;
-			
-			// aapt resource value: 0x7F0300C8
-			public const int circularflow_radiusInDP = 2130903240;
-			
-			// aapt resource value: 0x7F0300C9
-			public const int circularflow_viewCenter = 2130903241;
+			public const int chipSurfaceColor = 2130903235;
 			
 			// aapt resource value: 0x7F0300C4
-			public const int circularProgressIndicatorStyle = 2130903236;
+			public const int circleRadius = 2130903236;
+			
+			// aapt resource value: 0x7F0300C6
+			public const int circularflow_angles = 2130903238;
+			
+			// aapt resource value: 0x7F0300C7
+			public const int circularflow_defaultAngle = 2130903239;
+			
+			// aapt resource value: 0x7F0300C8
+			public const int circularflow_defaultRadius = 2130903240;
+			
+			// aapt resource value: 0x7F0300C9
+			public const int circularflow_radiusInDP = 2130903241;
 			
 			// aapt resource value: 0x7F0300CA
-			public const int clearsTag = 2130903242;
+			public const int circularflow_viewCenter = 2130903242;
+			
+			// aapt resource value: 0x7F0300C5
+			public const int circularProgressIndicatorStyle = 2130903237;
 			
 			// aapt resource value: 0x7F0300CB
-			public const int clickAction = 2130903243;
+			public const int clearsTag = 2130903243;
 			
 			// aapt resource value: 0x7F0300CC
-			public const int clockFaceBackgroundColor = 2130903244;
+			public const int clickAction = 2130903244;
 			
 			// aapt resource value: 0x7F0300CD
-			public const int clockHandColor = 2130903245;
+			public const int clockFaceBackgroundColor = 2130903245;
 			
 			// aapt resource value: 0x7F0300CE
-			public const int clockIcon = 2130903246;
+			public const int clockHandColor = 2130903246;
 			
 			// aapt resource value: 0x7F0300CF
-			public const int clockNumberTextColor = 2130903247;
+			public const int clockIcon = 2130903247;
 			
 			// aapt resource value: 0x7F0300D0
-			public const int closeIcon = 2130903248;
+			public const int clockNumberTextColor = 2130903248;
 			
 			// aapt resource value: 0x7F0300D1
-			public const int closeIconEnabled = 2130903249;
+			public const int closeIcon = 2130903249;
 			
 			// aapt resource value: 0x7F0300D2
-			public const int closeIconEndPadding = 2130903250;
+			public const int closeIconEnabled = 2130903250;
 			
 			// aapt resource value: 0x7F0300D3
-			public const int closeIconSize = 2130903251;
+			public const int closeIconEndPadding = 2130903251;
 			
 			// aapt resource value: 0x7F0300D4
-			public const int closeIconStartPadding = 2130903252;
+			public const int closeIconSize = 2130903252;
 			
 			// aapt resource value: 0x7F0300D5
-			public const int closeIconTint = 2130903253;
+			public const int closeIconStartPadding = 2130903253;
 			
 			// aapt resource value: 0x7F0300D6
-			public const int closeIconVisible = 2130903254;
+			public const int closeIconTint = 2130903254;
 			
 			// aapt resource value: 0x7F0300D7
-			public const int closeItemLayout = 2130903255;
+			public const int closeIconVisible = 2130903255;
 			
 			// aapt resource value: 0x7F0300D8
-			public const int collapseContentDescription = 2130903256;
-			
-			// aapt resource value: 0x7F0300DA
-			public const int collapsedSize = 2130903258;
-			
-			// aapt resource value: 0x7F0300DB
-			public const int collapsedTitleGravity = 2130903259;
-			
-			// aapt resource value: 0x7F0300DC
-			public const int collapsedTitleTextAppearance = 2130903260;
+			public const int closeItemLayout = 2130903256;
 			
 			// aapt resource value: 0x7F0300D9
-			public const int collapseIcon = 2130903257;
+			public const int collapseContentDescription = 2130903257;
+			
+			// aapt resource value: 0x7F0300DB
+			public const int collapsedSize = 2130903259;
+			
+			// aapt resource value: 0x7F0300DC
+			public const int collapsedTitleGravity = 2130903260;
 			
 			// aapt resource value: 0x7F0300DD
-			public const int collapsingToolbarLayoutStyle = 2130903261;
+			public const int collapsedTitleTextAppearance = 2130903261;
+			
+			// aapt resource value: 0x7F0300DA
+			public const int collapseIcon = 2130903258;
 			
 			// aapt resource value: 0x7F0300DE
-			public const int collectionViewStyle = 2130903262;
+			public const int collapsingToolbarLayoutStyle = 2130903262;
 			
 			// aapt resource value: 0x7F0300DF
-			public const int color = 2130903263;
+			public const int collectionViewStyle = 2130903263;
 			
 			// aapt resource value: 0x7F0300E0
-			public const int colorAccent = 2130903264;
+			public const int color = 2130903264;
 			
 			// aapt resource value: 0x7F0300E1
-			public const int colorBackgroundFloating = 2130903265;
+			public const int colorAccent = 2130903265;
 			
 			// aapt resource value: 0x7F0300E2
-			public const int colorButtonNormal = 2130903266;
+			public const int colorBackgroundFloating = 2130903266;
 			
 			// aapt resource value: 0x7F0300E3
-			public const int colorControlActivated = 2130903267;
+			public const int colorButtonNormal = 2130903267;
 			
 			// aapt resource value: 0x7F0300E4
-			public const int colorControlHighlight = 2130903268;
+			public const int colorControlActivated = 2130903268;
 			
 			// aapt resource value: 0x7F0300E5
-			public const int colorControlNormal = 2130903269;
+			public const int colorControlHighlight = 2130903269;
 			
 			// aapt resource value: 0x7F0300E6
-			public const int colorError = 2130903270;
+			public const int colorControlNormal = 2130903270;
 			
 			// aapt resource value: 0x7F0300E7
-			public const int colorOnBackground = 2130903271;
+			public const int colorError = 2130903271;
 			
 			// aapt resource value: 0x7F0300E8
-			public const int colorOnError = 2130903272;
+			public const int colorOnBackground = 2130903272;
 			
 			// aapt resource value: 0x7F0300E9
-			public const int colorOnPrimary = 2130903273;
+			public const int colorOnError = 2130903273;
 			
 			// aapt resource value: 0x7F0300EA
-			public const int colorOnPrimarySurface = 2130903274;
+			public const int colorOnPrimary = 2130903274;
 			
 			// aapt resource value: 0x7F0300EB
-			public const int colorOnSecondary = 2130903275;
+			public const int colorOnPrimarySurface = 2130903275;
 			
 			// aapt resource value: 0x7F0300EC
-			public const int colorOnSurface = 2130903276;
+			public const int colorOnSecondary = 2130903276;
 			
 			// aapt resource value: 0x7F0300ED
-			public const int colorPrimary = 2130903277;
+			public const int colorOnSurface = 2130903277;
 			
 			// aapt resource value: 0x7F0300EE
-			public const int colorPrimaryDark = 2130903278;
+			public const int colorPrimary = 2130903278;
 			
 			// aapt resource value: 0x7F0300EF
-			public const int colorPrimarySurface = 2130903279;
+			public const int colorPrimaryDark = 2130903279;
 			
 			// aapt resource value: 0x7F0300F0
-			public const int colorPrimaryVariant = 2130903280;
+			public const int colorPrimarySurface = 2130903280;
 			
 			// aapt resource value: 0x7F0300F1
-			public const int colorSecondary = 2130903281;
+			public const int colorPrimaryVariant = 2130903281;
 			
 			// aapt resource value: 0x7F0300F2
-			public const int colorSecondaryVariant = 2130903282;
+			public const int colorSecondary = 2130903282;
 			
 			// aapt resource value: 0x7F0300F3
-			public const int colorSurface = 2130903283;
+			public const int colorSecondaryVariant = 2130903283;
 			
 			// aapt resource value: 0x7F0300F4
-			public const int colorSwitchThumbNormal = 2130903284;
+			public const int colorSurface = 2130903284;
 			
 			// aapt resource value: 0x7F0300F5
-			public const int commitIcon = 2130903285;
+			public const int colorSwitchThumbNormal = 2130903285;
 			
 			// aapt resource value: 0x7F0300F6
-			public const int constraintRotate = 2130903286;
+			public const int commitIcon = 2130903286;
+			
+			// aapt resource value: 0x7F030000
+			public const int ConstraintRotate = 2130903040;
 			
 			// aapt resource value: 0x7F0300FC
 			public const int constraints = 2130903292;
@@ -18764,11 +13571,11 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0x7F030343
 			public const int shapeAppearanceSmallComponent = 2130903875;
 			
-			// aapt resource value: 0x7F030000
-			public const int SharedValue = 2130903040;
-			
 			// aapt resource value: 0x7F030001
-			public const int SharedValueId = 2130903041;
+			public const int SharedValue = 2130903041;
+			
+			// aapt resource value: 0x7F030002
+			public const int SharedValueId = 2130903042;
 			
 			// aapt resource value: 0x7F030344
 			public const int shortcutMatchRequired = 2130903876;
@@ -26799,11 +21606,11 @@ namespace AutoAppo_StevenVR.Droid
 		public partial class Styleable
 		{
 			
-			// aapt resource value: { 0x7F030052,0x7F030059,0x7F03005A,0x7F0300FF,0x7F030100,0x7F030101,0x7F030102,0x7F030103,0x7F030104,0x7F03012A,0x7F030146,0x7F030147,0x7F030162,0x7F0301C1,0x7F0301C8,0x7F0301CE,0x7F0301CF,0x7F0301D2,0x7F0301E4,0x7F0301F8,0x7F03026E,0x7F0302C8,0x7F030301,0x7F030312,0x7F030313,0x7F030379,0x7F03037D,0x7F0303EE,0x7F0303FA }
+			// aapt resource value: { 0x7F030053,0x7F03005A,0x7F03005B,0x7F0300FF,0x7F030100,0x7F030101,0x7F030102,0x7F030103,0x7F030104,0x7F03012A,0x7F030146,0x7F030147,0x7F030162,0x7F0301C1,0x7F0301C8,0x7F0301CE,0x7F0301CF,0x7F0301D2,0x7F0301E4,0x7F0301F8,0x7F03026E,0x7F0302C8,0x7F030301,0x7F030312,0x7F030313,0x7F030379,0x7F03037D,0x7F0303EE,0x7F0303FA }
 			public static int[] ActionBar = new int[] {
-					2130903122,
-					2130903129,
+					2130903123,
 					2130903130,
+					2130903131,
 					2130903295,
 					2130903296,
 					2130903297,
@@ -26936,11 +21743,11 @@ namespace AutoAppo_StevenVR.Droid
 			public static int[] ActionMenuView = new int[] {
 					-1};
 			
-			// aapt resource value: { 0x7F030052,0x7F030059,0x7F0300D7,0x7F0301C1,0x7F03037D,0x7F0303FA }
+			// aapt resource value: { 0x7F030053,0x7F03005A,0x7F0300D8,0x7F0301C1,0x7F03037D,0x7F0303FA }
 			public static int[] ActionMode = new int[] {
-					2130903122,
-					2130903129,
-					2130903255,
+					2130903123,
+					2130903130,
+					2130903256,
 					2130903489,
 					2130903933,
 					2130904058};
@@ -26974,10 +21781,10 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int ActivityChooserView_initialActivityCount = 1;
 			
-			// aapt resource value: { 0x1010003,0x7F030002,0x7F03012E,0x7F03012F,0x7F0303AA }
+			// aapt resource value: { 0x1010003,0x7F030003,0x7F03012E,0x7F03012F,0x7F0303AA }
 			public static int[] ActivityNavigator = new int[] {
 					16842755,
-					2130903042,
+					2130903043,
 					2130903342,
 					2130903343,
 					2130903978};
@@ -26997,11 +21804,11 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 4
 			public const int ActivityNavigator_targetPackage = 4;
 			
-			// aapt resource value: { 0x10100F2,0x7F03008B,0x7F03008C,0x7F030263,0x7F030264,0x7F0302C3,0x7F03034E,0x7F030350 }
+			// aapt resource value: { 0x10100F2,0x7F03008C,0x7F03008D,0x7F030263,0x7F030264,0x7F0302C3,0x7F03034E,0x7F030350 }
 			public static int[] AlertDialog = new int[] {
 					16842994,
-					2130903179,
 					2130903180,
+					2130903181,
 					2130903651,
 					2130903652,
 					2130903747,
@@ -27223,14 +22030,14 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int AppCompatTextHelper_android_textAppearance = 0;
 			
-			// aapt resource value: { 0x1010034,0x7F03004C,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F03014F,0x7F030150,0x7F030151,0x7F030152,0x7F030154,0x7F030155,0x7F030156,0x7F030157,0x7F030195,0x7F0301AB,0x7F0301B4,0x7F03020F,0x7F03025C,0x7F0303AE,0x7F0303D0 }
+			// aapt resource value: { 0x1010034,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F030051,0x7F03014F,0x7F030150,0x7F030151,0x7F030152,0x7F030154,0x7F030155,0x7F030156,0x7F030157,0x7F030195,0x7F0301AB,0x7F0301B4,0x7F03020F,0x7F03025C,0x7F0303AE,0x7F0303D0 }
 			public static int[] AppCompatTextView = new int[] {
 					16842804,
-					2130903116,
 					2130903117,
 					2130903118,
 					2130903119,
 					2130903120,
+					2130903121,
 					2130903375,
 					2130903376,
 					2130903377,
@@ -27310,11 +22117,10 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 20
 			public const int AppCompatTextView_textLocale = 20;
 			
-			// aapt resource value: { 0x1010057,0x10100AE,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000D,0x7F03000E,0x7F03000F,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F03001F,0x7F030020,0x7F030021,0x7F030022,0x7F030023,0x7F030027,0x7F030035,0x7F030036,0x7F030037,0x7F030038,0x7F03004B,0x7F030073,0x7F030084,0x7F030085,0x7F030086,0x7F030087,0x7F030088,0x7F03008D,0x7F03008E,0x7F0300A5,0x7F0300AE,0x7F0300E0,0x7F0300E1,0x7F0300E2,0x7F0300E3,0x7F0300E4,0x7F0300E5,0x7F0300E6,0x7F0300ED,0x7F0300EE,0x7F0300F4,0x7F03010E,0x7F03013D,0x7F030142,0x7F030143,0x7F030148,0x7F03014A,0x7F03015A,0x7F03015B,0x7F03015E,0x7F03015F,0x7F030161,0x7F0301CE,0x7F0301DE,0x7F03025F,0x7F030260,0x7F030261,0x7F030262,0x7F030265,0x7F030266,0x7F030267,0x7F030268,0x7F030269,0x7F03026A,0x7F03026B,0x7F03026C,0x7F03026D,0x7F0302E5,0x7F0302E6,0x7F0302E7,0x7F030300,0x7F030302,0x7F03031A,0x7F03031C,0x7F03031D,0x7F03031E,0x7F030335,0x7F030338,0x7F03033A,0x7F03033B,0x7F03035B,0x7F03035C,0x7F03038A,0x7F0303B9,0x7F0303BB,0x7F0303BC,0x7F0303BD,0x7F0303BF,0x7F0303C0,0x7F0303C1,0x7F0303C2,0x7F0303CA,0x7F0303CB,0x7F0303FC,0x7F0303FD,0x7F0303FE,0x7F0303FF,0x7F030420,0x7F03042F,0x7F030430,0x7F030431,0x7F030432,0x7F030433,0x7F030434,0x7F030435,0x7F030436,0x7F030437,0x7F030438 }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000D,0x7F03000E,0x7F03000F,0x7F030010,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F03001F,0x7F030020,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030028,0x7F030036,0x7F030037,0x7F030038,0x7F030039,0x7F03004C,0x7F030074,0x7F030085,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008E,0x7F03008F,0x7F0300A6,0x7F0300AF,0x7F0300E1,0x7F0300E2,0x7F0300E3,0x7F0300E4,0x7F0300E5,0x7F0300E6,0x7F0300E7,0x7F0300EE,0x7F0300EF,0x7F0300F5,0x7F03010E,0x7F03013D,0x7F030142,0x7F030143,0x7F030148,0x7F03014A,0x7F03015A,0x7F03015B,0x7F03015E,0x7F03015F,0x7F030161,0x7F0301CE,0x7F0301DE,0x7F03025F,0x7F030260,0x7F030261,0x7F030262,0x7F030265,0x7F030266,0x7F030267,0x7F030268,0x7F030269,0x7F03026A,0x7F03026B,0x7F03026C,0x7F03026D,0x7F0302E5,0x7F0302E6,0x7F0302E7,0x7F030300,0x7F030302,0x7F03031A,0x7F03031C,0x7F03031D,0x7F03031E,0x7F030335,0x7F030338,0x7F03033A,0x7F03033B,0x7F03035B,0x7F03035C,0x7F03038A,0x7F0303B9,0x7F0303BB,0x7F0303BC,0x7F0303BD,0x7F0303BF,0x7F0303C0,0x7F0303C1,0x7F0303C2,0x7F0303CA,0x7F0303CB,0x7F0303FC,0x7F0303FD,0x7F0303FE,0x7F0303FF,0x7F030420,0x7F03042F,0x7F030430,0x7F030431,0x7F030432,0x7F030433,0x7F030434,0x7F030435,0x7F030436,0x7F030437,0x7F030438 }
 			public static int[] AppCompatTheme = new int[] {
 					16842839,
 					16842926,
-					2130903043,
 					2130903044,
 					2130903045,
 					2130903046,
@@ -27327,7 +22133,7 @@ namespace AutoAppo_StevenVR.Droid
 					2130903053,
 					2130903054,
 					2130903055,
-					2130903057,
+					2130903056,
 					2130903058,
 					2130903059,
 					2130903060,
@@ -27346,32 +22152,33 @@ namespace AutoAppo_StevenVR.Droid
 					2130903073,
 					2130903074,
 					2130903075,
-					2130903079,
-					2130903093,
+					2130903076,
+					2130903080,
 					2130903094,
 					2130903095,
 					2130903096,
-					2130903115,
-					2130903155,
-					2130903172,
+					2130903097,
+					2130903116,
+					2130903156,
 					2130903173,
 					2130903174,
 					2130903175,
 					2130903176,
-					2130903181,
+					2130903177,
 					2130903182,
-					2130903205,
-					2130903214,
-					2130903264,
+					2130903183,
+					2130903206,
+					2130903215,
 					2130903265,
 					2130903266,
 					2130903267,
 					2130903268,
 					2130903269,
 					2130903270,
-					2130903277,
+					2130903271,
 					2130903278,
-					2130903284,
+					2130903279,
+					2130903285,
 					2130903310,
 					2130903357,
 					2130903362,
@@ -27832,11 +22639,11 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int BackgroundStyle_selectableItemBackground = 1;
 			
-			// aapt resource value: { 0x7F030053,0x7F03005D,0x7F03005F,0x7F0301D0,0x7F03028F,0x7F0302D0,0x7F03041F }
+			// aapt resource value: { 0x7F030054,0x7F03005E,0x7F030060,0x7F0301D0,0x7F03028F,0x7F0302D0,0x7F03041F }
 			public static int[] Badge = new int[] {
-					2130903123,
-					2130903133,
-					2130903135,
+					2130903124,
+					2130903134,
+					2130903136,
 					2130903504,
 					2130903695,
 					2130903760,
@@ -27902,9 +22709,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 8
 			public const int BaseProgressIndicator_trackThickness = 8;
 			
-			// aapt resource value: { 0x7F03005B,0x7F030162,0x7F030189,0x7F03018A,0x7F03018B,0x7F03018C,0x7F03018D,0x7F0301C9,0x7F0302DE,0x7F0302E0,0x7F0302E1 }
+			// aapt resource value: { 0x7F03005C,0x7F030162,0x7F030189,0x7F03018A,0x7F03018B,0x7F03018C,0x7F03018D,0x7F0301C9,0x7F0302DE,0x7F0302E0,0x7F0302E1 }
 			public static int[] BottomAppBar = new int[] {
-					2130903131,
+					2130903132,
 					2130903394,
 					2130903433,
 					2130903434,
@@ -27956,19 +22763,19 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int BottomNavigationView_itemHorizontalTranslationEnabled = 0;
 			
-			// aapt resource value: { 0x101011F,0x1010440,0x7F03005B,0x7F030066,0x7F030067,0x7F030068,0x7F030069,0x7F03006A,0x7F03006C,0x7F03006D,0x7F03006E,0x7F0301BB,0x7F0302DE,0x7F0302E0,0x7F0302E1,0x7F0302E4,0x7F03033F,0x7F030342 }
+			// aapt resource value: { 0x101011F,0x1010440,0x7F03005C,0x7F030067,0x7F030068,0x7F030069,0x7F03006A,0x7F03006B,0x7F03006D,0x7F03006E,0x7F03006F,0x7F0301BB,0x7F0302DE,0x7F0302E0,0x7F0302E1,0x7F0302E4,0x7F03033F,0x7F030342 }
 			public static int[] BottomSheetBehavior_Layout = new int[] {
 					16843039,
 					16843840,
-					2130903131,
-					2130903142,
+					2130903132,
 					2130903143,
 					2130903144,
 					2130903145,
 					2130903146,
-					2130903148,
+					2130903147,
 					2130903149,
 					2130903150,
+					2130903151,
 					2130903483,
 					2130903774,
 					2130903776,
@@ -28031,9 +22838,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 17
 			public const int BottomSheetBehavior_Layout_shapeAppearanceOverlay = 17;
 			
-			// aapt resource value: { 0x7F03003C }
+			// aapt resource value: { 0x7F03003D }
 			public static int[] ButtonBarLayout = new int[] {
-					2130903100};
+					2130903101};
 			
 			// aapt resource value: 0
 			public const int ButtonBarLayout_allowStacking = 0;
@@ -28049,16 +22856,16 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int Capability_shortcutMatchRequired = 1;
 			
-			// aapt resource value: { 0x101013F,0x1010140,0x7F030091,0x7F030092,0x7F030093,0x7F030095,0x7F030096,0x7F030097,0x7F030105,0x7F030106,0x7F030108,0x7F030109,0x7F03010B }
+			// aapt resource value: { 0x101013F,0x1010140,0x7F030092,0x7F030093,0x7F030094,0x7F030096,0x7F030097,0x7F030098,0x7F030105,0x7F030106,0x7F030108,0x7F030109,0x7F03010B }
 			public static int[] CardView = new int[] {
 					16843071,
 					16843072,
-					2130903185,
 					2130903186,
 					2130903187,
-					2130903189,
+					2130903188,
 					2130903190,
 					2130903191,
+					2130903192,
 					2130903301,
 					2130903302,
 					2130903304,
@@ -28104,9 +22911,8 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 12
 			public const int CardView_contentPaddingTop = 12;
 			
-			// aapt resource value: { 0x7F030099,0x7F03009A,0x7F03009B,0x7F03009C,0x7F03009D,0x7F03009E,0x7F03009F,0x7F0300A0,0x7F0300A1,0x7F0300A2 }
+			// aapt resource value: { 0x7F03009A,0x7F03009B,0x7F03009C,0x7F03009D,0x7F03009E,0x7F03009F,0x7F0300A0,0x7F0300A1,0x7F0300A2,0x7F0300A3 }
 			public static int[] Carousel = new int[] {
-					2130903193,
 					2130903194,
 					2130903195,
 					2130903196,
@@ -28115,7 +22921,8 @@ namespace AutoAppo_StevenVR.Droid
 					2130903199,
 					2130903200,
 					2130903201,
-					2130903202};
+					2130903202,
+					2130903203};
 			
 			// aapt resource value: 0
 			public const int Carousel_carousel_backwardTransition = 0;
@@ -28174,7 +22981,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 5
 			public const int CheckBoxPreference_summaryOn = 5;
 			
-			// aapt resource value: { 0x1010034,0x1010095,0x1010098,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F0300A8,0x7F0300A9,0x7F0300AC,0x7F0300AD,0x7F0300AF,0x7F0300B0,0x7F0300B1,0x7F0300B3,0x7F0300B4,0x7F0300B5,0x7F0300B6,0x7F0300B7,0x7F0300B8,0x7F0300B9,0x7F0300BE,0x7F0300BF,0x7F0300C0,0x7F0300C2,0x7F0300D0,0x7F0300D1,0x7F0300D2,0x7F0300D3,0x7F0300D4,0x7F0300D5,0x7F0300D6,0x7F030170,0x7F0301C7,0x7F0301D3,0x7F0301D8,0x7F030329,0x7F03033F,0x7F030342,0x7F03034A,0x7F0303CC,0x7F0303D5 }
+			// aapt resource value: { 0x1010034,0x1010095,0x1010098,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F0300A9,0x7F0300AA,0x7F0300AD,0x7F0300AE,0x7F0300B0,0x7F0300B1,0x7F0300B2,0x7F0300B4,0x7F0300B5,0x7F0300B6,0x7F0300B7,0x7F0300B8,0x7F0300B9,0x7F0300BA,0x7F0300BF,0x7F0300C0,0x7F0300C1,0x7F0300C3,0x7F0300D1,0x7F0300D2,0x7F0300D3,0x7F0300D4,0x7F0300D5,0x7F0300D6,0x7F0300D7,0x7F030170,0x7F0301C7,0x7F0301D3,0x7F0301D8,0x7F030329,0x7F03033F,0x7F030342,0x7F03034A,0x7F0303CC,0x7F0303D5 }
 			public static int[] Chip = new int[] {
 					16842804,
 					16842901,
@@ -28183,31 +22990,31 @@ namespace AutoAppo_StevenVR.Droid
 					16843039,
 					16843087,
 					16843237,
-					2130903208,
 					2130903209,
-					2130903212,
+					2130903210,
 					2130903213,
-					2130903215,
+					2130903214,
 					2130903216,
 					2130903217,
-					2130903219,
+					2130903218,
 					2130903220,
 					2130903221,
 					2130903222,
 					2130903223,
 					2130903224,
 					2130903225,
-					2130903230,
+					2130903226,
 					2130903231,
 					2130903232,
-					2130903234,
-					2130903248,
+					2130903233,
+					2130903235,
 					2130903249,
 					2130903250,
 					2130903251,
 					2130903252,
 					2130903253,
 					2130903254,
+					2130903255,
 					2130903408,
 					2130903495,
 					2130903507,
@@ -28219,12 +23026,12 @@ namespace AutoAppo_StevenVR.Droid
 					2130904012,
 					2130904021};
 			
-			// aapt resource value: { 0x7F0300A7,0x7F0300BA,0x7F0300BB,0x7F0300BC,0x7F03033C,0x7F030351,0x7F030353 }
+			// aapt resource value: { 0x7F0300A8,0x7F0300BB,0x7F0300BC,0x7F0300BD,0x7F03033C,0x7F030351,0x7F030353 }
 			public static int[] ChipGroup = new int[] {
-					2130903207,
-					2130903226,
+					2130903208,
 					2130903227,
 					2130903228,
+					2130903229,
 					2130903868,
 					2130903889,
 					2130903891};
@@ -28391,10 +23198,10 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int CircularProgressIndicator_indicatorSize = 2;
 			
-			// aapt resource value: { 0x7F0300CC,0x7F0300CF }
+			// aapt resource value: { 0x7F0300CD,0x7F0300D0 }
 			public static int[] ClockFaceView = new int[] {
-					2130903244,
-					2130903247};
+					2130903245,
+					2130903248};
 			
 			// aapt resource value: 0
 			public const int ClockFaceView_clockFaceBackgroundColor = 0;
@@ -28402,9 +23209,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int ClockFaceView_clockNumberTextColor = 1;
 			
-			// aapt resource value: { 0x7F0300CD,0x7F030287,0x7F03033D }
+			// aapt resource value: { 0x7F0300CE,0x7F030287,0x7F03033D }
 			public static int[] ClockHandView = new int[] {
-					2130903245,
+					2130903246,
 					2130903687,
 					2130903869};
 			
@@ -28417,10 +23224,10 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int ClockHandView_selectorSize = 2;
 			
-			// aapt resource value: { 0x7F0300DB,0x7F0300DC,0x7F03010C,0x7F03017F,0x7F030180,0x7F030181,0x7F030182,0x7F030183,0x7F030184,0x7F030185,0x7F030188,0x7F0301B6,0x7F030292,0x7F03032F,0x7F030331,0x7F030374,0x7F0303EE,0x7F0303F0,0x7F0303F1,0x7F0303FB }
+			// aapt resource value: { 0x7F0300DC,0x7F0300DD,0x7F03010C,0x7F03017F,0x7F030180,0x7F030181,0x7F030182,0x7F030183,0x7F030184,0x7F030185,0x7F030188,0x7F0301B6,0x7F030292,0x7F03032F,0x7F030331,0x7F030374,0x7F0303EE,0x7F0303F0,0x7F0303F1,0x7F0303FB }
 			public static int[] CollapsingToolbarLayout = new int[] {
-					2130903259,
 					2130903260,
+					2130903261,
 					2130903308,
 					2130903423,
 					2130903424,
@@ -28511,11 +23318,11 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 19
 			public const int CollapsingToolbarLayout_toolbarId = 19;
 			
-			// aapt resource value: { 0x10101A5,0x101031F,0x7F03003D }
+			// aapt resource value: { 0x10101A5,0x101031F,0x7F03003E }
 			public static int[] ColorStateListItem = new int[] {
 					16843173,
 					16843551,
-					2130903101};
+					2130903102};
 			
 			// aapt resource value: 2
 			public const int ColorStateListItem_alpha = 2;
@@ -28526,12 +23333,12 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int ColorStateListItem_android_color = 0;
 			
-			// aapt resource value: { 0x1010107,0x7F030089,0x7F03008F,0x7F030090 }
+			// aapt resource value: { 0x1010107,0x7F03008A,0x7F030090,0x7F030091 }
 			public static int[] CompoundButton = new int[] {
 					16843015,
-					2130903177,
-					2130903183,
-					2130903184};
+					2130903178,
+					2130903184,
+					2130903185};
 			
 			// aapt resource value: 0
 			public const int CompoundButton_android_button = 0;
@@ -28545,7 +23352,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 3
 			public const int CompoundButton_buttonTintMode = 3;
 			
-			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030040,0x7F030041,0x7F030061,0x7F030062,0x7F030063,0x7F0300A3,0x7F0300FA,0x7F0300FB,0x7F03014E,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D,0x7F03021E,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030223,0x7F030224,0x7F030225,0x7F030226,0x7F030227,0x7F030228,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022C,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030258,0x7F0302BD,0x7F0302BE,0x7F0302ED,0x7F0302F5,0x7F0302FA,0x7F030314,0x7F030315,0x7F030316,0x7F03040E,0x7F030410,0x7F030412,0x7F030425 }
+			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030041,0x7F030042,0x7F030062,0x7F030063,0x7F030064,0x7F0300A4,0x7F0300FA,0x7F0300FB,0x7F03014E,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D,0x7F03021E,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030223,0x7F030224,0x7F030225,0x7F030226,0x7F030227,0x7F030228,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022C,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030258,0x7F0302BD,0x7F0302BE,0x7F0302ED,0x7F0302F5,0x7F0302FA,0x7F030314,0x7F030315,0x7F030316,0x7F03040E,0x7F030410,0x7F030412,0x7F030425 }
 			public static int[] Constraint = new int[] {
 					16842948,
 					16842960,
@@ -28574,12 +23381,12 @@ namespace AutoAppo_StevenVR.Droid
 					16843702,
 					16843770,
 					16843840,
-					2130903104,
 					2130903105,
-					2130903137,
+					2130903106,
 					2130903138,
 					2130903139,
-					2130903203,
+					2130903140,
+					2130903204,
 					2130903290,
 					2130903291,
 					2130903374,
@@ -28671,7 +23478,7 @@ namespace AutoAppo_StevenVR.Droid
 					2130904082,
 					2130904101};
 			
-			// aapt resource value: { 0x10100C4,0x10100D5,0x10100D6,0x10100D7,0x10100D8,0x10100D9,0x10100DC,0x10100F4,0x10100F5,0x10100F6,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x10103B3,0x10103B4,0x10103B5,0x10103B6,0x1010440,0x101053B,0x101053C,0x7F030061,0x7F030062,0x7F030063,0x7F0300A3,0x7F0300C5,0x7F0300C6,0x7F0300C7,0x7F0300C8,0x7F0300C9,0x7F0300F7,0x7F0300FA,0x7F0300FB,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F030212,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D,0x7F03021E,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030223,0x7F030224,0x7F030225,0x7F030226,0x7F030227,0x7F030228,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022C,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030255,0x7F030258 }
+			// aapt resource value: { 0x10100C4,0x10100D5,0x10100D6,0x10100D7,0x10100D8,0x10100D9,0x10100DC,0x10100F4,0x10100F5,0x10100F6,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x10103B3,0x10103B4,0x10103B5,0x10103B6,0x1010440,0x101053B,0x101053C,0x7F030062,0x7F030063,0x7F030064,0x7F0300A4,0x7F0300C6,0x7F0300C7,0x7F0300C8,0x7F0300C9,0x7F0300CA,0x7F0300F7,0x7F0300FA,0x7F0300FB,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F030212,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D,0x7F03021E,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030223,0x7F030224,0x7F030225,0x7F030226,0x7F030227,0x7F030228,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022C,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030255,0x7F030258 }
 			public static int[] ConstraintLayout_Layout = new int[] {
 					16842948,
 					16842965,
@@ -28698,15 +23505,15 @@ namespace AutoAppo_StevenVR.Droid
 					16843840,
 					16844091,
 					16844092,
-					2130903137,
 					2130903138,
 					2130903139,
-					2130903203,
-					2130903237,
+					2130903140,
+					2130903204,
 					2130903238,
 					2130903239,
 					2130903240,
 					2130903241,
+					2130903242,
 					2130903287,
 					2130903290,
 					2130903291,
@@ -29160,7 +23967,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 3
 			public const int ConstraintLayout_ReactiveGuide_reactiveGuide_valueId = 3;
 			
-			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030040,0x7F030041,0x7F030061,0x7F030062,0x7F030063,0x7F0300A3,0x7F0300FA,0x7F03014E,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F03021A,0x7F03021B,0x7F03021C,0x7F030220,0x7F030224,0x7F030225,0x7F030226,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022C,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030237,0x7F03023C,0x7F03023D,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030258,0x7F0302BD,0x7F0302BE,0x7F0302BF,0x7F0302ED,0x7F0302F5,0x7F0302FA,0x7F030314,0x7F030315,0x7F030316,0x7F03040E,0x7F030410,0x7F030412,0x7F030425 }
+			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030041,0x7F030042,0x7F030062,0x7F030063,0x7F030064,0x7F0300A4,0x7F0300FA,0x7F03014E,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F03021A,0x7F03021B,0x7F03021C,0x7F030220,0x7F030224,0x7F030225,0x7F030226,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022C,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030237,0x7F03023C,0x7F03023D,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030258,0x7F0302BD,0x7F0302BE,0x7F0302BF,0x7F0302ED,0x7F0302F5,0x7F0302FA,0x7F030314,0x7F030315,0x7F030316,0x7F03040E,0x7F030410,0x7F030412,0x7F030425 }
 			public static int[] ConstraintOverride = new int[] {
 					16842948,
 					16842960,
@@ -29189,12 +23996,12 @@ namespace AutoAppo_StevenVR.Droid
 					16843702,
 					16843770,
 					16843840,
-					2130903104,
 					2130903105,
-					2130903137,
+					2130903106,
 					2130903138,
 					2130903139,
-					2130903203,
+					2130903140,
+					2130903204,
 					2130903290,
 					2130903374,
 					2130903447,
@@ -29591,7 +24398,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 106
 			public const int ConstraintOverride_visibilityMode = 106;
 			
-			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x10101B5,0x10101B6,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030040,0x7F030041,0x7F030061,0x7F030062,0x7F030063,0x7F0300A3,0x7F0300F6,0x7F0300FA,0x7F0300FB,0x7F03013B,0x7F03014E,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D,0x7F03021E,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030223,0x7F030224,0x7F030225,0x7F030226,0x7F030227,0x7F030228,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030258,0x7F0302BD,0x7F0302BE,0x7F0302ED,0x7F0302F5,0x7F0302FA,0x7F030316,0x7F030410,0x7F030412 }
+			// aapt resource value: { 0x10100C4,0x10100D0,0x10100DC,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x101011F,0x1010120,0x101013F,0x1010140,0x10101B5,0x10101B6,0x101031F,0x1010320,0x1010321,0x1010322,0x1010323,0x1010324,0x1010325,0x1010326,0x1010327,0x1010328,0x10103B5,0x10103B6,0x10103FA,0x1010440,0x7F030000,0x7F030041,0x7F030042,0x7F030062,0x7F030063,0x7F030064,0x7F0300A4,0x7F0300FA,0x7F0300FB,0x7F03013B,0x7F03014E,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D,0x7F03021E,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030223,0x7F030224,0x7F030225,0x7F030226,0x7F030227,0x7F030228,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023C,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030258,0x7F0302BD,0x7F0302BE,0x7F0302ED,0x7F0302F5,0x7F0302FA,0x7F030316,0x7F030410,0x7F030412 }
 			public static int[] ConstraintSet = new int[] {
 					16842948,
 					16842960,
@@ -29622,13 +24429,13 @@ namespace AutoAppo_StevenVR.Droid
 					16843702,
 					16843770,
 					16843840,
-					2130903104,
+					2130903040,
 					2130903105,
-					2130903137,
+					2130903106,
 					2130903138,
 					2130903139,
-					2130903203,
-					2130903286,
+					2130903140,
+					2130903204,
 					2130903290,
 					2130903291,
 					2130903355,
@@ -29802,26 +24609,26 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int ConstraintSet_android_visibility = 2;
 			
-			// aapt resource value: 29
-			public const int ConstraintSet_animateCircleAngleTo = 29;
-			
 			// aapt resource value: 30
-			public const int ConstraintSet_animateRelativeTo = 30;
+			public const int ConstraintSet_animateCircleAngleTo = 30;
 			
 			// aapt resource value: 31
-			public const int ConstraintSet_barrierAllowsGoneWidgets = 31;
+			public const int ConstraintSet_animateRelativeTo = 31;
 			
 			// aapt resource value: 32
-			public const int ConstraintSet_barrierDirection = 32;
+			public const int ConstraintSet_barrierAllowsGoneWidgets = 32;
 			
 			// aapt resource value: 33
-			public const int ConstraintSet_barrierMargin = 33;
+			public const int ConstraintSet_barrierDirection = 33;
 			
 			// aapt resource value: 34
-			public const int ConstraintSet_chainUseRtl = 34;
+			public const int ConstraintSet_barrierMargin = 34;
 			
 			// aapt resource value: 35
-			public const int ConstraintSet_constraintRotate = 35;
+			public const int ConstraintSet_chainUseRtl = 35;
+			
+			// aapt resource value: 29
+			public const int ConstraintSet_ConstraintRotate = 29;
 			
 			// aapt resource value: 36
 			public const int ConstraintSet_constraint_referenced_ids = 36;
@@ -30489,9 +25296,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int CoordinatorLayout_statusBarBackground = 1;
 			
-			// aapt resource value: { 0x7F030049,0x7F030124,0x7F030125,0x7F030126,0x7F030127,0x7F030128,0x7F030129,0x7F03012B,0x7F03012C,0x7F03012D,0x7F030298 }
+			// aapt resource value: { 0x7F03004A,0x7F030124,0x7F030125,0x7F030126,0x7F030127,0x7F030128,0x7F030129,0x7F03012B,0x7F03012C,0x7F03012D,0x7F030298 }
 			public static int[] CustomAttribute = new int[] {
-					2130903113,
+					2130903114,
 					2130903332,
 					2130903333,
 					2130903334,
@@ -30587,12 +25394,12 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 11
 			public const int DialogPreference_positiveButtonText = 11;
 			
-			// aapt resource value: { 0x7F030047,0x7F030048,0x7F030060,0x7F0300DF,0x7F030153,0x7F0301BA,0x7F03035A,0x7F0303DC }
+			// aapt resource value: { 0x7F030048,0x7F030049,0x7F030061,0x7F0300E0,0x7F030153,0x7F0301BA,0x7F03035A,0x7F0303DC }
 			public static int[] DrawerArrowToggle = new int[] {
-					2130903111,
 					2130903112,
-					2130903136,
-					2130903263,
+					2130903113,
+					2130903137,
+					2130903264,
 					2130903379,
 					2130903482,
 					2130903898,
@@ -30636,19 +25443,19 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int EditTextPreference_useSimpleSummaryProvider = 0;
 			
-			// aapt resource value: { 0x7F0300DA,0x7F030162,0x7F030186,0x7F0301C7,0x7F03034A,0x7F03034F }
+			// aapt resource value: { 0x7F0300DB,0x7F030162,0x7F030186,0x7F0301C7,0x7F03034A,0x7F03034F }
 			public static int[] ExtendedFloatingActionButton = new int[] {
-					2130903258,
+					2130903259,
 					2130903394,
 					2130903430,
 					2130903495,
 					2130903882,
 					2130903887};
 			
-			// aapt resource value: { 0x7F030064,0x7F030065 }
+			// aapt resource value: { 0x7F030065,0x7F030066 }
 			public static int[] ExtendedFloatingActionButton_Behavior_Layout = new int[] {
-					2130903140,
-					2130903141};
+					2130903141,
+					2130903142};
 			
 			// aapt resource value: 0
 			public const int ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
@@ -30674,12 +25481,12 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 5
 			public const int ExtendedFloatingActionButton_shrinkMotionSpec = 5;
 			
-			// aapt resource value: { 0x101000E,0x7F03005B,0x7F03005C,0x7F030072,0x7F030162,0x7F030170,0x7F03018E,0x7F03018F,0x7F0301C7,0x7F0301D1,0x7F030291,0x7F030311,0x7F030329,0x7F03033F,0x7F030342,0x7F03034A,0x7F03041B }
+			// aapt resource value: { 0x101000E,0x7F03005C,0x7F03005D,0x7F030073,0x7F030162,0x7F030170,0x7F03018E,0x7F03018F,0x7F0301C7,0x7F0301D1,0x7F030291,0x7F030311,0x7F030329,0x7F03033F,0x7F030342,0x7F03034A,0x7F03041B }
 			public static int[] FloatingActionButton = new int[] {
 					16842766,
-					2130903131,
 					2130903132,
-					2130903154,
+					2130903133,
+					2130903155,
 					2130903394,
 					2130903408,
 					2130903438,
@@ -30703,9 +25510,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int FloatingActionButton_backgroundTintMode = 2;
 			
-			// aapt resource value: { 0x7F030064 }
+			// aapt resource value: { 0x7F030065 }
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
-					2130903140};
+					2130903141};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
@@ -30940,11 +25747,11 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int GradientColor_android_type = 2;
 			
-			// aapt resource value: { 0x7F03003F,0x7F03006F,0x7F030083,0x7F03010D,0x7F030121,0x7F0301DF,0x7F0301E0,0x7F0301E1,0x7F0301E2,0x7F0302DC,0x7F03032B,0x7F03032C,0x7F03032D,0x7F030427 }
+			// aapt resource value: { 0x7F030040,0x7F030070,0x7F030084,0x7F03010D,0x7F030121,0x7F0301DF,0x7F0301E0,0x7F0301E1,0x7F0301E2,0x7F0302DC,0x7F03032B,0x7F03032C,0x7F03032D,0x7F030427 }
 			public static int[] ImageFilterView = new int[] {
-					2130903103,
-					2130903151,
-					2130903171,
+					2130903104,
+					2130903152,
+					2130903172,
 					2130903309,
 					2130903329,
 					2130903519,
@@ -31025,9 +25832,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 3
 			public const int Insets_paddingTopSystemWindowInsets = 3;
 			
-			// aapt resource value: { 0x7F0300DE }
+			// aapt resource value: { 0x7F0300DF }
 			public static int[] ItemsViewRendererTheme = new int[] {
-					2130903262};
+					2130903263};
 			
 			// aapt resource value: 0
 			public const int ItemsViewRendererTheme_collectionViewStyle = 0;
@@ -31403,7 +26210,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 12
 			public const int KeyTrigger_viewTransitionOnPositiveCross = 12;
 			
-			// aapt resource value: { 0x10100C4,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x10103B5,0x10103B6,0x7F030061,0x7F030062,0x7F030063,0x7F0300A3,0x7F0300FA,0x7F0300FB,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D,0x7F03021E,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030223,0x7F030224,0x7F030225,0x7F030226,0x7F030227,0x7F030228,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022C,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030258,0x7F030290,0x7F030294,0x7F03029B,0x7F03029F }
+			// aapt resource value: { 0x10100C4,0x10100F4,0x10100F5,0x10100F7,0x10100F8,0x10100F9,0x10100FA,0x10103B5,0x10103B6,0x7F030062,0x7F030063,0x7F030064,0x7F0300A4,0x7F0300FA,0x7F0300FB,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D,0x7F03021E,0x7F03021F,0x7F030220,0x7F030221,0x7F030222,0x7F030223,0x7F030224,0x7F030225,0x7F030226,0x7F030227,0x7F030228,0x7F030229,0x7F03022A,0x7F03022B,0x7F03022C,0x7F03022D,0x7F03022E,0x7F03022F,0x7F030230,0x7F030231,0x7F030232,0x7F030233,0x7F030234,0x7F030235,0x7F030236,0x7F030237,0x7F030238,0x7F030239,0x7F03023A,0x7F03023B,0x7F03023D,0x7F03023E,0x7F03023F,0x7F030240,0x7F030241,0x7F030242,0x7F030243,0x7F030244,0x7F030245,0x7F030246,0x7F030247,0x7F030249,0x7F03024A,0x7F03024B,0x7F03024C,0x7F03024D,0x7F03024E,0x7F03024F,0x7F030250,0x7F030251,0x7F030254,0x7F030258,0x7F030290,0x7F030294,0x7F03029B,0x7F03029F }
 			public static int[] Layout = new int[] {
 					16842948,
 					16842996,
@@ -31414,10 +26221,10 @@ namespace AutoAppo_StevenVR.Droid
 					16843002,
 					16843701,
 					16843702,
-					2130903137,
 					2130903138,
 					2130903139,
-					2130903203,
+					2130903140,
+					2130903204,
 					2130903290,
 					2130903291,
 					2130903578,
@@ -31809,12 +26616,12 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 4
 			public const int ListPreference_useSimpleSummaryProvider = 4;
 			
-			// aapt resource value: { 0x7F030054,0x7F030055,0x7F030056,0x7F030057 }
+			// aapt resource value: { 0x7F030055,0x7F030056,0x7F030057,0x7F030058 }
 			public static int[] MaterialAlertDialog = new int[] {
-					2130903124,
 					2130903125,
 					2130903126,
-					2130903127};
+					2130903127,
+					2130903128};
 			
 			// aapt resource value: { 0x7F030270,0x7F030271,0x7F030272,0x7F030273,0x7F030274 }
 			public static int[] MaterialAlertDialogTheme = new int[] {
@@ -31858,7 +26665,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int MaterialAutoCompleteTextView_android_inputType = 0;
 			
-			// aapt resource value: { 0x10100D4,0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x10101E5,0x7F03005B,0x7F03005C,0x7F030115,0x7F030162,0x7F0301D2,0x7F0301D4,0x7F0301D5,0x7F0301D6,0x7F0301D9,0x7F0301DA,0x7F030329,0x7F03033F,0x7F030342,0x7F030375,0x7F030376 }
+			// aapt resource value: { 0x10100D4,0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x10101E5,0x7F03005C,0x7F03005D,0x7F030115,0x7F030162,0x7F0301D2,0x7F0301D4,0x7F0301D5,0x7F0301D6,0x7F0301D9,0x7F0301DA,0x7F030329,0x7F03033F,0x7F030342,0x7F030375,0x7F030376 }
 			public static int[] MaterialButton = new int[] {
 					16842964,
 					16843191,
@@ -31866,8 +26673,8 @@ namespace AutoAppo_StevenVR.Droid
 					16843193,
 					16843194,
 					16843237,
-					2130903131,
 					2130903132,
+					2130903133,
 					2130903317,
 					2130903394,
 					2130903506,
@@ -31882,9 +26689,9 @@ namespace AutoAppo_StevenVR.Droid
 					2130903925,
 					2130903926};
 			
-			// aapt resource value: { 0x7F0300A6,0x7F03033C,0x7F030353 }
+			// aapt resource value: { 0x7F0300A7,0x7F03033C,0x7F030353 }
 			public static int[] MaterialButtonToggleGroup = new int[] {
-					2130903206,
+					2130903207,
 					2130903868,
 					2130903891};
 			
@@ -32046,14 +26853,14 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 9
 			public const int MaterialCalendar_yearTodayStyle = 9;
 			
-			// aapt resource value: { 0x10101E5,0x7F030094,0x7F0300A8,0x7F0300AA,0x7F0300AB,0x7F0300AC,0x7F030329,0x7F03033F,0x7F030342,0x7F03036F,0x7F030375,0x7F030376 }
+			// aapt resource value: { 0x10101E5,0x7F030095,0x7F0300A9,0x7F0300AB,0x7F0300AC,0x7F0300AD,0x7F030329,0x7F03033F,0x7F030342,0x7F03036F,0x7F030375,0x7F030376 }
 			public static int[] MaterialCardView = new int[] {
 					16843237,
-					2130903188,
-					2130903208,
-					2130903210,
+					2130903189,
+					2130903209,
 					2130903211,
 					2130903212,
+					2130903213,
 					2130903849,
 					2130903871,
 					2130903874,
@@ -32097,9 +26904,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 11
 			public const int MaterialCardView_strokeWidth = 11;
 			
-			// aapt resource value: { 0x7F03008F,0x7F03041C }
+			// aapt resource value: { 0x7F030090,0x7F03041C }
 			public static int[] MaterialCheckBox = new int[] {
-					2130903183,
+					2130903184,
 					2130904092};
 			
 			// aapt resource value: 0
@@ -32108,9 +26915,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int MaterialCheckBox_useMaterialThemeColors = 1;
 			
-			// aapt resource value: { 0x7F03008F,0x7F03041C }
+			// aapt resource value: { 0x7F030090,0x7F03041C }
 			public static int[] MaterialRadioButton = new int[] {
-					2130903183,
+					2130903184,
 					2130904092};
 			
 			// aapt resource value: 0
@@ -32160,9 +26967,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int MaterialTextView_lineHeight = 2;
 			
-			// aapt resource value: { 0x7F0300CE,0x7F03020A }
+			// aapt resource value: { 0x7F0300CF,0x7F03020A }
 			public static int[] MaterialTimePicker = new int[] {
-					2130903246,
+					2130903247,
 					2130903562};
 			
 			// aapt resource value: 0
@@ -32213,7 +27020,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int MenuGroup_android_visible = 2;
 			
-			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F030010,0x7F030024,0x7F030026,0x7F03003E,0x7F0300FE,0x7F0301D9,0x7F0301DA,0x7F0302D1,0x7F030347,0x7F030401 }
+			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F030011,0x7F030025,0x7F030027,0x7F03003F,0x7F0300FE,0x7F0301D9,0x7F0301DA,0x7F0302D1,0x7F030347,0x7F030401 }
 			public static int[] MenuItem = new int[] {
 					16842754,
 					16842766,
@@ -32228,10 +27035,10 @@ namespace AutoAppo_StevenVR.Droid
 					16843236,
 					16843237,
 					16843375,
-					2130903056,
-					2130903076,
-					2130903078,
-					2130903102,
+					2130903057,
+					2130903077,
+					2130903079,
+					2130903103,
 					2130903294,
 					2130903513,
 					2130903514,
@@ -32374,10 +27181,10 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 5
 			public const int MockView_mock_showLabel = 5;
 			
-			// aapt resource value: { 0x7F030040,0x7F030041,0x7F03014E,0x7F0302BC,0x7F0302BE,0x7F0302ED,0x7F030314,0x7F030315,0x7F030316,0x7F030410 }
+			// aapt resource value: { 0x7F030041,0x7F030042,0x7F03014E,0x7F0302BC,0x7F0302BE,0x7F0302ED,0x7F030314,0x7F030315,0x7F030316,0x7F030410 }
 			public static int[] Motion = new int[] {
-					2130903104,
 					2130903105,
+					2130903106,
 					2130903374,
 					2130903740,
 					2130903742,
@@ -32433,7 +27240,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int MotionHelper_onShow = 1;
 			
-			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x10100AF,0x101014F,0x1010164,0x10103AC,0x1010535,0x7F030070,0x7F030071,0x7F03032E,0x7F0303C5,0x7F0303C6,0x7F0303C7,0x7F0303C8,0x7F0303C9,0x7F0303D1,0x7F0303D2,0x7F0303D3,0x7F0303D4,0x7F0303D6,0x7F0303D7,0x7F0303D8,0x7F0303D9 }
+			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x10100AF,0x101014F,0x1010164,0x10103AC,0x1010535,0x7F030071,0x7F030072,0x7F03032E,0x7F0303C5,0x7F0303C6,0x7F0303C7,0x7F0303C8,0x7F0303C9,0x7F0303D1,0x7F0303D2,0x7F0303D3,0x7F0303D4,0x7F0303D6,0x7F0303D7,0x7F0303D8,0x7F0303D9 }
 			public static int[] MotionLabel = new int[] {
 					16842901,
 					16842902,
@@ -32444,8 +27251,8 @@ namespace AutoAppo_StevenVR.Droid
 					16843108,
 					16843692,
 					16844085,
-					2130903152,
 					2130903153,
+					2130903154,
 					2130903854,
 					2130904005,
 					2130904006,
@@ -32536,9 +27343,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 24
 			public const int MotionLabel_textureWidth = 24;
 			
-			// aapt resource value: { 0x7F030044,0x7F030122,0x7F030212,0x7F0302A6,0x7F0302BD,0x7F03034B }
+			// aapt resource value: { 0x7F030045,0x7F030122,0x7F030212,0x7F0302A6,0x7F0302BD,0x7F03034B }
 			public static int[] MotionLayout = new int[] {
-					2130903108,
+					2130903109,
 					2130903330,
 					2130903570,
 					2130903718,
@@ -32677,11 +27484,11 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 8
 			public const int NavAction_popUpToInclusive = 8;
 			
-			// aapt resource value: { 0x1010003,0x10101ED,0x7F030046,0x7F0302CF }
+			// aapt resource value: { 0x1010003,0x10101ED,0x7F030047,0x7F0302CF }
 			public static int[] NavArgument = new int[] {
 					16842755,
 					16843245,
-					2130903110,
+					2130903111,
 					2130903759};
 			
 			// aapt resource value: 1
@@ -32696,10 +27503,10 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 3
 			public const int NavArgument_nullable = 3;
 			
-			// aapt resource value: { 0x10104EE,0x7F030002,0x7F030299,0x7F03041A }
+			// aapt resource value: { 0x10104EE,0x7F030003,0x7F030299,0x7F03041A }
 			public static int[] NavDeepLink = new int[] {
 					16844014,
-					2130903042,
+					2130903043,
 					2130903705,
 					2130904090};
 			
@@ -32729,9 +27536,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int NavHost_navGraph = 0;
 			
-			// aapt resource value: { 0x7F03005B,0x7F030162,0x7F0301F0,0x7F0301F5,0x7F0301F6,0x7F0301F9,0x7F030205,0x7F030206,0x7F030207,0x7F03020E,0x7F030296 }
+			// aapt resource value: { 0x7F03005C,0x7F030162,0x7F0301F0,0x7F0301F5,0x7F0301F6,0x7F0301F9,0x7F030205,0x7F030206,0x7F030207,0x7F03020E,0x7F030296 }
 			public static int[] NavigationBarView = new int[] {
-					2130903131,
+					2130903132,
 					2130903394,
 					2130903536,
 					2130903541,
@@ -32900,9 +27707,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int NavInclude_graph = 0;
 			
-			// aapt resource value: { 0x7F0300CB,0x7F0303A9 }
+			// aapt resource value: { 0x7F0300CC,0x7F0303A9 }
 			public static int[] OnClick = new int[] {
-					2130903243,
+					2130903244,
 					2130903977};
 			
 			// aapt resource value: 0
@@ -32911,9 +27718,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int OnClick_targetId = 1;
 			
-			// aapt resource value: { 0x7F03004A,0x7F03014B,0x7F03014C,0x7F03014D,0x7F03025B,0x7F03028C,0x7F030293,0x7F0302C2,0x7F0302CC,0x7F0302D8,0x7F03032A,0x7F03035E,0x7F03035F,0x7F030360,0x7F030361,0x7F030362,0x7F030402,0x7F030403,0x7F030404 }
+			// aapt resource value: { 0x7F03004B,0x7F03014B,0x7F03014C,0x7F03014D,0x7F03025B,0x7F03028C,0x7F030293,0x7F0302C2,0x7F0302CC,0x7F0302D8,0x7F03032A,0x7F03035E,0x7F03035F,0x7F030360,0x7F030361,0x7F030362,0x7F030402,0x7F030403,0x7F030404 }
 			public static int[] OnSwipe = new int[] {
-					2130903114,
+					2130903115,
 					2130903371,
 					2130903372,
 					2130903373,
@@ -33012,7 +27819,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
-			// aapt resource value: { 0x1010002,0x101000D,0x101000E,0x10100F2,0x10101E1,0x10101E6,0x10101E8,0x10101E9,0x10101EA,0x10101EB,0x10101EC,0x10101ED,0x10101EE,0x10102E3,0x101055C,0x1010561,0x7F030039,0x7F03003B,0x7F030137,0x7F03013A,0x7F030165,0x7F030167,0x7F0301B8,0x7F0301D2,0x7F0301D7,0x7F0301EF,0x7F030208,0x7F030211,0x7F0302D9,0x7F0302F4,0x7F030339,0x7F030345,0x7F030352,0x7F030382,0x7F0303EE,0x7F03042E }
+			// aapt resource value: { 0x1010002,0x101000D,0x101000E,0x10100F2,0x10101E1,0x10101E6,0x10101E8,0x10101E9,0x10101EA,0x10101EB,0x10101EC,0x10101ED,0x10101EE,0x10102E3,0x101055C,0x1010561,0x7F03003A,0x7F03003C,0x7F030137,0x7F03013A,0x7F030165,0x7F030167,0x7F0301B8,0x7F0301D2,0x7F0301D7,0x7F0301EF,0x7F030208,0x7F030211,0x7F0302D9,0x7F0302F4,0x7F030339,0x7F030345,0x7F030352,0x7F030382,0x7F0303EE,0x7F03042E }
 			public static int[] Preference = new int[] {
 					16842754,
 					16842765,
@@ -33030,8 +27837,8 @@ namespace AutoAppo_StevenVR.Droid
 					16843491,
 					16844124,
 					16844129,
-					2130903097,
-					2130903099,
+					2130903098,
+					2130903100,
 					2130903351,
 					2130903354,
 					2130903397,
@@ -33051,19 +27858,19 @@ namespace AutoAppo_StevenVR.Droid
 					2130904046,
 					2130904110};
 			
-			// aapt resource value: { 0x10100F2,0x1010129,0x101012A,0x7F03003A }
+			// aapt resource value: { 0x10100F2,0x1010129,0x101012A,0x7F03003B }
 			public static int[] PreferenceFragment = new int[] {
 					16842994,
 					16843049,
 					16843050,
-					2130903098};
+					2130903099};
 			
-			// aapt resource value: { 0x10100F2,0x1010129,0x101012A,0x7F03003A }
+			// aapt resource value: { 0x10100F2,0x1010129,0x101012A,0x7F03003B }
 			public static int[] PreferenceFragmentCompat = new int[] {
 					16842994,
 					16843049,
 					16843050,
-					2130903098};
+					2130903099};
 			
 			// aapt resource value: 3
 			public const int PreferenceFragmentCompat_allowDividerAfterLastItem = 3;
@@ -33123,9 +27930,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 3
 			public const int PreferenceImageView_maxWidth = 3;
 			
-			// aapt resource value: { 0x7F0300A4,0x7F030141,0x7F03015C,0x7F030160,0x7F030304,0x7F030305,0x7F030306,0x7F030307,0x7F030308,0x7F030309,0x7F03030A,0x7F03030B,0x7F03030C,0x7F030337,0x7F030388,0x7F030389 }
+			// aapt resource value: { 0x7F0300A5,0x7F030141,0x7F03015C,0x7F030160,0x7F030304,0x7F030305,0x7F030306,0x7F030307,0x7F030308,0x7F030309,0x7F03030A,0x7F03030B,0x7F03030C,0x7F030337,0x7F030388,0x7F030389 }
 			public static int[] PreferenceTheme = new int[] {
-					2130903204,
+					2130903205,
 					2130903361,
 					2130903388,
 					2130903392,
@@ -33298,9 +28105,8 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 35
 			public const int Preference_widgetLayout = 35;
 			
-			// aapt resource value: { 0x7F030029,0x7F03002A,0x7F03002B,0x7F03002C,0x7F03002D,0x7F03002E,0x7F03002F,0x7F030030,0x7F030031,0x7F030032,0x7F030033,0x7F030034 }
+			// aapt resource value: { 0x7F03002A,0x7F03002B,0x7F03002C,0x7F03002D,0x7F03002E,0x7F03002F,0x7F030030,0x7F030031,0x7F030032,0x7F030033,0x7F030034,0x7F030035 }
 			public static int[] ProgressWheel = new int[] {
-					2130903081,
 					2130903082,
 					2130903083,
 					2130903084,
@@ -33311,7 +28117,8 @@ namespace AutoAppo_StevenVR.Droid
 					2130903089,
 					2130903090,
 					2130903091,
-					2130903092};
+					2130903092,
+					2130903093};
 			
 			// aapt resource value: 0
 			public const int ProgressWheel_ahBarColor = 0;
@@ -33459,9 +28266,9 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int ScrimInsetsFrameLayout_insetForeground = 0;
 			
-			// aapt resource value: { 0x7F03006B }
+			// aapt resource value: { 0x7F03006C }
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
-					2130903147};
+					2130903148};
 			
 			// aapt resource value: 0
 			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
@@ -33473,14 +28280,14 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int ScrollViewRendererTheme_scrollViewStyle = 0;
 			
-			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F0300D0,0x7F0300F5,0x7F030135,0x7F0301BC,0x7F0301DB,0x7F030211,0x7F030317,0x7F030318,0x7F030333,0x7F030334,0x7F030378,0x7F030381,0x7F030426 }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F0300D1,0x7F0300F6,0x7F030135,0x7F0301BC,0x7F0301DB,0x7F030211,0x7F030317,0x7F030318,0x7F030333,0x7F030334,0x7F030378,0x7F030381,0x7F030426 }
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843039,
 					16843296,
 					16843364,
-					2130903248,
-					2130903285,
+					2130903249,
+					2130903286,
 					2130903349,
 					2130903484,
 					2130903515,
@@ -33544,11 +28351,11 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 16
 			public const int SearchView_voiceIcon = 16;
 			
-			// aapt resource value: { 0x10100F2,0x1010136,0x7F030028,0x7F03029A,0x7F030336,0x7F03034C,0x7F030419 }
+			// aapt resource value: { 0x10100F2,0x1010136,0x7F030029,0x7F03029A,0x7F030336,0x7F03034C,0x7F030419 }
 			public static int[] SeekBarPreference = new int[] {
 					16842994,
 					16843062,
-					2130903080,
+					2130903081,
 					2130903706,
 					2130903862,
 					2130903884,
@@ -33762,14 +28569,14 @@ namespace AutoAppo_StevenVR.Droid
 					2130903895,
 					2130903896};
 			
-			// aapt resource value: { 0x101011F,0x7F030025,0x7F030042,0x7F030058,0x7F03005B,0x7F03005C,0x7F030162,0x7F03028D }
+			// aapt resource value: { 0x101011F,0x7F030026,0x7F030043,0x7F030059,0x7F03005C,0x7F03005D,0x7F030162,0x7F03028D }
 			public static int[] SnackbarLayout = new int[] {
 					16843039,
-					2130903077,
-					2130903106,
-					2130903128,
-					2130903131,
+					2130903078,
+					2130903107,
+					2130903129,
 					2130903132,
+					2130903133,
 					2130903394,
 					2130903693};
 			
@@ -34229,7 +29036,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 15
 			public const int TextAppearance_textLocale = 15;
 			
-			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x101014F,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F030070,0x7F030071,0x7F0303CD,0x7F0303D1,0x7F0303D2 }
+			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x101014F,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F030071,0x7F030072,0x7F0303CD,0x7F0303D1,0x7F0303D2 }
 			public static int[] TextEffects = new int[] {
 					16842901,
 					16842902,
@@ -34240,8 +29047,8 @@ namespace AutoAppo_StevenVR.Droid
 					16843107,
 					16843108,
 					16843692,
-					2130903152,
 					2130903153,
+					2130903154,
 					2130904013,
 					2130904017,
 					2130904018};
@@ -34295,14 +29102,13 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 0
 			public const int TextInputEditText_textInputLayoutFocusedRectEnabled = 0;
 			
-			// aapt resource value: { 0x101000E,0x101009A,0x101011F,0x101013F,0x1010150,0x7F030078,0x7F030079,0x7F03007A,0x7F03007B,0x7F03007C,0x7F03007D,0x7F03007E,0x7F03007F,0x7F030080,0x7F030081,0x7F030082,0x7F03011B,0x7F03011C,0x7F03011D,0x7F03011E,0x7F03011F,0x7F030120,0x7F030168,0x7F030169,0x7F03016A,0x7F03016B,0x7F03016C,0x7F03016D,0x7F030174,0x7F030175,0x7F030176,0x7F030177,0x7F030178,0x7F030179,0x7F03017A,0x7F03017E,0x7F0301C2,0x7F0301C3,0x7F0301C4,0x7F0301C5,0x7F0301CA,0x7F0301CB,0x7F0301CC,0x7F0301CD,0x7F0302E8,0x7F0302E9,0x7F0302EA,0x7F0302EB,0x7F0302EC,0x7F0302F6,0x7F0302F7,0x7F0302F8,0x7F03030D,0x7F03030E,0x7F03030F,0x7F03033F,0x7F030342,0x7F030367,0x7F030368,0x7F030369,0x7F03036A,0x7F03036B,0x7F03037E,0x7F03037F,0x7F030380 }
+			// aapt resource value: { 0x101000E,0x101009A,0x101011F,0x101013F,0x1010150,0x7F030079,0x7F03007A,0x7F03007B,0x7F03007C,0x7F03007D,0x7F03007E,0x7F03007F,0x7F030080,0x7F030081,0x7F030082,0x7F030083,0x7F03011B,0x7F03011C,0x7F03011D,0x7F03011E,0x7F03011F,0x7F030120,0x7F030168,0x7F030169,0x7F03016A,0x7F03016B,0x7F03016C,0x7F03016D,0x7F030174,0x7F030175,0x7F030176,0x7F030177,0x7F030178,0x7F030179,0x7F03017A,0x7F03017E,0x7F0301C2,0x7F0301C3,0x7F0301C4,0x7F0301C5,0x7F0301CA,0x7F0301CB,0x7F0301CC,0x7F0301CD,0x7F0302E8,0x7F0302E9,0x7F0302EA,0x7F0302EB,0x7F0302EC,0x7F0302F6,0x7F0302F7,0x7F0302F8,0x7F03030D,0x7F03030E,0x7F03030F,0x7F03033F,0x7F030342,0x7F030367,0x7F030368,0x7F030369,0x7F03036A,0x7F03036B,0x7F03037E,0x7F03037F,0x7F030380 }
 			public static int[] TextInputLayout = new int[] {
 					16842766,
 					16842906,
 					16843039,
 					16843071,
 					16843088,
-					2130903160,
 					2130903161,
 					2130903162,
 					2130903163,
@@ -34313,6 +29119,7 @@ namespace AutoAppo_StevenVR.Droid
 					2130903168,
 					2130903169,
 					2130903170,
+					2130903171,
 					2130903323,
 					2130903324,
 					2130903325,
@@ -34573,13 +29380,13 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 2
 			public const int ThemeEnforcement_enforceTextAppearance = 2;
 			
-			// aapt resource value: { 0x10100AF,0x1010140,0x7F03008A,0x7F0300D8,0x7F0300D9,0x7F0300FF,0x7F030100,0x7F030101,0x7F030102,0x7F030103,0x7F030104,0x7F03026E,0x7F03026F,0x7F03028E,0x7F030296,0x7F0302C5,0x7F0302C6,0x7F030301,0x7F030379,0x7F03037B,0x7F03037C,0x7F0303EE,0x7F0303F2,0x7F0303F3,0x7F0303F4,0x7F0303F5,0x7F0303F6,0x7F0303F7,0x7F0303F8,0x7F0303F9 }
+			// aapt resource value: { 0x10100AF,0x1010140,0x7F03008B,0x7F0300D9,0x7F0300DA,0x7F0300FF,0x7F030100,0x7F030101,0x7F030102,0x7F030103,0x7F030104,0x7F03026E,0x7F03026F,0x7F03028E,0x7F030296,0x7F0302C5,0x7F0302C6,0x7F030301,0x7F030379,0x7F03037B,0x7F03037C,0x7F0303EE,0x7F0303F2,0x7F0303F3,0x7F0303F4,0x7F0303F5,0x7F0303F6,0x7F0303F7,0x7F0303F8,0x7F0303F9 }
 			public static int[] Toolbar = new int[] {
 					16842927,
 					16843072,
-					2130903178,
-					2130903256,
+					2130903179,
 					2130903257,
+					2130903258,
 					2130903295,
 					2130903296,
 					2130903297,
@@ -34696,7 +29503,7 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 29
 			public const int Toolbar_titleTextColor = 29;
 			
-			// aapt resource value: { 0x1010034,0x10100D5,0x10100F6,0x101013F,0x1010140,0x101014F,0x7F03005B }
+			// aapt resource value: { 0x1010034,0x10100D5,0x10100F6,0x101013F,0x1010140,0x101014F,0x7F03005C }
 			public static int[] Tooltip = new int[] {
 					16842804,
 					16842965,
@@ -34704,7 +29511,7 @@ namespace AutoAppo_StevenVR.Droid
 					16843071,
 					16843072,
 					16843087,
-					2130903131};
+					2130903132};
 			
 			// aapt resource value: 2
 			public const int Tooltip_android_layout_margin = 2;
@@ -34778,10 +29585,10 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 11
 			public const int Transform_transformPivotTarget = 11;
 			
-			// aapt resource value: { 0x10100D0,0x7F030051,0x7F0300F8,0x7F0300F9,0x7F03015D,0x7F030213,0x7F0302BA,0x7F0302ED,0x7F030365,0x7F03040F,0x7F030411 }
+			// aapt resource value: { 0x10100D0,0x7F030052,0x7F0300F8,0x7F0300F9,0x7F03015D,0x7F030213,0x7F0302BA,0x7F0302ED,0x7F030365,0x7F03040F,0x7F030411 }
 			public static int[] Transition = new int[] {
 					16842960,
-					2130903121,
+					2130903122,
 					2130903288,
 					2130903289,
 					2130903389,
@@ -34856,11 +29663,11 @@ namespace AutoAppo_StevenVR.Droid
 					2130903778,
 					2130904026};
 			
-			// aapt resource value: { 0x10100D4,0x7F03005B,0x7F03005C }
+			// aapt resource value: { 0x10100D4,0x7F03005C,0x7F03005D }
 			public static int[] ViewBackgroundHelper = new int[] {
 					16842964,
-					2130903131,
-					2130903132};
+					2130903132,
+					2130903133};
 			
 			// aapt resource value: 0
 			public const int ViewBackgroundHelper_android_background = 0;
@@ -34893,12 +29700,12 @@ namespace AutoAppo_StevenVR.Droid
 			// aapt resource value: 1
 			public const int ViewStubCompat_android_layout = 1;
 			
-			// aapt resource value: { 0x10100D0,0x7F030000,0x7F030001,0x7F0300CA,0x7F03015D,0x7F0301DC,0x7F0301DD,0x7F0302BA,0x7F0302BF,0x7F0302D7,0x7F0302ED,0x7F03033E,0x7F03040F,0x7F030418,0x7F030421 }
+			// aapt resource value: { 0x10100D0,0x7F030001,0x7F030002,0x7F0300CB,0x7F03015D,0x7F0301DC,0x7F0301DD,0x7F0302BA,0x7F0302BF,0x7F0302D7,0x7F0302ED,0x7F03033E,0x7F03040F,0x7F030418,0x7F030421 }
 			public static int[] ViewTransition = new int[] {
 					16842960,
-					2130903040,
 					2130903041,
-					2130903242,
+					2130903042,
+					2130903243,
 					2130903389,
 					2130903516,
 					2130903517,

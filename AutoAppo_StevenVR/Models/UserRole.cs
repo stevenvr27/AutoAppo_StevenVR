@@ -15,22 +15,18 @@ namespace AutoAppo_StevenVR.Models
         public int UserRoleId { get; set; }
         public string UserRoleDescription { get; set; }
 
-        //funciones
-
         public async Task<List<UserRole>> GetAllUserRoleList()
         {
             try
             {
                 string RouteSufix = string.Format("UserRoles");
 
-                //con esto obtenemos la ruta completa de consumo del API 
+            
                 string URL = Services.APIConnection.ProductionURLPrefix + RouteSufix;
 
                 RestClient client = new RestClient(URL);
 
-                Request = new RestRequest(URL, Method.Get);
-
-                //agregamos la info de la llave de seguridad (ApiKey) 
+                Request = new RestRequest(URL, Method.Get); 
                 Request.AddHeader(Services.APIConnection.ApiKeyName, Services.APIConnection.ApiKeyValue);
                 Request.AddHeader(GlobalObjects.ContentType, GlobalObjects.MimeType);
 

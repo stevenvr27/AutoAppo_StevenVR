@@ -14,16 +14,13 @@ namespace AutoAppo_StevenVR.Views
     public partial class PasswordRecoveryPage : ContentPage
     {
         UserViewModel viewModel;
-
         public PasswordRecoveryPage()
         {
             InitializeComponent();
-            BindingContext = viewModel = new UserViewModel();
         }
 
         private async void BtnSendRecoveryCode_Clicked(object sender, EventArgs e)
         {
-
             if (!string.IsNullOrEmpty(TxtEmail.Text.Trim()))
             {
 
@@ -37,7 +34,6 @@ namespace AutoAppo_StevenVR.Views
                 }
 
             }
-
         }
     }
 }

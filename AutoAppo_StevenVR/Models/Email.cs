@@ -21,10 +21,7 @@ namespace AutoAppo_StevenVR.Models
                     !string.IsNullOrEmpty(Message))
                 {
                     System.Net.Mail.MailMessage email = new System.Net.Mail.MailMessage();
-
-                    //TODO: crear email valido para enviar los correo 
-                    //progra6umcacr@gmail.com ; txkzosgwwhipzjpr
-
+ 
                     email.From = new System.Net.Mail.MailAddress("progra6umcacr@gmail.com");
 
                     email.Subject = Subject;
@@ -58,8 +55,5 @@ namespace AutoAppo_StevenVR.Models
             return R;
 
         }
-
-
-
     }
 }

@@ -24,25 +24,21 @@ namespace AutoAppo_StevenVR.Models
         public string EstadoDescripcion { get; set; } = null;
         public string RolDescripcion { get; set; } = null;
 
-        //FUNCIONES
         public async Task<UserDTO> GetUserData(string email)
         {
             try
             {
                 string RouteSufix = string.Format("Users/GetUserData?email={0}", email);
-
-                //con esto obtenemos la ruta completa de consumo del API 
+                 
                 string URL = Services.APIConnection.ProductionURLPrefix + RouteSufix;
 
                 RestClient client = new RestClient(URL);
 
                 Request = new RestRequest(URL, Method.Get);
-
-                //agregamos la info de la llave de seguridad (ApiKey) 
+                 
                 Request.AddHeader(Services.APIConnection.ApiKeyName, Services.APIConnection.ApiKeyValue);
                 Request.AddHeader(GlobalObjects.ContentType, GlobalObjects.MimeType);
-
-                //ejecución de la llamada al controlador 
+                 
                 RestResponse response = await client.ExecuteAsync(Request);
 
                 HttpStatusCode statusCode = response.StatusCode;
@@ -64,12 +60,59 @@ namespace AutoAppo_StevenVR.Models
             catch (Exception ex)
             {
                 string ErrorMsg = ex.Message;
-                 
 
                 throw;
             }
 
         }
+
+
+        public async Task<bool> UpdateUser()
+        {
+            try
+            {
+
+                string RouteSufix = string.Format("Users/{0}", this.IDUsuario);
+
+                string URL = Services.APIConnection.ProductionURLPrefix + RouteSufix;
+
+                RestClient client = new RestClient(URL);
+
+                Request = new RestRequest(URL, Method.Put);
+
+           
+                Request.AddHeader(Services.APIConnection.ApiKeyName, Services.APIConnection.ApiKeyValue);
+                Request.AddHeader(GlobalObjects.ContentType, GlobalObjects.MimeType);
+
+                string SerializedModel = JsonConvert.SerializeObject(this);
+
+                Request.AddBody(SerializedModel, GlobalObjects.MimeType);
+
+                RestResponse response = await client.ExecuteAsync(Request);
+
+                HttpStatusCode statusCode = response.StatusCode;
+
+                if (statusCode == HttpStatusCode.OK)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                string ErrorMsg = ex.Message;
+                throw;
+            }
+
+        }
+
+
+
+
 
 
 

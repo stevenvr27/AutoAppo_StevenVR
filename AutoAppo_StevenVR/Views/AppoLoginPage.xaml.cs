@@ -18,20 +18,20 @@ namespace AutoAppo_StevenVR.Views
 
         public AppoLoginPage()
         {
-
             InitializeComponent();
 
             this.BindingContext = viewModel = new UserViewModel();
         }
+
         private async void Button_Clicked(object sender, EventArgs e)
         {
-           
+            //LOGIN
             bool R = false;
 
             if (TxtEmail.Text != null && !string.IsNullOrEmpty(TxtEmail.Text.Trim()) &&
                 TxtPassword.Text != null && !string.IsNullOrEmpty(TxtPassword.Text.Trim()))
             {
-                 
+                //si hay datos en el usuario y contraseña se puede continuar 
                 try
                 {
                     UserDialogs.Instance.ShowLoading("Cheking User Access...");
@@ -69,7 +69,7 @@ namespace AutoAppo_StevenVR.Views
 
                 GlobalObjects.LocalUser = await viewModel.GetUserData(TxtEmail.Text.Trim());
 
-                await Navigation.PushAsync(new OptionsPage());
+                await Navigation.PushAsync(new OptionPage());
 
                 return;
             }
@@ -106,5 +106,13 @@ namespace AutoAppo_StevenVR.Views
         {
             await Navigation.PushAsync(new PasswordRecoveryPage());
         }
+
+
+
+
+
+
+
+
     }
 }

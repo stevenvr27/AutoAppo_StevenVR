@@ -10,7 +10,7 @@ public static class APIConnection
         public static string TestingURLPrefix = "http://192.168.100.58:45455/api/";
 
         public static string ApiKeyName = "P6ApiKey";
-        public static string ApiKeyValue = "dsfsfsfdfsd*";
+        public static string ApiKeyValue = "hgvfjhas8976y32*";
 
     }
 }
